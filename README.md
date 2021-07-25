@@ -1,9 +1,9 @@
-# Awesome OSS Documentations [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome OSS Documentations  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of Open Source Documentations.
 
+### Contents
 
-## Table of Contents
 - [DeltaLake Open Source Documentations](#deltalake-open-source-documentations)
 - [Facebook Open Source Documentations](#facebook-open-source-documentations)
 - [Google Open Source Documentations](#google-open-source-documentations)
@@ -17,7 +17,6 @@
 - [Twitter Open Source Documentations](#twitter-open-source-documentations)
 - [Uber Open Source Documentations](#uber-open-source-documentations)
 
----
 
 ## DeltaLake Open Source Documentations
 
