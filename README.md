@@ -44,7 +44,7 @@
 
 <a name="linode-open-source-documentations"/>
 
-## LInode Open Source Documentations
+## Linode Open Source Documentations
 
 - [Linode Docs](https://www.linode.com/docs/) - Linode guides and tutorials.
 - [Terraform Linode provider Docs](https://www.terraform.io/docs/providers/linode/) - Terraform Linode provider.
