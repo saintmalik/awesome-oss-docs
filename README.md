@@ -2,7 +2,6 @@
 
 > A curated list of Open Source Documentations.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Table of Contents
 - [DeltaLake Open Source Documentations](#deltalake-open-source-documentations)
