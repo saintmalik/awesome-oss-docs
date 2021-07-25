@@ -17,6 +17,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [DeltaLake Open Source Documentations](#deltalake-open-source-documentations)
 - [Shopify Open Source Documentations](#shopify-open-source-documentations)
 - [Linode Open Source Documentations](#linode-open-source-documentations)
+- [Microsoft Open Source Documentations](#microsoft-open-source-documentations)
 
 ---
 
@@ -67,7 +68,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Nebula.gl Docs](https://nebula.gl/docs) - A suite of 3D-enabled data editing overlays, suitable for deck.gl
 - [Pyro Docs](https://docs.pyro.ai/en/stable/) - Pyro is a flexible, scalable deep probabilistic programming library built on PyTorch.
 - [Deck.gl Docs](https://deck.gl/docs ) - WebGL2 powered geospatial visualization layers
-- [Ludwig Docs](https://ludwig-ai.github.io/ludwig-docs/getting_started/ ) - A toolbox built on top of TensorFlow that allows to train and test deep learning models without writing code.
+- [Ludwig Docs](https://ludwig-ai.github.io/ludwig-docs/getting_started/) - A toolbox built on top of TensorFlow that allows to train and test deep learning models without writing code.
 - [Jaeger Tracing Docs](https://www.jaegertracing.io/docs/) - Base Web is a foundation for initiating, evolving, and unifying web products.. [Edit Jaeger Tracing Docs on Github](https://github.com/jaegertracing/documentation)
 
 ## DeltaLake Open Source Documentations
@@ -76,11 +77,28 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Shopify Open Source Documentations
 
-- [Draggable Docs](https://shopify.github.io/draggable/docs/ ) - The JavaScript Drag & Drop library your grandparents warned you about.
-- [FunctionalTableData Docs](https://shopify.github.io/FunctionalTableData/ ) -  Declarative UITableViewDataSource implementation, [Edit FunctionalTableData Docs on Github](https://github.com/Shopify/FunctionalTableData/tree/master/docs)
-- [Shopify Theme Kit Docs](https://shopify.dev/themes/tools/theme-kit ) - Shopify theme development command line tool.
+- [Draggable Docs](https://shopify.github.io/draggable/docs/) - The JavaScript Drag & Drop library your grandparents warned you about.
+- [FunctionalTableData Docs](https://shopify.github.io/FunctionalTableData/) -  Declarative UITableViewDataSource implementation, [Edit FunctionalTableData Docs on Github](https://github.com/Shopify/FunctionalTableData/tree/master/docs)
+- [Shopify Theme Kit Docs](https://shopify.dev/themes/tools/theme-kit) - Shopify theme development command line tool.
 
 ## LInode Open Source Documentations
 
 - [Linode Docs](https://www.linode.com/docs/) - Linode guides and tutorials.
 - [Terraform Linode provider Docs](https://www.terraform.io/docs/providers/linode/) - erraform Linode provider.
+
+## MIcrosoft Open Source Documentations
+
+- [Accessibility Insights for Web Docs](https://accessibilityinsights.io/docs/en/web/overview/) - Accessibility Insights for Web. [Edit on Github](https://github.com/microsoft/accessibility-insights-web/tree/main/docs)
+- [TypeScript Docs](https://www.typescriptlang.org/docs/) - TypeScript is an open-source and cross-platform language that builds on JavaScript by adding static types and type-checking.
+- [Visual Studio Code Docs](https://code.visualstudio.com/docs) - Visual Studio Code is a free, highly customizable code editor that is based on an open-source codebase and runs on Linux, macOS, and Windows. 
+- [Fluid Framework Docs](https://fluidframework.com/docs/) - Library for building distributed, real-time collaborative web applications.
+- [PWA Builder Docs](https://blog.pwabuilder.com/docs) - Helping developers build Progressive Web Apps (PWAs) and package them for app stores like Google Play, Microsoft Store, MacOS Store, and more.
+- [Project Mu Docs](https://microsoft.github.io/mu/) -  Project Mu is a modular adaptation of TianoCore's edk2 (UEFI BIOS reference) tuned for building modern devices using a scalable, maintainable, and reusable pattern.
+- [PowerShell Docs](https://docs.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.1) - PowerShell is a cross-platform task automation solution made up of a command-line shell, a scripting language, and a configuration management framework. PowerShell runs on Windows, Linux, and macOS.
+- [PlayWright Docs](https://playwright.dev/docs/intro/) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
+- [Microsoft Graph Engine Docs](https://www.graphengine.io/docs/manual/index.html) -  Microsoft Graph Engine.
+- [Fast Design Docs](https://www.fast.design/docs/introduction/) -  The adaptive interface system for modern web experiences.
+- [DeepSpeed Docs](https://deepspeed.readthedocs.io/en/latest/) - DeepSpeed is a deep learning optimization library that makes distributed training easy, efficient, and effective.
+- [Dapr  Docs](https://docs.dapr.io/) - Dapr user documentation, used to build docs.dapr.io.
+- [Accessibility Insights for Windows. Docs](https://accessibilityinsights.io/docs/en/windows/) - Accessibility Insights for Windows, [Edit on Github](https://github.com/microsoft/accessibility-insights-windows/tree/main/docs).
+
