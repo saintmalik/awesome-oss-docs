@@ -21,7 +21,7 @@
 
 <a name="amazon-open-source-documentations"/>
 
-## Amazo Open Source Documentations
+## Amazon Open Source Documentations
 
 - [OpenSearch Docs](https://opensearch.org/docs) - The documentation for OpenSearch, OpenSearch Dashboards, and their associated plugins, [Edit on GitHub](https://github.com/opensearch-project/documentation-website)
 - [Amplify JS Docs](https://docs.amplify.aws/lib/q/platform/js) - A declarative JavaScript library for application development using cloud services.
@@ -67,6 +67,7 @@
 ## HashiCorp Open Source Documentations
 
 - [Terraform Docs](https://www.terraform.io/docs/) - Terraform Linode provider.
+- [Vagrant Docs](https://www.vagrantup.com/docs) - Vagrant is a tool for building and distributing development environments.
 
 <a name="microsoft-open-source-documentations"/>
 
