@@ -56,12 +56,6 @@
 - [Adanet Docs](https://adanet.readthedocs.io/) - Fast and flexible AutoML with learning guarantees.
 - [TensorFlow Docs](https://www.tensorflow.org/tutorials) - An Open Source Machine Learning Framework for Everyone.
 
-<a name="linode-open-source-documentations"/>
-
-## Linode Open Source Documentations
-
-- [Linode Docs](https://www.linode.com/docs/) - Linode guides and tutorials.
-
 <a name="hashicorp-open-source-documentations"/>
 
 ## HashiCorp Open Source Documentations
@@ -70,6 +64,12 @@
 - [Vagrant Docs](https://www.vagrantup.com/docs) - Vagrant is a tool for building and distributing development environments.
 - [Waypoint Docs](https://www.waypointproject.io/docs) - A tool to build, deploy, and release any application on any platform.
 - [VaultProject Docs](https://www.vaultproject.io/docs) - A tool for secrets management, encryption as a service, and privileged access management.
+
+<a name="linode-open-source-documentations"/>
+
+## Linode Open Source Documentations
+
+- [Linode Docs](https://www.linode.com/docs/) - Linode guides and tutorials.
 
 <a name="microsoft-open-source-documentations"/>
 
