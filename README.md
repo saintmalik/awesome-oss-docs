@@ -68,7 +68,7 @@
 
 - [Terraform Docs](https://www.terraform.io/docs/) - Terraform Linode provider.
 - [Vagrant Docs](https://www.vagrantup.com/docs) - Vagrant is a tool for building and distributing development environments.
-- [Waypoi Docs](https://www.waypointproject.io/docs) - A tool to build, deploy, and release any application on any platform.
+- [Waypoint Docs](https://www.waypointproject.io/docs) - A tool to build, deploy, and release any application on any platform.
 
 <a name="microsoft-open-source-documentations"/>
 
@@ -86,7 +86,7 @@
 - [Fast Design Docs](https://www.fast.design/docs/introduction/) -  The adaptive interface system for modern web experiences.
 - [DeepSpeed Docs](https://deepspeed.readthedocs.io/en/latest/) - DeepSpeed is a deep learning optimization library that makes distributed training easy, efficient, and effective.
 - [Dapr  Docs](https://docs.dapr.io/) - Dapr user documentation, used to build docs.dapr.io.
-- [Accessibility Insights for Windows. Docs](https://accessibilityinsights.io/docs/en/windows/) - Accessibility Insights for Windows, [Edit on GitHub](https://github.com/microsoft/accessibility-insights-windows/tree/main/docs).
+- [Accessibility Insights for Windows. Docs](https://accessibilityinsights.io/docs/en/windows/overview/)) - Accessibility Insights for Windows, [Edit on GitHub](https://github.com/microsoft/accessibility-insights-windows/tree/main/docs).
 
 <a name="netflix-open-source-documentations"/>
 
