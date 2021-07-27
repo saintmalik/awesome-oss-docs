@@ -68,7 +68,7 @@
 
 - [Terraform Docs](https://www.terraform.io/docs/) - Terraform Linode provider.
 - [Vagrant Docs](https://www.vagrantup.com/docs) - Vagrant is a tool for building and distributing development environments.
-- [Waypoint Docs](https://www.waypointproject.io/docs) - A tool to build, deploy, and release any application on any platform.
+- [Waypoi Docs](https://www.waypointproject.io/docs) - A tool to build, deploy, and release any application on any platform.
 
 <a name="microsoft-open-source-documentations"/>
 
