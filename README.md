@@ -42,7 +42,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## LInode Open Source Documentations
 
 - [Linode Docs](https://www.linode.com/docs/) - Linode guides and tutorials.
-- [Terraform Linode provider Docs](https://www.terraform.io/docs/providers/linode/) - erraform Linode provider.
+- [Terraform Linode provider Docs](https://www.terraform.io/docs/providers/linode/) - Terraform Linode provider.
+- [Vagrant Docs](https://www.vagrantup.com/docs) - Vagrant is a tool for building and distributing development environments.
 
 ## MIcrosoft Open Source Documentations
 
