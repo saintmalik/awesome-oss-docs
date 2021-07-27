@@ -1,28 +1,17 @@
 name: Check Markdown links
 
-on:   
-    push:
-         branches:
-             - main
-    pull_request:
-        branches:
-           - main
-
-env:
-  FORMAT_FILE: README.md
+on: 
+  push:
+    branches:
+    - main
 
 jobs:
-  test:
-    name: 'Validate README.md'
+  markdown-link-check:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
-        uses: gaurav-nelson/github-action-markdown-link-check@v1
-         with:
-          use-quiet-mode: 'yes'
-          use-verbose-mode: 'yes'
-          check-modified-files-only: 'yes'
-
-      - name: Validate Markdown format
-         run: build/validate_format.py ${FORMAT_FILE}
+    - uses: actions/checkout@master
+    - uses: gaurav-nelson/github-action-markdown-link-check@v1
+      with:
+        use-quiet-mode: 'yes'
+        use-verbose-mode: 'yes'
+        config-file: 'build/config.json'
