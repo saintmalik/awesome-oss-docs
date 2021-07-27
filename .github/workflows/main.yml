@@ -18,6 +18,3 @@ jobs:
         use-quiet-mode: 'yes'
         use-verbose-mode: 'yes'
         config-file: 'build/config.json'
-
-    - name: Validate Markdown format
-      run: build/validate_format.py ${FORMAT_FILE}
