@@ -17,12 +17,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-         uses: actions/checkout@v2
-         uses: gaurav-nelson/github-action-markdown-link-check@v1
-        with:
-         use-quiet-mode: 'yes'
-         use-verbose-mode: 'yes'
-         check-modified-files-only: 'yes'
+        uses: actions/checkout@v2
+        uses: gaurav-nelson/github-action-markdown-link-check@v1
+         with:
+          use-quiet-mode: 'yes'
+          use-verbose-mode: 'yes'
+          check-modified-files-only: 'yes'
 
       - name: Validate Markdown format
          run: build/validate_format.py ${FORMAT_FILE}
