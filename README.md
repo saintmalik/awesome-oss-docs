@@ -4,18 +4,32 @@
 
 ## Contents
 
-- [DeltaLake Open Source Documentations](#deltalake-open-source-documentations)
-- [Facebook Open Source Documentations](#facebook-open-source-documentations)
-- [Google Open Source Documentations](#google-open-source-documentations)
-- [Linode Open Source Documentations](#linode-open-source-documentations)
-- [Microsoft Open Source Documentations](#microsoft-open-source-documentations)
-- [Netflix Open Source Documentations](#netflix-open-source-documentations)
-- [Netlify Open Source Documentations](#netlify-open-source-documentations)
-- [Samsung Open Source Documentations](#samsung-open-source-documentations)
-- [Shopify Open Source Documentations](#shopify-open-source-documentations)
-- [Twilio Open Source Documentations](#twilio-open-source-documentations)
-- [Twitter Open Source Documentations](#twitter-open-source-documentations)
-- [Uber Open Source Documentations](#uber-open-source-documentations)
+  - [Amazon Open Source Documentations](#amazon-open-source-documentations)
+  - [DeltaLake Open Source Documentations](#deltalake-open-source-documentations)
+  - [Facebook Open Source Documentations](#facebook-open-source-documentations)
+  - [Google Open Source Documentations](#google-open-source-documentations)
+  - [HashiCorp Open Source Documentations](#hashicorp-open-source-documentations)
+  - [Linode Open Source Documentations](#linode-open-source-documentations)
+  - [Microsoft Open Source Documentations](#microsoft-open-source-documentations)
+  - [Netflix Open Source Documentations](#netflix-open-source-documentations)
+  - [Netlify Open Source Documentations](#netlify-open-source-documentations)
+  - [Samsung Open Source Documentations](#samsung-open-source-documentations)
+  - [Shopify Open Source Documentations](#shopify-open-source-documentations)
+  - [Twilio Open Source Documentations](#twilio-open-source-documentations)
+  - [Twitter Open Source Documentations](#twitter-open-source-documentations)
+  - [Uber Open Source Documentations](#uber-open-source-documentations)
+
+<a name="amazon-open-source-documentations"/>
+
+## Amazo Open Source Documentations
+
+- [OpenSearch Docs](https://opensearch.org/docs) - The documentation for OpenSearch, OpenSearch Dashboards, and their associated plugins, [Edit on GitHub](https://github.com/opensearch-project/documentation-website)
+- [Amplify JS Docs](https://docs.amplify.aws/lib/q/platform/js) - A declarative JavaScript library for application development using cloud services.
+- [Amplify iOS Docs](https://docs.amplify.aws/start/q/integration/ios) - A declarative library for application development using cloud services.
+- [Amplify CLI Docs](https://docs.amplify.aws/cli) - The AWS Amplify CLI is a toolchain for simplifying serverless web and mobile development.
+- [Amplify Android Docs](https://docs.amplify.aws/lib/q/platform/android) - The fastest and easiest way to use AWS from your Android app.
+- [Amplify Flutter Docs](https://docs.amplify.aws/lib/q/platform/flutter#amplify-flutter) - A declarative library with an easy-to-use interface for building Flutter applications on AWS.
+- [Amplify Console Docs](https://docs.amplify.aws/console) - The AWS Amplify Console provides a Git-based workflow for deploying and hosting fullstack serverless web applications.
 
 <a name="deltalake-open-source-documentations"/>
 
@@ -47,7 +61,12 @@
 ## Linode Open Source Documentations
 
 - [Linode Docs](https://www.linode.com/docs/) - Linode guides and tutorials.
-- [Terraform Linode provider Docs](https://www.terraform.io/docs/providers/linode/) - Terraform Linode provider.
+
+<a name="hashicorp-open-source-documentations"/>
+
+## HashiCorp Open Source Documentations
+
+- [Terraform Docs](https://www.terraform.io/docs/) - Terraform Linode provider.
 
 <a name="microsoft-open-source-documentations"/>
 
