@@ -44,6 +44,16 @@
 - [React Native Docs](https://reactnative.dev/docs/getting-started) - A framework for building native apps with React.
 - [ReactJS Docs](https://reactjs.org/docs/getting-started.html) - A JavaScript library for building user interfaces.
 - [Create React App Docs](https://create-react-app.dev/docs/getting-started) - Set up a modern ReactJS web app by running one command.
+- [Hermes](https://hermesengine.dev/docs/building-and-running) - A JavaScript engine optimized for running React Native.
+- [Flipper](https://fbflipper.com/docs/getting-started/index/) - A desktop debugging platform for mobile developers.
+- [PyTorch](https://pytorch.org/docs/stable/index.html) - Tensors and Dynamic neural networks in Python with strong GPU acceleration.
+- [Fresco](https://frescolib.org/docs/) - An Android library for managing images and the memory they use.
+- [Litho](https://fblitho.com/docs/getting-started/) - A declarative framework for building efficient UIs on Android.
+- [Redex](https://fbredex.com/docs/installation) - A  bytecode optimizer for Android apps.
+- [Draft Js](https://draftjs.org/docs/getting-started/) - A React framework for building text editors.
+- [Relay](https://relay.dev/docs/) - Relay is a JavaScript framework for building data-driven React applications.
+- [Jest Js](https://jestjs.io/docs/getting-started) - Delightful JavaScript Testing.
+
 
 <a name="google-open-source-documentations"/>
 
@@ -64,6 +74,7 @@
 - [Vagrant Docs](https://www.vagrantup.com/docs) - Vagrant is a tool for building and distributing development environments.
 - [Waypoint Docs](https://www.waypointproject.io/docs) - A tool to build, deploy, and release any application on any platform.
 - [VaultProject Docs](https://www.vaultproject.io/docs) - A tool for secrets management, encryption as a service, and privileged access management.
+- [Consul Docs](https://www.consul.io/docs) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 
 <a name="linode-open-source-documentations"/>
 
