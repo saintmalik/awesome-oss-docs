@@ -4,20 +4,20 @@
 
 ## Contents
 
-  - [Amazon Open Source Documentations](#amazon-open-source-documentations)
-  - [DeltaLake Open Source Documentations](#deltalake-open-source-documentations)
-  - [Facebook Open Source Documentations](#facebook-open-source-documentations)
-  - [Google Open Source Documentations](#google-open-source-documentations)
-  - [HashiCorp Open Source Documentations](#hashicorp-open-source-documentations)
-  - [Linode Open Source Documentations](#linode-open-source-documentations)
-  - [Microsoft Open Source Documentations](#microsoft-open-source-documentations)
-  - [Netflix Open Source Documentations](#netflix-open-source-documentations)
-  - [Netlify Open Source Documentations](#netlify-open-source-documentations)
-  - [Samsung Open Source Documentations](#samsung-open-source-documentations)
-  - [Shopify Open Source Documentations](#shopify-open-source-documentations)
-  - [Twilio Open Source Documentations](#twilio-open-source-documentations)
-  - [Twitter Open Source Documentations](#twitter-open-source-documentations)
-  - [Uber Open Source Documentations](#uber-open-source-documentations)
+- [Amazon Open Source Documentations](#amazon-open-source-documentations)
+- [DeltaLake Open Source Documentations](#deltalake-open-source-documentations)
+- [Facebook Open Source Documentations](#facebook-open-source-documentations)
+- [Google Open Source Documentations](#google-open-source-documentations)
+- [HashiCorp Open Source Documentations](#hashicorp-open-source-documentations)
+- [Linode Open Source Documentations](#linode-open-source-documentations)
+- [Microsoft Open Source Documentations](#microsoft-open-source-documentations)
+- [Netflix Open Source Documentations](#netflix-open-source-documentations)
+- [Netlify Open Source Documentations](#netlify-open-source-documentations)
+- [Samsung Open Source Documentations](#samsung-open-source-documentations)
+- [Shopify Open Source Documentations](#shopify-open-source-documentations)
+- [Twilio Open Source Documentations](#twilio-open-source-documentations)
+- [Twitter Open Source Documentations](#twitter-open-source-documentations)
+- [Uber Open Source Documentations](#uber-open-source-documentations)
 
 <a name="amazon-open-source-documentations"/>
 
@@ -44,15 +44,15 @@
 - [React Native Docs](https://reactnative.dev/docs/getting-started) - A framework for building native apps with React.
 - [ReactJS Docs](https://reactjs.org/docs/getting-started.html) - A JavaScript library for building user interfaces.
 - [Create React App Docs](https://create-react-app.dev/docs/getting-started) - Set up a modern ReactJS web app by running one command.
-- [Hermes](https://hermesengine.dev/docs/building-and-running) - A JavaScript engine optimized for running React Native.
-- [Flipper](https://fbflipper.com/docs/getting-started/index/) - A desktop debugging platform for mobile developers.
-- [PyTorch](https://pytorch.org/docs/stable/index.html) - Tensors and Dynamic neural networks in Python with strong GPU acceleration.
-- [Fresco](https://frescolib.org/docs/) - An Android library for managing images and the memory they use.
-- [Litho](https://fblitho.com/docs/getting-started/) - A declarative framework for building efficient UIs on Android.
-- [Redex](https://fbredex.com/docs/installation) - A  bytecode optimizer for Android apps.
-- [Draft Js](https://draftjs.org/docs/getting-started/) - A React framework for building text editors.
-- [Relay](https://relay.dev/docs/) - Relay is a JavaScript framework for building data-driven React applications.
-- [Jest Js](https://jestjs.io/docs/getting-started) - Delightful JavaScript Testing.
+- [Hermes Docs](https://hermesengine.dev/docs/building-and-running) - A JavaScript engine optimized for running React Native.
+- [Flipper Docs](https://fbflipper.com/docs/getting-started/index/) - A desktop debugging platform for mobile developers.
+- [PyTorch Docs](https://pytorch.org/docs/stable/index.html) - Tensors and Dynamic neural networks in Python with strong GPU acceleration.
+- [Fresco Docs](https://frescolib.org/docs/) - An Android library for managing images and the memory they use.
+- [Litho Docs](https://fblitho.com/docs/getting-started/) - A declarative framework for building efficient UIs on Android.
+- [Redex Docs](https://fbredex.com/docs/installation) - A  bytecode optimizer for Android apps.
+- [Draftjs Docs](https://draftjs.org/docs/getting-started/) - A React framework for building text editors.
+- [Relay Docs](https://relay.dev/docs/) - Relay is a JavaScript framework for building data-driven React applications.
+- [Jestjs Docs](https://jestjs.io/docs/getting-started) - Delightful JavaScript Testing.
 
 
 <a name="google-open-source-documentations"/>
@@ -98,7 +98,7 @@
 - [Fast Design Docs](https://www.fast.design/docs/introduction/) -  The adaptive interface system for modern web experiences.
 - [DeepSpeed Docs](https://deepspeed.readthedocs.io/en/latest/) - DeepSpeed is a deep learning optimization library that makes distributed training easy, efficient, and effective.
 - [Dapr  Docs](https://docs.dapr.io/) - Dapr user documentation, used to build docs.dapr.io.
-- [Accessibility Insights for Windows. Docs](https://accessibilityinsights.io/docs/en/windows/overview/)) - Accessibility Insights for Windows, [Edit on GitHub](https://github.com/microsoft/accessibility-insights-windows/tree/main/docs).
+- [Accessibility Insights for Windows. Docs](https://accessibilityinsights.io/docs/en/windows/overview/) - Accessibility Insights for Windows. [Edit on GitHub](https://github.com/microsoft/accessibility-insights-windows/tree/main/docs)
 
 <a name="netflix-open-source-documentations"/>
 
