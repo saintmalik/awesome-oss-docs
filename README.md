@@ -53,7 +53,8 @@
 - [Draftjs Docs](https://draftjs.org/docs/getting-started/) - A React framework for building text editors.
 - [Relay Docs](https://relay.dev/docs/) - Relay is a JavaScript framework for building data-driven React applications.
 - [Jestjs Docs](https://jestjs.io/docs/getting-started) - Delightful JavaScript Testing.
-
+- [Hydra Docs](https://hydra.cc/docs/intro) - Hydra is a framework for elegantly configuring complex applications.
+- [ParlAI Docs](https://parl.ai/docs/index.html) - A framework for training and evaluating AI models on a variety of openly available dialogue datasets.
 
 <a name="google-open-source-documentations"/>
 
@@ -64,7 +65,8 @@
 - [Kubeflow Docs](https://www.kubeflow.org/docs/) - Kubeflow is an open, community driven project to make it easy to deploy and manage an ML stack on Kubernetes.
 - [Kubernetes Docs](https://kubernetes.io/docs/home/) - Kubernetes is an open source container orchestration engine for automating deployment, scaling, and management of containerized applications. The open source project is hosted by the Cloud Native Computing Foundation (CNCF)
 - [Adanet Docs](https://adanet.readthedocs.io/) - Fast and flexible AutoML with learning guarantees.
-- [TensorFlow Docs](https://www.tensorflow.org/tutorials) - An Open Source Machine Learning Framework for Everyone.
+- [TensorFlow Docs](https://www.tensorflow.org/tutorials) - An Open Source Machine Learning Framework for Everyone. 
+- [Dart Docs](https://dart.dev/guides) - Dart is an open-source, scalable programming language, with robust libraries and runtimes, for building web, server, and mobile apps. 
 
 <a name="hashicorp-open-source-documentations"/>
 
