@@ -66,7 +66,6 @@
 - [Kubernetes Docs](https://kubernetes.io/docs/home/) - Kubernetes is an open source container orchestration engine for automating deployment, scaling, and management of containerized applications. The open source project is hosted by the Cloud Native Computing Foundation (CNCF)
 - [Adanet Docs](https://adanet.readthedocs.io/) - Fast and flexible AutoML with learning guarantees.
 - [TensorFlow Docs](https://www.tensorflow.org/tutorials) - An Open Source Machine Learning Framework for Everyone. 
-- [Dart Docs](https://dart.dev/guides) - Dart is an open-source, scalable programming language, with robust libraries and runtimes, for building web, server, and mobile apps. 
 
 <a name="hashicorp-open-source-documentations"/>
 
