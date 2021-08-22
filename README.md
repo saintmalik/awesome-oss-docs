@@ -37,7 +37,7 @@
 - [AWS A2C Docs](https://docs.aws.amazon.com/app2container) - AWS App2Container (A2C) is a command-line tool for modernizing .NET and Java applications into containerized applications.
 - [Amazon EKS Docs](https://docs.aws.amazon.com/eks/index.html) - Amazon Elastic Kubernetes Service (Amazon EKS) is a managed service that makes it easy for you to run Kubernetes on AWS without needing to install and operate your own Kubernetes clusters.
 - [Bottlerocket Docs](https://aws.amazon.com/bottlerocket) - A linux-based operating system purpose-built to run containers.
-- [AWS Distro for OpenTelemetry Docs](https://aws.amazon.com/otel/?otel-blogs.sort-by=item.additionalFields.createdDate&otel-blogs.sort-order=desc) - A Secure, production-ready open source distribution with predictable performance.
+- [AWS Distro for OpenTelemetry Docs](https://aws-otel.github.io/docs/introduction) - A Secure, production-ready open source distribution with predictable performance.
 - [Firecracker Docs](https://github.com/firecracker-microvm/firecracker/blob/main/docs/getting-started.md) - Firecracker is an open source virtualization technology that is purpose-built for creating and managing secure, multi-tenant container and function-based services that provide serverless operational models.
 - [AWS CDK Docs](https://aws.amazon.com/cdk/resources) - AWS Cloud Development Kit defines cloud infrastructure using familiar programming languages.
 - [FreeRTOS Docs](https://docs.aws.amazon.com/freertos/index.html) - FreeRTOS is a market-leading real-time operating system (RTOS) for microcontrollers and small microprocessors.FreeRTOS is built with an emphasis on reliability and ease of use.
