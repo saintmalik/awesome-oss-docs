@@ -30,6 +30,19 @@
 - [Amplify Android Docs](https://docs.amplify.aws/lib/q/platform/android) - The fastest and easiest way to use AWS from your Android app.
 - [Amplify Flutter Docs](https://docs.amplify.aws/lib/q/platform/flutter#amplify-flutter) - A declarative library with an easy-to-use interface for building Flutter applications on AWS.
 - [Amplify Console Docs](https://docs.amplify.aws/console) - The AWS Amplify Console provides a Git-based workflow for deploying and hosting fullstack serverless web applications.
+- [Amazon EC2 Docs](https://docs.aws.amazon.com/ec2/index.html) - A web service that provides resizable computing capacity—literally, servers in Amazon's data centers—that you use to build and host your software systems.
+- [Amazon CloudFront Docs](https://docs.aws.amazon.com/cloudfront/index.html) - Amazon CloudFront speeds up distribution of your static and dynamic web content, such as .html, .css, .php, image, and media files.
+- [Amazon S3 Docs](https://docs.aws.amazon.com/s3/index.html) - Amazon Simple Storage Service (Amazon S3) is storage for the internet. You can use Amazon S3 to store and retrieve any amount of data at any time, from anywhere on the web.
+- [AWS IAM Docs](https://docs.aws.amazon.com/iam) - AWS Identity and Access Management (IAM) is a web service for securely controlling access to AWS services. With IAM, you can centrally manage users, security credentials such as access keys, and permissions that control which AWS resources users and applications can access.
+- [AWS A2C Docs](https://docs.aws.amazon.com/app2container) - AWS App2Container (A2C) is a command-line tool for modernizing .NET and Java applications into containerized applications.
+- [Amazon EKS Docs](https://docs.aws.amazon.com/eks/index.html) - Amazon Elastic Kubernetes Service (Amazon EKS) is a managed service that makes it easy for you to run Kubernetes on AWS without needing to install and operate your own Kubernetes clusters.
+- [Bottlerocket Docs](https://aws.amazon.com/bottlerocket) - A linux-based operating system purpose-built to run containers.
+- [AWS Distro for OpenTelemetry Docs](https://aws-otel.github.io/docs/introduction) - A Secure, production-ready open source distribution with predictable performance.
+- [Firecracker Docs](https://github.com/firecracker-microvm/firecracker/blob/main/docs/getting-started.md) - Firecracker is an open source virtualization technology that is purpose-built for creating and managing secure, multi-tenant container and function-based services that provide serverless operational models.
+- [AWS CDK Docs](https://aws.amazon.com/cdk/resources) - AWS Cloud Development Kit defines cloud infrastructure using familiar programming languages.
+- [FreeRTOS Docs](https://docs.aws.amazon.com/freertos/index.html) - FreeRTOS is a market-leading real-time operating system (RTOS) for microcontrollers and small microprocessors.FreeRTOS is built with an emphasis on reliability and ease of use.
+
+
 
 <a name="deltalake-open-source-documentations"/>
 
