@@ -16,6 +16,7 @@
 - [Salesforce Open Source Documentations](#salesforce-open-source-documentations)
 - [Samsung Open Source Documentations](#samsung-open-source-documentations)
 - [Shopify Open Source Documentations](#shopify-open-source-documentations)
+- [SlackHQ Open Source Documentations](#slackhq-open-source-documentations)
 - [Twilio Open Source Documentations](#twilio-open-source-documentations)
 - [Twitter Open Source Documentations](#twitter-open-source-documentations)
 - [Uber Open Source Documentations](#uber-open-source-documentations)
@@ -137,7 +138,7 @@
 - [Cloudsplaining Docs](https://cloudsplaining.readthedocs.io/en/latest/) - AWS IAM security assessment tool that identifies violations of least privilege and generates a risk-prioritized report.
 - [Oclif Docs](https://oclif.io/docs/introduction) - A framework for building CLIs in Node.js. Designed both for simple CLIs that can be just a single file with a few flag options, or for very complex CLIs that have many subcommands.
 - [Apache PredictionIO Docs](https://predictionio.apache.org/start/) - Apache PredictionIO® is a machine learning server for developers and data scientists to create predictive engines for any machine learning task.
-- [Akita Docs](https://datorama.github.io/akita/docs/store) - State management tailored-made for Javascript applications from the team at Datorama.
+- [Akita Docs](https://datorama.github.io/akita/docs/store) - State management tailored-made for JavaScript applications from the team at Datorama.
 - [TransmogrifAI Docs](https://docs.transmogrif.ai/en/stable/) - AutoML library for building modular, reusable, strongly typed machine learning workflows on Apache Spark with minimal hand tuning. [Edit on GitHub](https://github.com/salesforce/TransmogrifAI/tree/master/docs)
 - [Policy Sentry Docs](https://policy-sentry.readthedocs.io/en/latest/) - AM Least Privilege Policy Generator.
 
