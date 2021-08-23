@@ -134,7 +134,7 @@
 
 - [Lightning Web Components Docs](https://lwc.dev/guide/introduction) -  A Blazing Fast, Enterprise-Grade Web Components Foundation, The lightweight, high performance web component framework that powers thousands of apps.
 - [Buildpacks Docs](https://buildpacks.io/docs/) - Buildpacks are pluggable, modular tools that translate source code into OCI images.
-- [CloudsplainingDocs](https://cloudsplaining.readthedocs.io/en/latest/) - AWS IAM security assessment tool that identifies violations of least privilege and generates a risk-prioritized report.
+- [Cloudsplaining Docs](https://cloudsplaining.readthedocs.io/en/latest/) - AWS IAM security assessment tool that identifies violations of least privilege and generates a risk-prioritized report.
 - [Oclif Docs](https://oclif.io/docs/introduction) - A framework for building CLIs in Node.js. Designed both for simple CLIs that can be just a single file with a few flag options, or for very complex CLIs that have many subcommands.
 - [Apache PredictionIO Docs](https://predictionio.apache.org/start/) - Apache PredictionIO® is a machine learning server for developers and data scientists to create predictive engines for any machine learning task.
 - [Akita Docs](https://datorama.github.io/akita/docs/store) - State management tailored-made for Javascript applications from the team at Datorama.
