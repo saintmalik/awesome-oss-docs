@@ -15,6 +15,7 @@
 - [Netlify Open Source Documentations](#netlify-open-source-documentations)
 - [Samsung Open Source Documentations](#samsung-open-source-documentations)
 - [Shopify Open Source Documentations](#shopify-open-source-documentations)
+- [Shopify Open Source Documentations](#shopify-open-source-documentations)
 - [Twilio Open Source Documentations](#twilio-open-source-documentations)
 - [Twitter Open Source Documentations](#twitter-open-source-documentations)
 - [Uber Open Source Documentations](#uber-open-source-documentations)
@@ -141,6 +142,17 @@
 - [Draggable Docs](https://shopify.github.io/draggable/docs/) - The JavaScript Drag & Drop library your grandparents warned you about.
 - [FunctionalTableData Docs](https://shopify.github.io/FunctionalTableData/) -  Declarative UITableViewDataSource implementation, [Edit FunctionalTableData Docs on GitHub](https://github.com/Shopify/FunctionalTableData/tree/master/docs)
 - [Shopify Theme Kit Docs](https://shopify.dev/themes/tools/theme-kit) - Shopify theme development command line tool.
+
+<a name="slackhq-open-source-documentations"/>
+
+## SlackHQ Open Source Documentations
+
+- [Keeper Docs](https://slackhq.github.io/keeper/) - A Gradle plugin that infers Proguard/R8 keep rules for androidTest sources.
+- [Bolt-Js Docs](https://slack.dev/bolt-js/) - A framework to build Slack apps using JavaScript.
+- [Bolt-Python Docs](https://slack.dev/python-slack-sdk/) - A framework to build Slack apps using Python.
+- [Slack Java SDK Docs](https://slack.dev/java-slack-sdk/) - Slack Developer Kit (including Bolt for Java) for any JVM language.
+- [Slack Node SDK Docs](https://slack.dev/node-slack-sdk) - Slack Developer Kit for Node.js.
+- [Slack Hubot Docs](https://slack.dev/hubot-slack/) - Slack Developer Kit for Hubot.
 
 <a name="twilio-open-source-documentations"/>
 
