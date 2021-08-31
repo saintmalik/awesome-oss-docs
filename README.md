@@ -99,7 +99,7 @@
 - [Loopback Docs](https://loopback.io/doc/en/lb4/) - A highly extensible Node.js and TypeScript framework
 for building APIs and microservices.
 - [Carbon Design System Docs](https://www.carbondesignsystem.com/all-about-carbon/what-is-carbon/) - A design system for products and experiences that includes code, tools, resources, and guidelines.
-- [Node-RED Docs](https://nodered.org/docs) - Low-code programming for event-driven applications.  [Edit on GitHub](https://github.com/node-red/node-red.github.io/tree/master/docs).
+- [Node-RED Docs](https://nodered.org/docs) - Low-code programming for event-driven applications.  [Edit on GitHub](https://github.com/node-red/node-red.github.io/tree/master/docs)
 
 <a name="linode-open-source-documentations"/>
 
@@ -145,7 +145,7 @@ for building APIs and microservices.
 
 - [CentOS Docs](https://docs.centos.org) - SA solid, predictable base to build upon, with extensive resources to build, test, release, and maintain code.
 - [Ceph Docs](https://docs.ceph.com/) - A distributed object, block, and file storage platform.
-- [Project QUAY Docs](https://docs.projectquay.io/) - [Builds, analyzes, distributes] your container images. [Edit on GitHub](https://github.com/quay/quay-docs)
+- [Project QUAY Docs](https://docs.projectquay.io/) - Builds, analyzes, distributes your container images. [Edit on GitHub](https://github.com/quay/quay-docs)
 - [WildFly Docs](https://docs.wildfly.org/) - A flexible, lightweight, managed application runtime that helps you build amazing applications. [Edit on GitHub](https://github.com/wildfly/wildfly/tree/main/docs)
 
 <a name="salesforce-open-source-documentations"/>
