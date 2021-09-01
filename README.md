@@ -19,6 +19,7 @@
 - [Samsung Open Source Documentations](#samsung-open-source-documentations)
 - [Shopify Open Source Documentations](#shopify-open-source-documentations)
 - [SlackHQ Open Source Documentations](#slackhq-open-source-documentations)
+- [The Guild Open Source Documentations](#the-guild-open-source-documentations)
 - [Twilio Open Source Documentations](#twilio-open-source-documentations)
 - [Twitter Open Source Documentations](#twitter-open-source-documentations)
 - [Uber Open Source Documentations](#uber-open-source-documentations)
@@ -187,11 +188,23 @@ for building APIs and microservices.
 - [Slack Node SDK Docs](https://slack.dev/node-slack-sdk) - Slack Developer Kit for Node.js.
 - [Slack Hubot Docs](https://slack.dev/hubot-slack/) - Slack Developer Kit for Hubot.
 
+<a name="the-guild-open-source-documentations"/>
+
+## The Guild Open Source Documentations
+
+- [GraphQL Inspector Docs](https://graphql-inspector.com/docs/index) - Validate schema, get schema change notifications, validate operations, find breaking changes, look for similar types, schema coverage. 
+- [GraphQL Config Docs](https://graphql-config.com/introduction) - One configuration for all your GraphQL tools supported by most tools, editors & IDEs.
+- [GraphQL Modules Docs](https://www.graphql-modules.com/docs/index) - Enterprise Grade Tooling For Your GraphQL Server.
+- [GraphQL Mesh Docs](https://www.graphql-mesh.com/docs/getting-started/introduction) -  Query anything, run anywhere.
+- [GraphQL Code Generator Docs](https://www.graphql-code-generator.com/docs/getting-started/index) - A tool for generating code based on a GraphQL schema and GraphQL operations "query/mutation/subscription", with flexible support for custom plugins.
+- [GraphQL Tools Docs](https://www.graphql-tools.com/docs/introduction) - Build, mock, and stitch a GraphQL schema using the schema language.
+
 <a name="twilio-open-source-documentations"/>
 
 ## Twilio Open Source Documentations
 
 - [SendGrid Docs](https://docs.sendgrid.com/) - SendGrid is everything you need to send emails that cut through the noise and make a connection. [GitHub Docs Location](https://github.com/sendgrid/docs/tree/develop/content/docs)
+
 
 <a name="twitter-open-source-documentations"/>
 
