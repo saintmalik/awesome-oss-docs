@@ -22,4 +22,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - run: npx awesome-lint   
+    - run: npx awesome-lint https://github.com/saintmalik/awesome-oss-docs
