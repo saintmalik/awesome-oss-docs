@@ -18,3 +18,8 @@ jobs:
         use-quiet-mode: 'yes'
         use-verbose-mode: 'yes'
         config-file: 'build/config.json'
+  Awesome_Lint:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - run: npx awesome-lint   
