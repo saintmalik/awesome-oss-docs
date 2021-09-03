@@ -4,20 +4,25 @@
 
 ## Contents
 
-  - [Amazon Open Source Documentations](#amazon-open-source-documentations)
-  - [DeltaLake Open Source Documentations](#deltalake-open-source-documentations)
-  - [Facebook Open Source Documentations](#facebook-open-source-documentations)
-  - [Google Open Source Documentations](#google-open-source-documentations)
-  - [HashiCorp Open Source Documentations](#hashicorp-open-source-documentations)
-  - [Linode Open Source Documentations](#linode-open-source-documentations)
-  - [Microsoft Open Source Documentations](#microsoft-open-source-documentations)
-  - [Netflix Open Source Documentations](#netflix-open-source-documentations)
-  - [Netlify Open Source Documentations](#netlify-open-source-documentations)
-  - [Samsung Open Source Documentations](#samsung-open-source-documentations)
-  - [Shopify Open Source Documentations](#shopify-open-source-documentations)
-  - [Twilio Open Source Documentations](#twilio-open-source-documentations)
-  - [Twitter Open Source Documentations](#twitter-open-source-documentations)
-  - [Uber Open Source Documentations](#uber-open-source-documentations)
+- [Amazon Open Source Documentations](#amazon-open-source-documentations)
+- [DeltaLake Open Source Documentations](#deltalake-open-source-documentations)
+- [Facebook Open Source Documentations](#facebook-open-source-documentations)
+- [Google Open Source Documentations](#google-open-source-documentations)
+- [HashiCorp Open Source Documentations](#hashicorp-open-source-documentations)
+- [IBM Open Source Documentations](#ibm-open-source-documentations)
+- [Linode Open Source Documentations](#linode-open-source-documentations)
+- [Microsoft Open Source Documentations](#microsoft-open-source-documentations)
+- [Netflix Open Source Documentations](#netflix-open-source-documentations)
+- [Netlify Open Source Documentations](#netlify-open-source-documentations)
+- [RedHat Open Source Documentations](#redhat-open-source-documentations)
+- [Salesforce Open Source Documentations](#salesforce-open-source-documentations)
+- [Samsung Open Source Documentations](#samsung-open-source-documentations)
+- [Shopify Open Source Documentations](#shopify-open-source-documentations)
+- [SlackHQ Open Source Documentations](#slackhq-open-source-documentations)
+- [The Guild Open Source Documentations](#the-guild-open-source-documentations)
+- [Twilio Open Source Documentations](#twilio-open-source-documentations)
+- [Twitter Open Source Documentations](#twitter-open-source-documentations)
+- [Uber Open Source Documentations](#uber-open-source-documentations)
 
 <a name="amazon-open-source-documentations"/>
 
@@ -37,12 +42,10 @@
 - [AWS A2C Docs](https://docs.aws.amazon.com/app2container) - AWS App2Container (A2C) is a command-line tool for modernizing .NET and Java applications into containerized applications.
 - [Amazon EKS Docs](https://docs.aws.amazon.com/eks/index.html) - Amazon Elastic Kubernetes Service (Amazon EKS) is a managed service that makes it easy for you to run Kubernetes on AWS without needing to install and operate your own Kubernetes clusters.
 - [Bottlerocket Docs](https://aws.amazon.com/bottlerocket) - A linux-based operating system purpose-built to run containers.
-- [AWS Distro for OpenTelemetry Docs](https://aws.amazon.com/otel/?otel-blogs.sort-by=item.additionalFields.createdDate&otel-blogs.sort-order=desc) - A Secure, production-ready open source distribution with predictable performance.
+- [AWS Distro for OpenTelemetry Docs](https://aws-otel.github.io/docs/introduction) - A Secure, production-ready open source distribution with predictable performance.
 - [Firecracker Docs](https://github.com/firecracker-microvm/firecracker/blob/main/docs/getting-started.md) - Firecracker is an open source virtualization technology that is purpose-built for creating and managing secure, multi-tenant container and function-based services that provide serverless operational models.
 - [AWS CDK Docs](https://aws.amazon.com/cdk/resources) - AWS Cloud Development Kit defines cloud infrastructure using familiar programming languages.
 - [FreeRTOS Docs](https://docs.aws.amazon.com/freertos/index.html) - FreeRTOS is a market-leading real-time operating system (RTOS) for microcontrollers and small microprocessors.FreeRTOS is built with an emphasis on reliability and ease of use.
-
-
 
 <a name="deltalake-open-source-documentations"/>
 
@@ -57,6 +60,17 @@
 - [React Native Docs](https://reactnative.dev/docs/getting-started) - A framework for building native apps with React.
 - [ReactJS Docs](https://reactjs.org/docs/getting-started.html) - A JavaScript library for building user interfaces.
 - [Create React App Docs](https://create-react-app.dev/docs/getting-started) - Set up a modern ReactJS web app by running one command.
+- [Hermes Docs](https://hermesengine.dev/docs/building-and-running) - A JavaScript engine optimized for running React Native.
+- [Flipper Docs](https://fbflipper.com/docs/getting-started/index/) - A desktop debugging platform for mobile developers.
+- [PyTorch Docs](https://pytorch.org/docs/stable/index.html) - Tensors and Dynamic neural networks in Python with strong GPU acceleration.
+- [Fresco Docs](https://frescolib.org/docs/) - An Android library for managing images and the memory they use.
+- [Litho Docs](https://fblitho.com/docs/getting-started/) - A declarative framework for building efficient UIs on Android.
+- [Redex Docs](https://fbredex.com/docs/installation) - A  bytecode optimizer for Android apps.
+- [Draftjs Docs](https://draftjs.org/docs/getting-started/) - A React framework for building text editors.
+- [Relay Docs](https://relay.dev/docs/) - Relay is a JavaScript framework for building data-driven React applications.
+- [Jestjs Docs](https://jestjs.io/docs/getting-started) - Delightful JavaScript Testing.
+- [Hydra Docs](https://hydra.cc/docs/intro) - Hydra is a framework for elegantly configuring complex applications.
+- [ParlAI Docs](https://parl.ai/docs/index.html) - A framework for training and evaluating AI models on a variety of openly available dialogue datasets.
 
 <a name="google-open-source-documentations"/>
 
@@ -116,6 +130,7 @@
 - [Vitess Docs](https://vitess.io/docs/) - Vitess is a distributed database which uses MySQL as backend. With Vitess, existing MySQL installations can be turned into a scalable and sharded distributed database while preserving advanced MySQL features e.g. transactions or the SQL language.
 - [WebM Docs](https://www.webmproject.org/) - WebM is a royalty-free video file format for use in the HTML5 video tag.
 - [WebRTC Docs](https://webrtc.org/getting-started/firebase-rtc-codelab) - WebRTC is an open framework that enables Real Time Communications (RTC) in the browser, mobile platforms, and IoT devices via a common set of protocols.
+- [TensorFlow Docs](https://www.tensorflow.org/tutorials) - An Open Source Machine Learning Framework for Everyone. 
 
 <a name="hashicorp-open-source-documentations"/>
 
@@ -125,6 +140,16 @@
 - [Vagrant Docs](https://www.vagrantup.com/docs) - Vagrant is a tool for building and distributing development environments.
 - [Waypoint Docs](https://www.waypointproject.io/docs) - A tool to build, deploy, and release any application on any platform.
 - [VaultProject Docs](https://www.vaultproject.io/docs) - A tool for secrets management, encryption as a service, and privileged access management.
+- [Consul Docs](https://www.consul.io/docs) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
+
+<a name="ibm-open-source-documentations"/>
+
+## IBM Open Source Documentations
+
+- [Loopback Docs](https://loopback.io/doc/en/lb4/) - A highly extensible Node.js and TypeScript framework
+for building APIs and microservices.
+- [Carbon Design System Docs](https://www.carbondesignsystem.com/all-about-carbon/what-is-carbon/) - A design system for products and experiences that includes code, tools, resources, and guidelines.
+- [Node-RED Docs](https://nodered.org/docs) - Low-code programming for event-driven applications.  [Edit on GitHub](https://github.com/node-red/node-red.github.io/tree/master/docs)
 
 <a name="linode-open-source-documentations"/>
 
@@ -148,7 +173,8 @@
 - [Fast Design Docs](https://www.fast.design/docs/introduction/) -  The adaptive interface system for modern web experiences.
 - [DeepSpeed Docs](https://deepspeed.readthedocs.io/en/latest/) - DeepSpeed is a deep learning optimization library that makes distributed training easy, efficient, and effective.
 - [Dapr  Docs](https://docs.dapr.io/) - Dapr user documentation, used to build docs.dapr.io.
-- [Accessibility Insights for Windows. Docs](https://accessibilityinsights.io/docs/en/windows/overview/)) - Accessibility Insights for Windows, [Edit on GitHub](https://github.com/microsoft/accessibility-insights-windows/tree/main/docs).
+- [Microsoft Terminal Docs](https://docs.microsoft.com/en-us/windows/terminal/) - The new Windows Terminal and the original Windows console host, all in the same place!. [Edit on GitHub](https://github.com/MicrosoftDocs/terminal)
+- [Accessibility Insights for Windows. Docs](https://accessibilityinsights.io/docs/en/windows/overview/) - Accessibility Insights for Windows. [Edit on GitHub](https://github.com/microsoft/accessibility-insights-windows/tree/main/docs)
 
 <a name="netflix-open-source-documentations"/>
 
@@ -162,6 +188,28 @@
 ## Netlify Open Source Documentations
 
 - [Netlify CMS Docs](https://www.netlifycms.org/docs/intro/) - Netlify CMS gives non-technical users a simple way to edit and add content to any site built with a site generator, It is completely build tool agnostic and works with storing structured content in Git, Its a CMS for site generators.
+
+<a name="redhat-open-source-documentations"/>
+
+## RedHat Open Source Documentations
+
+- [CentOS Docs](https://docs.centos.org) - SA solid, predictable base to build upon, with extensive resources to build, test, release, and maintain code.
+- [Ceph Docs](https://docs.ceph.com/) - A distributed object, block, and file storage platform.
+- [Project QUAY Docs](https://docs.projectquay.io/) - Builds, analyzes, distributes your container images. [Edit on GitHub](https://github.com/quay/quay-docs)
+- [WildFly Docs](https://docs.wildfly.org/) - A flexible, lightweight, managed application runtime that helps you build amazing applications. [Edit on GitHub](https://github.com/wildfly/wildfly/tree/main/docs)
+
+<a name="salesforce-open-source-documentations"/>
+
+## Salesforce Open Source Documentations
+
+- [Lightning Web Components Docs](https://lwc.dev/guide/introduction) -  A Blazing Fast, Enterprise-Grade Web Components Foundation, The lightweight, high performance web component framework that powers thousands of apps.
+- [Buildpacks Docs](https://buildpacks.io/docs/) - Buildpacks are pluggable, modular tools that translate source code into OCI images.
+- [Cloudsplaining Docs](https://cloudsplaining.readthedocs.io/en/latest/) - AWS IAM security assessment tool that identifies violations of least privilege and generates a risk-prioritized report.
+- [Oclif Docs](https://oclif.io/docs/introduction) - A framework for building CLIs in Node.js. Designed both for simple CLIs that can be just a single file with a few flag options, or for very complex CLIs that have many subcommands.
+- [Apache PredictionIO Docs](https://predictionio.apache.org/start/) - Apache PredictionIO® is a machine learning server for developers and data scientists to create predictive engines for any machine learning task.
+- [Akita Docs](https://datorama.github.io/akita/docs/store) - State management tailored-made for JavaScript applications from the team at Datorama.
+- [TransmogrifAI Docs](https://docs.transmogrif.ai/en/stable/) - AutoML library for building modular, reusable, strongly typed machine learning workflows on Apache Spark with minimal hand tuning. [Edit on GitHub](https://github.com/salesforce/TransmogrifAI/tree/master/docs)
+- [Policy Sentry Docs](https://policy-sentry.readthedocs.io/en/latest/) - AM Least Privilege Policy Generator.
 
 <a name="samsung-open-source-documentations"/>
 
@@ -178,11 +226,34 @@
 - [FunctionalTableData Docs](https://shopify.github.io/FunctionalTableData/) -  Declarative UITableViewDataSource implementation, [Edit FunctionalTableData Docs on GitHub](https://github.com/Shopify/FunctionalTableData/tree/master/docs)
 - [Shopify Theme Kit Docs](https://shopify.dev/themes/tools/theme-kit) - Shopify theme development command line tool.
 
+<a name="slackhq-open-source-documentations"/>
+
+## SlackHQ Open Source Documentations
+
+- [Keeper Docs](https://slackhq.github.io/keeper/) - A Gradle plugin that infers Proguard/R8 keep rules for androidTest sources.
+- [Bolt-Js Docs](https://slack.dev/bolt-js/) - A framework to build Slack apps using JavaScript.
+- [Bolt-Python Docs](https://slack.dev/python-slack-sdk/) - A framework to build Slack apps using Python.
+- [Slack Java SDK Docs](https://slack.dev/java-slack-sdk/) - Slack Developer Kit (including Bolt for Java) for any JVM language.
+- [Slack Node SDK Docs](https://slack.dev/node-slack-sdk) - Slack Developer Kit for Node.js.
+- [Slack Hubot Docs](https://slack.dev/hubot-slack/) - Slack Developer Kit for Hubot.
+
+<a name="the-guild-open-source-documentations"/>
+
+## The Guild Open Source Documentations
+
+- [GraphQL Inspector Docs](https://graphql-inspector.com/docs/index) - Validate schema, get schema change notifications, validate operations, find breaking changes, look for similar types, schema coverage. 
+- [GraphQL Config Docs](https://graphql-config.com/introduction) - One configuration for all your GraphQL tools supported by most tools, editors & IDEs.
+- [GraphQL Modules Docs](https://www.graphql-modules.com/docs/index) - Enterprise Grade Tooling For Your GraphQL Server.
+- [GraphQL Mesh Docs](https://www.graphql-mesh.com/docs/getting-started/introduction) -  Query anything, run anywhere.
+- [GraphQL Code Generator Docs](https://www.graphql-code-generator.com/docs/getting-started/index) - A tool for generating code based on a GraphQL schema and GraphQL operations "query/mutation/subscription", with flexible support for custom plugins.
+- [GraphQL Tools Docs](https://www.graphql-tools.com/docs/introduction) - Build, mock, and stitch a GraphQL schema using the schema language.
+
 <a name="twilio-open-source-documentations"/>
 
 ## Twilio Open Source Documentations
 
 - [SendGrid Docs](https://docs.sendgrid.com/) - SendGrid is everything you need to send emails that cut through the noise and make a connection. [GitHub Docs Location](https://github.com/sendgrid/docs/tree/develop/content/docs)
+
 
 <a name="twitter-open-source-documentations"/>
 
