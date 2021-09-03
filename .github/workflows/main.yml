@@ -1,9 +1,9 @@
 name: Check Markdown links
 
-on: 
-    pull_request_target:
+on:
+  pull_request_target:
     branches:
-    - main
+      - main
     
 env:
   FORMAT_FILE: README.md
