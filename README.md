@@ -28,7 +28,7 @@
 
 ## Amazon Open Source Documentations
 
-- [OpenSearch Docs](https://opensearch.org/docs) - The documentation for OpenSearch, OpenSearch Dashboards, and their associated plugins, [Edit on GitHub](https://github.com/opensearch-project/documentation-website)
+- [OpenSearch Docs](https://opensearch.org/docs) - The documentation for OpenSearch, OpenSearch Dashboards, and their associated plugins. [Edit on GitHub](https://github.com/opensearch-project/documentation-website)
 - [Amplify JS Docs](https://docs.amplify.aws/lib/q/platform/js) - A declarative JavaScript library for application development using cloud services.
 - [Amplify iOS Docs](https://docs.amplify.aws/start/q/integration/ios) - A declarative library for application development using cloud services.
 - [Amplify CLI Docs](https://docs.amplify.aws/cli) - The AWS Amplify CLI is a toolchain for simplifying serverless web and mobile development.
