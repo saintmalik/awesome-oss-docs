@@ -77,59 +77,27 @@
 ## Google Open Source Documentations
 
 - [Adanet Docs](https://adanet.readthedocs.io/) - Fast and flexible AutoML with learning guarantees.
-- [AMP Project Docs](https://AMP.dev) - The AMP(Accelerated Mobile Pages) Project is an open source initiative aiming to make the web better for all.
+- [AMP Project Docs](https://amp.dev) - The AMP(Accelerated Mobile Pages) Project is an open source initiative aiming to make the web better for all. [Edit on GitHub](https://github.com/ampproject/amp.dev/tree/future/pages/content/amp-dev/documentation)
 - [Angular Docs](https://angular.io/docs) - Angular is a web application framework for mobile,desktop and web.
-- [Apache beam Docs](https://beam.apache.org/documentaion) - Apache beam is a unified model to define and execute data processing pipelines.
+- [Apache beam Docs](https://beam.apache.org/documentation/) - Apache beam is a unified model to define and execute data processing pipelines.
 - [Bazel Docs](https://docs.bazel.build) - Bazel is Google's build system for fast and correct builds.
-- [Bullet Physics SDK Docs](https://pybullet.org/wordpress/index.php/forum-2) - The Bullet Physics SDK is a professional open source collision detection, rigid body and soft body dynamics library written in portable C++.
-- [Chromium Docs](https://chromium.org) - Chromium is the web browser that Google Chrome is built on. It is meant to feel lightweight (cognitively and physically) and fast.
-- [Copybara Docs](https://github.com/google/copybara) - Copybara is a tool that transforms and moves code between repositories.
 - [Dart Docs](https://dart.dev/guides) - Dart is a programming language developed at Google and approved as a standard by Ecma. It is ideal for web development and can be transcompiled to JavaScript, but can also be used to build server, desktop, and mobile applications.
-- [Deepmind Docs](https://github.com/deepmind/lab) - DeepMind Lab is a first-person 3D game platform designed for research and development of general artificial intelligence and machine learning systems.
-- [Dopamine Docs](https://github.com/google/dopamine) - Dopamine is a research framework for fast prototyping of reinforcement learning algorithms.
-- [Draco Docs](https://github.com/google/draco) - Draco is a library for compressing and decompressing 3D graphics.
 - [Fastlane Docs](https://docs.fastlane.tools) - Fastlane allows you to automate the complete release process of your iOS and Android apps.
-- [Firebase Dosc](https://firebase.google.com/docs) - Firebase is an app development platform with tools to develop high-quality apps, grow your user base, and earn more money.
-- [FlatBuffers Docs](http://google.github.io/flatbuffers) - FlatBuffers is an efficient cross platform serialization library for C++, C#, C, Go, Java, JavaScript, PHP, and Python.
 - [Flutter Docs](https://flutter.dev/docs) - Flutter is a mobile app SDK for building high-performance, high-fidelity apps for iOS and Android, from a single codebase. 
-- [Forseti Security Docs](https://forsetisecurity.org/docs/latest/) - Forseti Security helps you secure your Google Cloud Platform organization.
+- [Forseti Security Docs](https://forsetisecurity.org/docs/latest/concepts/) - Forseti Security helps you secure your Google Cloud Platform organization.
 - [Fuchsia Docs](https://fuchsia.dev/fuchsia-src/development) - Fuchsia is an open-source operating system designed from the ground up for security and updatability.
-- [Go Docs](https://golang.org/doc/) - Go is an open source programming language that makes it easy to build simple, reliable, and efficient software.
-- [Google Cloud Datalab Docs](https://cloud.google.com/datalab/docs) - Cloud Datalab is a powerful interactive tool created to explore, analyze, transform and visualize data and build machine learning models on Google Cloud Platform.
 - [gRPC Docs](https://grpc.io/docs/) - gRPC is a modern RPC framework that can run in any environment. It can efficiently connect services in and across data centers with pluggable support for load balancing, tracing, health checking and authentication.
-- [Intra Docs](https://getintra.org/#) - Intra is an Android app that gives you safer, more open Internet access.
-- [Ion Docs](https://google.github.io/ion) - Ion is a portable suite of libraries and tools for building client applications, especially graphical ones.
-- [Istio Docs](https://istio.io/latest/docs/) - Istio is an open platform that provides a uniform way to connect, manage, and secure microservices.
+- [Istio Docs](https://istio.io/latest/docs/) - Istio is an open platform that provides a uniform way to connect, manage, and secure microservices. [Edit on GitHub](https://github.com/istio/istio.io/tree/master/content)
 - [JanusGraph Docs](https://docs.janusgraph.org/) - JanusGraph is a scalable distributed graph database forked from the popular, but no longer maintained, project Titan.
 - [Knative Docs](https://knative.dev/docs/developer/) - Knative components build on top of Kubernetes, abstracting away the complex details and enabling developers to focus on what matters.
-- [Kritis Docs](https://github.com/grafeas/kritis/tree/master/docs) - Kritis (“judge” in Greek), is an open source solution for securing your software supply chain for Kubernetes applications.
-- [Kythe Docs](https://kythe.io/docs/) - Kythe is a pluggable, (mostly) language-agnostic ecosystem for building tools that work with code.
 - [Kubeflow Docs](https://www.kubeflow.org/docs/) - Kubeflow is an open, community driven project to make it easy to deploy and manage an ML stack on Kubernetes.
 - [Kubernetes Docs](https://kubernetes.io/docs/home/) - Kubernetes is an open source container orchestration engine for automating deployment, scaling, and management of containerized applications. The open source project is hosted by the Cloud Native Computing Foundation (CNCF).
-- [Magenta Docs](https://magenta.tensorflow.org/get-started) - Magenta is a research project exploring the role of machine learning in the process of creating art and music. 
-- [MOE Docs](https://github.com/google/moe) - MOE(Make Open Easy) is a system for synchronizing, translating, and scrubbing source code repositories.
-- [mtail Docs](https://github.com/google/mtail/tree/main/docs) - mtail is a tool for extracting metrics from application logs to be exported into a timeseries database or timeseries calculator for alerting and dashboarding.
-- [Nomulus Docs](https://github.com/google/nomulus/tree/master/docs) - Nomulus is an open source, scalable, cloud-based platform for operating top-level domains (TLDs).
-- [OpenTelemetry Docs](https://opentelemetry.io/) - OpenTelemetry provides a single set of APIs, libraries, agents, and collector services to capture distributed traces and metrics from your application.
-- [OpenThread Docs](https://openthread.io/guides) - OpenThread was released by Nest in an effort to further standardize communication between connected devices.
-- [OpenTitan Docs](https://docs.opentitan.org/) - OpenTitan is the first open source project building a transparent, high-quality reference design and integration guidelines for silicon root of trust (RoT) chips.
-- [OpenWeave Docs](https://openweave.io/guides) - OpenWeave is an open-source implementation of the Weave network application layer, the secure, reliable communications backbone for Nest products.
-- [Outline Docs](https://getoutline.org/get-started/) - Outline is an open source VPN software released by Jigsaw on March 2018. The Outline software allows for the creation of a personal or corporate VPN server on a cloud provider of the user’s choice, with minimal effort.
-- [Perkeep Docs](https://perkeep.org/doc/) - Perkeep (née Camlistore) is a set of open source formats, protocols, and software for modeling, storing, searching, sharing and synchronizing data in the post-PC era.
-- [Polymer Docs](https://polymer-library.polymer-project.org/3.0/docs/devguide/feature-overview) - Polymer is a library that makes it easy to better structure your web applications, building on the Web Components standard to allow you to build custom, re-usable, encapsulated HTML elements.
-- [Protobuf](https://developers.google.com/protocol-buffers/docs/overview) - Protobuf is short for protocol buffers, which are language- and platform-neutral mechanisms for serializing structured data for use in communications protocols, data storage, and more.
-- [Quick,Draw! Dataset Docs](https://github.com/googlecreativelab/quickdraw-dataset) - The Quick Draw Dataset is a collection of 50 million drawings across 345 categories, contributed by players of the game Quick, Draw!.They can be used to help developers train new neural networks, help researchers see patterns in how people around the world draw, and help artists create things we haven’t begun to think of.
-- [Skia Docs](https://skia.org/docs/) - Skia is a 2D graphics library that provides common APIs to work across a variety of hardware and software platforms.
+- [OpenTelemetry Docs](https://opentelemetry.io/docs/) - OpenTelemetry provides a single set of APIs, libraries, agents, and collector services to capture distributed traces and metrics from your application.
+- [OpenTitan Docs](https://docs.opentitan.org/) - OpenTitan is the first open source project building a transparent, high-quality reference design and integration guidelines for silicon root of trust (RoT) chips. [Edit on GitHub](https://github.com/lowRISC/opentitan/tree/master/doc)
 - [Spinnaker Docs](https://spinnaker.io/docs/) - Spinnaker is an open source, multi-cloud, continuous delivery platform started at Netflix. Google joined the project in 2014 and together we launched its open sourcing in November of 2015.
-- [Stackdriver](https://cloud.google.com/products/operations) - Google Stackdriver provides powerful monitoring, logging, and diagnostics. It equips you with insight into the health, performance, and availability of cloud-powered applications, enabling you to find and fix issues faster.\
-- [SwiftShader](https://swiftshader.googlesource.com/SwiftShader/+/HEAD/docs/Index.md) - SwiftShader is a high-performance CPU-based implementation of the Vulkan graphics API. Its goal is to provide hardware independence for advanced 3D graphics.
-- [TensorFlow Playground](playground.tensorflow.org) - TensorFlow Playground is an interactive visualization of neural networks, written in typescript using d3.js. It contains a tiny neural network library that meets the demands of this educational visualization.
-- [TensorFlow Docs](https://www.tensorflow.org/tutorials) - An Open Source Machine Learning Framework for Everyone.
 - [Upspin Docs](https://upspin.io/doc/) - Upspin is an experimental project to build a framework for naming and sharing files and other data securely, uniformly, and globally: a global name system of sorts.
 - [V8 Docs](https://v8.dev/docs) - V8 is a JavaScript engine which can run standalone, or be embedded into any C++ application. It compiles JavaScript to machine code before executing it, handles memory allocation for objects, and garbage collects objects it no longer needs.
 - [Vitess Docs](https://vitess.io/docs/) - Vitess is a distributed database which uses MySQL as backend. With Vitess, existing MySQL installations can be turned into a scalable and sharded distributed database while preserving advanced MySQL features e.g. transactions or the SQL language.
-- [WebM Docs](https://www.webmproject.org/) - WebM is a royalty-free video file format for use in the HTML5 video tag.
-- [WebRTC Docs](https://webrtc.org/getting-started/firebase-rtc-codelab) - WebRTC is an open framework that enables Real Time Communications (RTC) in the browser, mobile platforms, and IoT devices via a common set of protocols.
 - [TensorFlow Docs](https://www.tensorflow.org/tutorials) - An Open Source Machine Learning Framework for Everyone. 
 
 <a name="hashicorp-open-source-documentations"/>
