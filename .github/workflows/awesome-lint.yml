@@ -1,0 +1,16 @@
+name: Awesome Linting
+
+on:
+  pull_request_target:
+    branches:
+      - main
+    
+env:
+  FORMAT_FILE: README.md
+  
+jobs:
+  Awesome_Lint:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - run: npx awesome-lint https://github.com/saintmalik/awesome-oss-docs
