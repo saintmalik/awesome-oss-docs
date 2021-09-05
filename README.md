@@ -10,6 +10,7 @@
 - [Google Open Source Documentations](#google-open-source-documentations)
 - [HashiCorp Open Source Documentations](#hashicorp-open-source-documentations)
 - [IBM Open Source Documentations](#ibm-open-source-documentations)
+- [IBM Open Source Documentations](#ibm-open-source-documentations)
 - [Linode Open Source Documentations](#linode-open-source-documentations)
 - [Microsoft Open Source Documentations](#microsoft-open-source-documentations)
 - [Netflix Open Source Documentations](#netflix-open-source-documentations)
@@ -118,6 +119,10 @@
 for building APIs and microservices.
 - [Carbon Design System Docs](https://www.carbondesignsystem.com/all-about-carbon/what-is-carbon/) - A design system for products and experiences that includes code, tools, resources, and guidelines.
 - [Node-RED Docs](https://nodered.org/docs) - Low-code programming for event-driven applications.  [Edit on GitHub](https://github.com/node-red/node-red.github.io/tree/master/docs)
+
+## JetBrains Open Source Documentations
+
+- [Kotlin Docs](hhttps://kotlinlang.org/docs/home.html) - AThe Kotlin Programming Language.
 
 <a name="linode-open-source-documentations"/>
 
