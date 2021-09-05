@@ -10,7 +10,7 @@
 - [Google Open Source Documentations](#google-open-source-documentations)
 - [HashiCorp Open Source Documentations](#hashicorp-open-source-documentations)
 - [IBM Open Source Documentations](#ibm-open-source-documentations)
-- [JetBrains Open Source Documentations](#ijetbrains-open-source-documentations)
+- [JetBrains Open Source Documentations](#jetbrains-open-source-documentations)
 - [Linode Open Source Documentations](#linode-open-source-documentations)
 - [Microsoft Open Source Documentations](#microsoft-open-source-documentations)
 - [Netflix Open Source Documentations](#netflix-open-source-documentations)
