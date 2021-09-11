@@ -4,6 +4,7 @@
 
 ## Contents
 
+- [Airbnb Open Source Documentations](#airbnb-open-source-documentations)
 - [Amazon Open Source Documentations](#amazon-open-source-documentations)
 - [DeltaLake Open Source Documentations](#deltalake-open-source-documentations)
 - [Facebook Open Source Documentations](#facebook-open-source-documentations)
@@ -24,6 +25,12 @@
 - [Twilio Open Source Documentations](#twilio-open-source-documentations)
 - [Twitter Open Source Documentations](#twitter-open-source-documentations)
 - [Uber Open Source Documentations](#uber-open-source-documentations)
+
+## Airbnb Open Source Documentations
+
+- [Visx Docs](https://www.algolia.com/doc/guides/building-search-ui/what-is-instantsearch/js/) - A
+A collection of reusable low-level visualization components. visx combines the power of d3 to generate your visualization with the benefits of React for updating the DOM. [Edit on GitHub](https://github.com/airbnb/visx/tree/master/packages)
+- [Airflow Docs](https://airflow.incubator.apache.org/docs/) - A platform to programmatically author, schedule, and monitor workflows.
 
 <a name="amazon-open-source-documentations"/>
 
