@@ -10,6 +10,6 @@ Please note we have a code of conduct. Follow it in all your interactions with t
 
 ## Pull Request Process
 
-1. Update the README.md with any OSS Documentations you want to add or update.
+1. Update the README.md with any Active OSS Documentations you want to add or update.
 2. Make sure the list of programs is still in alphabetical order.
-3. Create the pull request and explain your changes. We'll merge it in or reply as quickly as possible.
+3. Create the pull request and explain your changes, We'll merge it in or reply as quickly as possible.
