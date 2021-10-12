@@ -8,6 +8,7 @@
 - [Amazon Open Source Documentations](#amazon-open-source-documentations)
 - [Apple Open Source Documentations](#apple-open-source-documentations)
 - [DeltaLake Open Source Documentations](#deltalake-open-source-documentations)
+- [Dropbox Open Source Documentations](#dropbox-open-source-documentations)
 - [Facebook Open Source Documentations](#facebook-open-source-documentations)
 - [Google Open Source Documentations](#google-open-source-documentations)
 - [HashiCorp Open Source Documentations](#hashicorp-open-source-documentations)
@@ -79,6 +80,74 @@ A collection of reusable low-level visualization components. visx combines the p
 
 - [DeltaLake Docs](https://docs.delta.io/latest/index.html) - An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.
 
+<a name="dropbox-open-source-documentations"/>
+
+## Dropbox Open Source Documentations
+
+- [amqp-coffee](https://github.com/dropbox/amqp-coffee) - An AMQP 0.9.1 client for Node.js.
+
+- [Djinni](https://github.com/dropbox/djinni) - Generates cross-language type declarations and interface bindings.
+
+- [godropbox](https://github.com/dropbox/godropbox) - Common libraries for writing Go services/applications.
+
+- [hydra](https://github.com/dropbox/hydra) - A multi-process MongoDB collection copier.
+
+- [json11](https://github.com/dropbox/json11) - A tiny JSON library for C++11.
+
+- [lopper](https://github.com/dropbox/lopper) - A light-weight C++ library for vectorizing image-processing code.
+
+- [miniutf](https://github.com/dropbox/miniutf) - A C++ library for basic Unicode manipulation.
+
+- [pygerduty](https://github.com/dropbox/pygerduty) - A Python library for PagerDuty.
+
+- [pynsot](https://github.com/dropbox/pynsot) - A Python client for NSoT REST API.
+
+- [pyston](https://github.com/dropbox/pyston) - An open-source Python implementation using JIT techniques.
+
+- [pytest-flakefinder](https://github.com/dropbox/pytest-flakefinder) - Runs tests multiple times to expose flakiness.
+
+- [pyxl](https://github.com/dropbox/pyxl) - A Python extension for writing structured and reusable inline HTML.
+
+- [responses](https://github.com/dropbox/responses) - A utility for mocking out the Python Requests library.
+
+- [stopwatch](https://github.com/dropbox/stopwatch) - Scoped, nested, aggregated python timing library.
+
+- [unittest2pytest](https://github.com/dropbox/unittest2pytest) - Convert unittest asserts to pytest asserts.
+
+- [zxcvbn](https://github.com/dropbox/zxcvbn) - A realistic password strength estimator.
+
+- [Dropbox.NET](https://github.com/dropbox/dropbox-sdk-dotnet) - .NET SDK for the Dropbox API.
+
+- [dropbox-ios-dropins-sdk](https://github.com/dropbox/dropbox-ios-dropins-sdk) - An iOS library for choosing files in Dropbox.
+
+- [dropbox-sdk-java](https://github.com/dropbox/dropbox-sdk-java) - Java library for the Dropbox API.
+
+- [Dropbox for JavaScript](https://github.com/dropbox/dropbox-sdk-js) - JavaScript SDK for the Dropbox API.
+
+- [Dropbox for Objective-C](https://github.com/dropbox/dropbox-sdk-obj-c) - Objective-C SDK for the Dropbox API.
+
+- [Dropbox for Python](https://github.com/dropbox/dropbox-sdk-python) - Python SDK for the Dropbox API.
+
+- [SwiftyDropbox](https://github.com/dropbox/SwiftyDropbox) - Swift SDK for the Dropbox API.
+
+- [dropbox_hook](https://github.com/dropbox/dropbox_hook) - A tool for testing your Dropbox webhook endpoints.
+
+- [mdwebhook](https://github.com/dropbox/mdwebhook) - AA sample app that uses webhooks to convert Markdown files to HTML.
+
+- [PhotoWatch](https://github.com/dropbox/PhotoWatch) - A demo app for the SwiftyDropbox SDK.
+
+- [Hackpad](https://github.com/dropbox/hackpad) - A web-based realtime wiki.
+
+- [Lepton](https://github.com/dropbox/lepton) - A lossless compression utility for JPEG.
+
+- [Zulip](https://github.com/zulip) - Powerful open source group chat.
+
+- [NSoT](https://github.com/dropbox/nsot) - A Network Source of Truth API and FE for managing Network Assets.
+
+- [trapperkeeper](https://github.com/dropbox/trapperkeeper) - A suite of tools for ingesting and displaying SNMP traps.
+
+- [zinger](https://github.com/dropbox/zinger) - A script for interacting with the Zingtree API.
+
 <a name="facebook-open-source-documentations"/>
 
 ## Facebook Open Source Documentations
@@ -147,7 +216,7 @@ for building APIs and microservices.
 
 ## JetBrains Open Source Documentations
 
-- [Kotlin Docs](https://kotlinlang.org/docs/home.html) - A Kotlin Programming Language.
+- [Kotlin Docs](https://kotlinlang.org/docs/home.html) - AThe Kotlin Programming Language.
 
 <a name="linode-open-source-documentations"/>
 
