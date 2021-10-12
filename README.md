@@ -6,6 +6,7 @@
 
 - [Airbnb Open Source Documentations](#airbnb-open-source-documentations)
 - [Amazon Open Source Documentations](#amazon-open-source-documentations)
+- [Apple Open Source Documentations](#apple-open-source-documentations)
 - [DeltaLake Open Source Documentations](#deltalake-open-source-documentations)
 - [Facebook Open Source Documentations](#facebook-open-source-documentations)
 - [Google Open Source Documentations](#google-open-source-documentations)
@@ -55,6 +56,23 @@ A collection of reusable low-level visualization components. visx combines the p
 - [Firecracker Docs](https://github.com/firecracker-microvm/firecracker/blob/main/docs/getting-started.md) - Firecracker is an open source virtualization technology that is purpose-built for creating and managing secure, multi-tenant container and function-based services that provide serverless operational models.
 - [AWS CDK Docs](https://aws.amazon.com/cdk/resources) - AWS Cloud Development Kit defines cloud infrastructure using familiar programming languages.
 - [FreeRTOS Docs](https://docs.aws.amazon.com/freertos/index.html) - FreeRTOS is a market-leading real-time operating system (RTOS) for microcontrollers and small microprocessors.FreeRTOS is built with an emphasis on reliability and ease of use.
+
+<a name="apple-open-source-documentations"/>
+
+## Apple Open Source Documentations
+
+- [Swift](https://swift.org/documentation/) - A powerful and intuitive programming language designed to give developers the freedom and capabilities they need to create a new generation of cutting-edge apps.
+
+
+- [WebKit](https://webkit.org/) - An open source rendering engine introduced by Apple — powers Safari on macOS and iOS.
+
+- [Password Manager Resources](https://github.com/apple/password-manager-resources) - This allows you to integrate website-specific requirements used by the iCloud Keychain password manager to generate strong, unique passwords. 
+
+- [ResearchKit](https://www.researchandcare.org/researchkit/) - A framework that enables an iOS app to become a powerful tool for medical research.
+
+- [CareKit](https://www.researchandcare.org/carekit/) - A framework for developing apps that help people better understand and manage their health by creating dynamic care plans, tracking symptoms, connecting to care teams, and more.
+
+- [Bonjour](https://developer.apple.com/bonjour/) - It enables automatic discovery of devices and services on a local network using industry standard IP protocols.
 
 <a name="deltalake-open-source-documentations"/>
 
