@@ -63,7 +63,6 @@ A collection of reusable low-level visualization components. visx combines the p
 
 - [Swift](https://swift.org/documentation/) - A powerful and intuitive programming language designed to give developers the freedom and capabilities they need to create a new generation of cutting-edge apps.
 
-
 - [WebKit](https://webkit.org/) - An open source rendering engine introduced by Apple — powers Safari on macOS and iOS.
 
 - [Password Manager Resources](https://github.com/apple/password-manager-resources) - This allows you to integrate website-specific requirements used by the iCloud Keychain password manager to generate strong, unique passwords. 
@@ -148,7 +147,7 @@ for building APIs and microservices.
 
 ## JetBrains Open Source Documentations
 
-- [Kotlin Docs](https://kotlinlang.org/docs/home.html) - AThe Kotlin Programming Language.
+- [Kotlin Docs](https://kotlinlang.org/docs/home.html) - A Kotlin Programming Language.
 
 <a name="linode-open-source-documentations"/>
 
@@ -170,7 +169,7 @@ for building APIs and microservices.
 
 - [LoginRadius Engineering Portal](https://github.com/LoginRadius/engineering-portal) - Engineering Blog where you can contribute by writing a guest blog of fixing any issue you find with any of the available blogs.
 
-- [Cascade](https://github.com/LoginRadius/cascade) - Create your internal developers’ portal using Cascade.
+- [Cascade](https://github.com/LoginRadius/cascade) - Create your internal developers' portal using Cascade.
 
 - [C# Password Hash Library](https://github.com/LoginRadius/csharp-password-hash) - .NET standard library to secure the passwords using multiple hashing algorithms.
 
