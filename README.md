@@ -13,6 +13,7 @@
 - [IBM Open Source Documentations](#ibm-open-source-documentations)
 - [JetBrains Open Source Documentations](#jetbrains-open-source-documentations)
 - [Linode Open Source Documentations](#linode-open-source-documentations)
+- [LoginRadius Open Source Documentations](#loginradius-open-source-documentations)
 - [Microsoft Open Source Documentations](#microsoft-open-source-documentations)
 - [Netflix Open Source Documentations](#netflix-open-source-documentations)
 - [Netlify Open Source Documentations](#netlify-open-source-documentations)
@@ -136,6 +137,24 @@ for building APIs and microservices.
 ## Linode Open Source Documentations
 
 - [Linode Docs](https://www.linode.com/docs/) - Linode guides and tutorials.
+
+<a name="loginradius-open-source-documentations"/>
+
+## LoginRadius Open Source Documentations
+
+- [LoginRadius Docs](https://github.com/LoginRadius/docs) - LoginRadius Developer Documentation.
+
+- [Go-SAML](https://github.com/LoginRadius/go-saml) - High-Level API Implementation of SAML 2.0 (Currently Supported Identity Provider Implementation) Single Sign-On.
+
+- [Egnature](https://github.com/LoginRadius/egnature) - An email signature generator.
+
+- [PS-Softlist](https://github.com/LoginRadius/ps-softlist) - A power shell script to detect non-whitelisted installed software on Windows machines.
+
+- [LoginRadius Engineering Portal](https://github.com/LoginRadius/engineering-portal) - Engineering Blog where you can contribute by writing a guest blog of fixing any issue you find with any of the available blogs.
+
+- [Cascade](https://github.com/LoginRadius/cascade) - Create your internal developers’ portal using Cascade.
+
+- [C# Password Hash Library](https://github.com/LoginRadius/csharp-password-hash) - .NET standard library to secure the passwords using multiple hashing algorithms.
 
 <a name="microsoft-open-source-documentations"/>
 
