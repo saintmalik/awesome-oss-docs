@@ -304,7 +304,6 @@ for building APIs and microservices.
 
 - [Netlify CMS Docs](https://www.netlifycms.org/docs/intro/) - Netlify CMS gives non-technical users a simple way to edit and add content to any site built with a site generator, It is completely build tool agnostic and works with storing structured content in Git, Its a CMS for site generators.
 
-<a name="puppet-open-source-documentations"/>
 
 ## Puppet Open Source Documentations
 
