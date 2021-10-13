@@ -6,7 +6,9 @@
 
 - [Airbnb Open Source Documentations](#airbnb-open-source-documentations)
 - [Amazon Open Source Documentations](#amazon-open-source-documentations)
+- [Apple Open Source Documentations](#apple-open-source-documentations)
 - [DeltaLake Open Source Documentations](#deltalake-open-source-documentations)
+- [Dropbox Open Source Documentations](#dropbox-open-source-documentations)
 - [Facebook Open Source Documentations](#facebook-open-source-documentations)
 - [Google Open Source Documentations](#google-open-source-documentations)
 - [HashiCorp Open Source Documentations](#hashicorp-open-source-documentations)
@@ -56,11 +58,27 @@ A collection of reusable low-level visualization components. visx combines the p
 - [AWS CDK Docs](https://aws.amazon.com/cdk/resources) - AWS Cloud Development Kit defines cloud infrastructure using familiar programming languages.
 - [FreeRTOS Docs](https://docs.aws.amazon.com/freertos/index.html) - FreeRTOS is a market-leading real-time operating system (RTOS) for microcontrollers and small microprocessors.FreeRTOS is built with an emphasis on reliability and ease of use.
 
+<a name="apple-open-source-documentations"/>
+
+## Apple Open Source Documentations
+
+- [Swift](https://swift.org/documentation/) - A powerful and intuitive programming language designed to give developers the freedom and capabilities they need to create a new generation of cutting-edge apps. [Edit on GitHub](https://github.com/apple/swift/tree/main/docs).
+
+- [WebKit](https://webkit.org/) - An open source rendering engine introduced by Apple — powers Safari on macOS and iOS.
+
 <a name="deltalake-open-source-documentations"/>
 
 ## DeltaLake Open Source Documentations
 
 - [DeltaLake Docs](https://docs.delta.io/latest/index.html) - An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.
+
+<a name="dropbox-open-source-documentations"/>
+
+## Dropbox Open Source Documentations
+
+- [dropbox-sdk-java](https://dropbox.github.io/dropbox-sdk-java/api-docs/v2.1.x/) - Java library for the Dropbox API. [Edit on GitHub](https://github.com/dropbox/dropbox-sdk-java)
+
+- [SwiftyDropbox](https://dropbox.github.io/SwiftyDropbox/api-docs/latest/) - Swift SDK for the Dropbox API. [Edit on GiHub](https://github.com/dropbox/SwiftyDropbox) 
 
 <a name="facebook-open-source-documentations"/>
 
@@ -152,7 +170,7 @@ for building APIs and microservices.
 
 - [LoginRadius Engineering Portal](https://github.com/LoginRadius/engineering-portal) - Engineering Blog where you can contribute by writing a guest blog of fixing any issue you find with any of the available blogs.
 
-- [Cascade](https://github.com/LoginRadius/cascade) - Create your internal developers’ portal using Cascade.
+- [Cascade](https://github.com/LoginRadius/cascade) - Create your internal developer's portal using Cascade.
 
 - [C# Password Hash Library](https://github.com/LoginRadius/csharp-password-hash) - .NET standard library to secure the passwords using multiple hashing algorithms.
 
