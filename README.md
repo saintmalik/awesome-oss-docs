@@ -62,17 +62,9 @@ A collection of reusable low-level visualization components. visx combines the p
 
 ## Apple Open Source Documentations
 
-- [Swift](https://swift.org/documentation/) - A powerful and intuitive programming language designed to give developers the freedom and capabilities they need to create a new generation of cutting-edge apps.
+- [Swift](https://swift.org/documentation/) - A powerful and intuitive programming language designed to give developers the freedom and capabilities they need to create a new generation of cutting-edge apps. [Edit on GitHub](https://github.com/apple/swift/tree/main/docs).
 
 - [WebKit](https://webkit.org/) - An open source rendering engine introduced by Apple — powers Safari on macOS and iOS.
-
-- [Password Manager Resources](https://github.com/apple/password-manager-resources) - This allows you to integrate website-specific requirements used by the iCloud Keychain password manager to generate strong, unique passwords. 
-
-- [ResearchKit](https://www.researchandcare.org/researchkit/) - A framework that enables an iOS app to become a powerful tool for medical research.
-
-- [CareKit](https://www.researchandcare.org/carekit/) - A framework for developing apps that help people better understand and manage their health by creating dynamic care plans, tracking symptoms, connecting to care teams, and more.
-
-- [Bonjour](https://developer.apple.com/bonjour/) - It enables automatic discovery of devices and services on a local network using industry standard IP protocols.
 
 <a name="deltalake-open-source-documentations"/>
 
@@ -84,69 +76,9 @@ A collection of reusable low-level visualization components. visx combines the p
 
 ## Dropbox Open Source Documentations
 
-- [amqp-coffee](https://github.com/dropbox/amqp-coffee) - An AMQP 0.9.1 client for Node.js.
+- [dropbox-sdk-java](https://dropbox.github.io/dropbox-sdk-java/api-docs/v2.1.x/) - Java library for the Dropbox API. [Edit on GitHub](https://github.com/dropbox/dropbox-sdk-java)
 
-- [Djinni](https://github.com/dropbox/djinni) - Generates cross-language type declarations and interface bindings.
-
-- [godropbox](https://github.com/dropbox/godropbox) - Common libraries for writing Go services/applications.
-
-- [hydra](https://github.com/dropbox/hydra) - A multi-process MongoDB collection copier.
-
-- [json11](https://github.com/dropbox/json11) - A tiny JSON library for C++11.
-
-- [lopper](https://github.com/dropbox/lopper) - A light-weight C++ library for vectorizing image-processing code.
-
-- [miniutf](https://github.com/dropbox/miniutf) - A C++ library for basic Unicode manipulation.
-
-- [pygerduty](https://github.com/dropbox/pygerduty) - A Python library for PagerDuty.
-
-- [pynsot](https://github.com/dropbox/pynsot) - A Python client for NSoT REST API.
-
-- [pyston](https://github.com/dropbox/pyston) - An open-source Python implementation using JIT techniques.
-
-- [pytest-flakefinder](https://github.com/dropbox/pytest-flakefinder) - Runs tests multiple times to expose flakiness.
-
-- [pyxl](https://github.com/dropbox/pyxl) - A Python extension for writing structured and reusable inline HTML.
-
-- [responses](https://github.com/dropbox/responses) - A utility for mocking out the Python Requests library.
-
-- [stopwatch](https://github.com/dropbox/stopwatch) - Scoped, nested, aggregated python timing library.
-
-- [unittest2pytest](https://github.com/dropbox/unittest2pytest) - Convert unittest asserts to pytest asserts.
-
-- [zxcvbn](https://github.com/dropbox/zxcvbn) - A realistic password strength estimator.
-
-- [Dropbox.NET](https://github.com/dropbox/dropbox-sdk-dotnet) - .NET SDK for the Dropbox API.
-
-- [dropbox-ios-dropins-sdk](https://github.com/dropbox/dropbox-ios-dropins-sdk) - An iOS library for choosing files in Dropbox.
-
-- [dropbox-sdk-java](https://github.com/dropbox/dropbox-sdk-java) - Java library for the Dropbox API.
-
-- [Dropbox for JavaScript](https://github.com/dropbox/dropbox-sdk-js) - JavaScript SDK for the Dropbox API.
-
-- [Dropbox for Objective-C](https://github.com/dropbox/dropbox-sdk-obj-c) - Objective-C SDK for the Dropbox API.
-
-- [Dropbox for Python](https://github.com/dropbox/dropbox-sdk-python) - Python SDK for the Dropbox API.
-
-- [SwiftyDropbox](https://github.com/dropbox/SwiftyDropbox) - Swift SDK for the Dropbox API.
-
-- [dropbox_hook](https://github.com/dropbox/dropbox_hook) - A tool for testing your Dropbox webhook endpoints.
-
-- [mdwebhook](https://github.com/dropbox/mdwebhook) - AA sample app that uses webhooks to convert Markdown files to HTML.
-
-- [PhotoWatch](https://github.com/dropbox/PhotoWatch) - A demo app for the SwiftyDropbox SDK.
-
-- [Hackpad](https://github.com/dropbox/hackpad) - A web-based realtime wiki.
-
-- [Lepton](https://github.com/dropbox/lepton) - A lossless compression utility for JPEG.
-
-- [Zulip](https://github.com/zulip) - Powerful open source group chat.
-
-- [NSoT](https://github.com/dropbox/nsot) - A Network Source of Truth API and FE for managing Network Assets.
-
-- [trapperkeeper](https://github.com/dropbox/trapperkeeper) - A suite of tools for ingesting and displaying SNMP traps.
-
-- [zinger](https://github.com/dropbox/zinger) - A script for interacting with the Zingtree API.
+- [SwiftyDropbox](https://dropbox.github.io/SwiftyDropbox/api-docs/latest/) - Swift SDK for the Dropbox API. [Edit on GiHub](https://github.com/dropbox/SwiftyDropbox) 
 
 <a name="facebook-open-source-documentations"/>
 
