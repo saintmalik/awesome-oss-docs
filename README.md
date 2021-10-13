@@ -189,7 +189,7 @@ A collection of reusable low-level visualization components. visx combines the p
 
 - [Kubernetes Docs](https://kubernetes.io/docs/home/) - Kubernetes is an open source container orchestration engine for automating deployment, scaling, and management of containerized applications. The open source project is hosted by the Cloud Native Computing Foundation (CNCF).
 
-- [OpenTelemetry Docs](https://opentelemetry.io/docs/) - OpenTelemetry provides a single set of APIs, libraries, agents, and collector services to capture distributed traces and metrics from your application.
+- <!-- markdown-link-check-disable-line --> [OpenTelemetry Docs](https://opentelemetry.io/docs/) - OpenTelemetry provides a single set of APIs, libraries, agents, and collector services to capture distributed traces and metrics from your application.
 
 - [OpenTitan Docs](https://docs.opentitan.org/) - OpenTitan is the first open source project building a transparent, high-quality reference design and integration guidelines for silicon root of trust (RoT) chips. [Edit on GitHub](https://github.com/lowRISC/opentitan/tree/master/doc)
 
