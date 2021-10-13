@@ -238,7 +238,7 @@ for building APIs and microservices.
 
 - [LoginRadius Engineering Portal](https://github.com/LoginRadius/engineering-portal) - Engineering Blog where you can contribute by writing a guest blog of fixing any issue you find with any of the available blogs.
 
-- [Cascade](https://github.com/LoginRadius/cascade) - Create your internal developers' portal using Cascade.
+- [Cascade](https://github.com/LoginRadius/cascade) - Create your internal developer's portal using Cascade.
 
 - [C# Password Hash Library](https://github.com/LoginRadius/csharp-password-hash) - .NET standard library to secure the passwords using multiple hashing algorithms.
 
