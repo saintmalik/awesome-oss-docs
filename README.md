@@ -1,23 +1,24 @@
-# Awesome OSS Documentations  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome OSS Documentations [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of Open Source Documentations.
 
 ## Contents
 
-  - [Amazon Open Source Documentations](#amazon-open-source-documentations)
-  - [DeltaLake Open Source Documentations](#deltalake-open-source-documentations)
-  - [Facebook Open Source Documentations](#facebook-open-source-documentations)
-  - [Google Open Source Documentations](#google-open-source-documentations)
-  - [HashiCorp Open Source Documentations](#hashicorp-open-source-documentations)
-  - [Linode Open Source Documentations](#linode-open-source-documentations)
-  - [Microsoft Open Source Documentations](#microsoft-open-source-documentations)
-  - [Netflix Open Source Documentations](#netflix-open-source-documentations)
-  - [Netlify Open Source Documentations](#netlify-open-source-documentations)
-  - [Samsung Open Source Documentations](#samsung-open-source-documentations)
-  - [Shopify Open Source Documentations](#shopify-open-source-documentations)
-  - [Twilio Open Source Documentations](#twilio-open-source-documentations)
-  - [Twitter Open Source Documentations](#twitter-open-source-documentations)
-  - [Uber Open Source Documentations](#uber-open-source-documentations)
+- [Amazon Open Source Documentations](#amazon-open-source-documentations)
+- [DeltaLake Open Source Documentations](#deltalake-open-source-documentations)
+- [Facebook Open Source Documentations](#facebook-open-source-documentations)
+- [Google Open Source Documentations](#google-open-source-documentations)
+- [HashiCorp Open Source Documentations](#hashicorp-open-source-documentations)
+- [Linode Open Source Documentations](#linode-open-source-documentations)
+- [MayaData Open Source Documentations](#mayadata-open-source-documentations)
+- [Microsoft Open Source Documentations](#microsoft-open-source-documentations)
+- [Netflix Open Source Documentations](#netflix-open-source-documentations)
+- [Netlify Open Source Documentations](#netlify-open-source-documentations)
+- [Samsung Open Source Documentations](#samsung-open-source-documentations)
+- [Shopify Open Source Documentations](#shopify-open-source-documentations)
+- [Twilio Open Source Documentations](#twilio-open-source-documentations)
+- [Twitter Open Source Documentations](#twitter-open-source-documentations)
+- [Uber Open Source Documentations](#uber-open-source-documentations)
 
 <a name="amazon-open-source-documentations"/>
 
@@ -50,7 +51,7 @@
 ## Google Open Source Documentations
 
 - [Flutter Docs](https://flutter.dev/docs) - Flutter is a mobile app SDK for building high-performance, high-fidelity apps for iOS and Android, from a single codebase.
-- [Dart Docs](https://dart.dev/guides) - Dart is a programming language developed at Google and approved as a standard by Ecma. It is ideal for web development and can be transcompiled to JavaScript, but can also be used to build server, desktop, and mobile applications. 
+- [Dart Docs](https://dart.dev/guides) - Dart is a programming language developed at Google and approved as a standard by Ecma. It is ideal for web development and can be transcompiled to JavaScript, but can also be used to build server, desktop, and mobile applications.
 - [Kubeflow Docs](https://www.kubeflow.org/docs/) - Kubeflow is an open, community driven project to make it easy to deploy and manage an ML stack on Kubernetes.
 - [Kubernetes Docs](https://kubernetes.io/docs/home/) - Kubernetes is an open source container orchestration engine for automating deployment, scaling, and management of containerized applications. The open source project is hosted by the Cloud Native Computing Foundation (CNCF)
 - [Adanet Docs](https://adanet.readthedocs.io/) - Fast and flexible AutoML with learning guarantees.
@@ -71,22 +72,29 @@
 
 - [Linode Docs](https://www.linode.com/docs/) - Linode guides and tutorials.
 
+<a name="mayadata-open-source-documentations"/>
+
+## MayaData Open Source Documentations
+
+- [OpenEBS Docs](https://openebs.io/docs) - OpenEBS helps Developers and Platform SREs easily deploy Kubernetes Stateful Workloads that require fast and highly reliable Container Attached Storage.
+- [LitmusChaos Docs](https://docs.litmuschaos.io/) - Litmus is an end-to-end chaos engineering platform for cloud native infrastructure and applications.
+
 <a name="microsoft-open-source-documentations"/>
 
 ## Microsoft Open Source Documentations
 
 - [Accessibility Insights for Web Docs](https://accessibilityinsights.io/docs/en/web/overview/) - Accessibility Insights for Web. [Edit on GitHub](https://github.com/microsoft/accessibility-insights-web/tree/main/docs)
 - [TypeScript Docs](https://www.typescriptlang.org/docs/) - TypeScript is an open-source and cross-platform language that builds on JavaScript by adding static types and type-checking.
-- [Visual Studio Code Docs](https://code.visualstudio.com/docs) - Visual Studio Code is a free, highly customizable code editor that is based on an open-source codebase and runs on Linux, macOS, and Windows. 
+- [Visual Studio Code Docs](https://code.visualstudio.com/docs) - Visual Studio Code is a free, highly customizable code editor that is based on an open-source codebase and runs on Linux, macOS, and Windows.
 - [Fluid Framework Docs](https://fluidframework.com/docs/) - Library for building distributed, real-time collaborative web applications.
 - [PWA Builder Docs](https://blog.pwabuilder.com/docs) - Helping developers build Progressive Web Apps (PWAs) and package them for app stores like Google Play, Microsoft Store, macOS Store, and more.
-- [Project Mu Docs](https://microsoft.github.io/mu/) -  Project Mu is a modular adaptation of TianoCore's edk2 (UEFI BIOS reference) tuned for building modern devices using a scalable, maintainable, and reusable pattern.
+- [Project Mu Docs](https://microsoft.github.io/mu/) - Project Mu is a modular adaptation of TianoCore's edk2 (UEFI BIOS reference) tuned for building modern devices using a scalable, maintainable, and reusable pattern.
 - [PowerShell Docs](https://docs.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.1) - PowerShell is a cross-platform task automation solution made up of a command-line shell, a scripting language, and a configuration management framework. PowerShell runs on Windows, Linux, and macOS.
 - [PlayWright Docs](https://playwright.dev/docs/intro/) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
-- [Microsoft Graph Engine Docs](https://www.graphengine.io/docs/manual/index.html) -  Microsoft Graph Engine.
-- [Fast Design Docs](https://www.fast.design/docs/introduction/) -  The adaptive interface system for modern web experiences.
+- [Microsoft Graph Engine Docs](https://www.graphengine.io/docs/manual/index.html) - Microsoft Graph Engine.
+- [Fast Design Docs](https://www.fast.design/docs/introduction/) - The adaptive interface system for modern web experiences.
 - [DeepSpeed Docs](https://deepspeed.readthedocs.io/en/latest/) - DeepSpeed is a deep learning optimization library that makes distributed training easy, efficient, and effective.
-- [Dapr  Docs](https://docs.dapr.io/) - Dapr user documentation, used to build docs.dapr.io.
+- [Dapr Docs](https://docs.dapr.io/) - Dapr user documentation, used to build docs.dapr.io.
 - [Accessibility Insights for Windows. Docs](https://accessibilityinsights.io/docs/en/windows/overview/)) - Accessibility Insights for Windows, [Edit on GitHub](https://github.com/microsoft/accessibility-insights-windows/tree/main/docs).
 
 <a name="netflix-open-source-documentations"/>
@@ -114,7 +122,7 @@
 ## Shopify Open Source Documentations
 
 - [Draggable Docs](https://shopify.github.io/draggable/docs/) - The JavaScript Drag & Drop library your grandparents warned you about.
-- [FunctionalTableData Docs](https://shopify.github.io/FunctionalTableData/) -  Declarative UITableViewDataSource implementation, [Edit FunctionalTableData Docs on GitHub](https://github.com/Shopify/FunctionalTableData/tree/master/docs)
+- [FunctionalTableData Docs](https://shopify.github.io/FunctionalTableData/) - Declarative UITableViewDataSource implementation, [Edit FunctionalTableData Docs on GitHub](https://github.com/Shopify/FunctionalTableData/tree/master/docs)
 - [Shopify Theme Kit Docs](https://shopify.dev/themes/tools/theme-kit) - Shopify theme development command line tool.
 
 <a name="twilio-open-source-documentations"/>
@@ -135,12 +143,11 @@
 
 - [Base Web - React UI framework Docs](https://baseweb.design/getting-started/setup) - Base Web is a foundation for initiating, evolving, and unifying web products.
 - [Codence Work Flow Docs](https://cadenceworkflow.io/docs/get-started/#what-s-next) - Orchestration engine used to develop applications which perform multiple actions over long periods of time.
-- [Kepler.gl Docs](https://docs.kepler.gl/ ) - kepler.gl is a data-agnostic, high-perf. web application for visual exploration of large-scale geolocation data sets, [Edit Keplergl Docs on GitHub](https://github.com/keplergl/kepler.gl/tree/master/docs)
+- [Kepler.gl Docs](https://docs.kepler.gl/) - kepler.gl is a data-agnostic, high-perf. web application for visual exploration of large-scale geolocation data sets, [Edit Keplergl Docs on GitHub](https://github.com/keplergl/kepler.gl/tree/master/docs)
 - [FusionJS Docs](https://fusionjs.com/docs/overview) - Fusion.js is a modern framework for fast, powerful React apps, which provides a rich set of tools, [Edit FusionJS Docs on GitHub](https://github.com/fusionjs/fusionjs.github.io/tree/master/documentation)
-- [H3](https://h3geo.org/docs/  ) - A hexagonal hierarchical geospatial indexing system.
+- [H3](https://h3geo.org/docs/) - A hexagonal hierarchical geospatial indexing system.
 - [Nebula.gl Docs](https://nebula.gl/docs) - A suite of 3D-enabled data editing overlays, suitable for deck.gl.
 - [Pyro Docs](https://docs.pyro.ai/en/stable/) - Pyro is a flexible, scalable deep probabilistic programming library built on PyTorch.
-- [Deck.gl Docs](https://deck.gl/docs ) - WebGL2 powered geospatial visualization layers.
+- [Deck.gl Docs](https://deck.gl/docs) - WebGL2 powered geospatial visualization layers.
 - [Ludwig Docs](https://ludwig-ai.github.io/ludwig-docs/getting_started/) - A toolbox built on top of TensorFlow that allows to train and test deep learning models without writing code.
 - [Jaeger Tracing Docs](https://www.jaegertracing.io/docs/) - Base Web is a foundation for initiating, evolving, and unifying web products, [Edit Jaeger Tracing Docs on GitHub](https://github.com/jaegertracing/documentation).
-
