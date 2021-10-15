@@ -278,6 +278,8 @@
 
 - [Accessibility Insights for Web Docs](https://accessibilityinsights.io/docs/en/web/overview/) - Accessibility Insights for Web. [Edit on GitHub](https://github.com/microsoft/accessibility-insights-web/tree/main/docs)
 
+- [Azure Docs](https://docs.microsoft.com/en-us/azure/) - A cloud computing service created by Microsoft for building, testing, deploying, and managing applications and services through Microsoft-managed data centers. [Edit on GitHub](https://github.com/MicrosoftDocs/azure-docs)
+
 - [TypeScript Docs](https://www.typescriptlang.org/docs/) - TypeScript is an open-source and cross-platform language that builds on JavaScript by adding static types and type-checking.
 
 - [Visual Studio Code Docs](https://code.visualstudio.com/docs) - Visual Studio Code is a free, highly customizable code editor that is based on an open-source codebase and runs on Linux, macOS, and Windows.
