@@ -159,6 +159,8 @@
 
 - [ParlAI Docs](https://parl.ai/docs/index.html) - A framework for training and evaluating AI models on a variety of openly available dialogue datasets.
 
+- [FBT Docs](https://facebook.github.io/fbt/docs/getting_started_on_web) - FBT is an internationalization framework for JavaScript designed to be not just powerful and flexible, but also simple and intuitive.
+
 <a name="google-open-source-documentations"/>
 
 ## Google Open Source Documentations
