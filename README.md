@@ -435,7 +435,7 @@
 
 - [Codence Work Flow Docs](https://cadenceworkflow.io/docs/get-started/#what-s-next) - Orchestration engine used to develop applications which perform multiple actions over long periods of time.
 
-- [Kepler.gl Docs](https://docs.kepler.gl/) - kepler.gl is a data-agnostic, high-perf. web application for visual exploration of large-scale geolocation data sets, [Edit Keplergl Docs on GitHub](https://github.com/keplergl/kepler.gl/tree/master/docs)
+- <!-- markdown-link-check-disable-line --> [Kepler.gl Docs](https://docs.kepler.gl/) - kepler.gl is a data-agnostic, high-perf. web application for visual exploration of large-scale geolocation data sets, [Edit Keplergl Docs on GitHub](https://github.com/keplergl/kepler.gl/tree/master/docs)
 
 - [FusionJS Docs](https://fusionjs.com/docs/overview) - Fusion.js is a modern framework for fast, powerful React apps, which provides a rich set of tools, [Edit FusionJS Docs on GitHub](https://github.com/fusionjs/fusionjs.github.io/tree/master/documentation)
 
