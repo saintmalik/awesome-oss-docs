@@ -392,6 +392,8 @@
 
 <a name="suse-open-source-documentation">
 
+## SUSE Open Source Documentations
+
 - [Uyuni Docs](https://www.uyuni-project.org/uyuni-docs) - Uyuni is a solution for organizations that require robust control over maintenance and package deployment on their servers.
 
 -[Kubewarden Docs](https://docs.kubewarden.io/) - Kubewarden is a policy engine for Kubernetes. Its mission is to simplify the adoption of policy-as-code
