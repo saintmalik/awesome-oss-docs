@@ -161,6 +161,8 @@
 
 - [FBT Docs](https://facebook.github.io/fbt/docs/getting_started_on_web) - FBT is an internationalization framework for JavaScript designed to be not just powerful and flexible, but also simple and intuitive. [Edit on GitHub](https://github.com/facebook/fbt/tree/main/docs)
 
+- [RocksDB Docs](https://github.com/facebook/rocksdb/wiki) - RocksDB is a storage engine with key/value interface, where keys and values are arbitrary byte streams. It is a C++ library. It was developed at Facebook based on LevelDB and provides backwards-compatible support for LevelDB APIs.
+
 <a name="google-open-source-documentations"/>
 
 ## Google Open Source Documentations
@@ -210,6 +212,8 @@
 - [Vitess Docs](https://vitess.io/docs/) - Vitess is a distributed database which uses MySQL as backend. With Vitess, existing MySQL installations can be turned into a scalable and sharded distributed database while preserving advanced MySQL features e.g. transactions or the SQL language.
 
 - [TensorFlow Docs](https://www.tensorflow.org/tutorials) - An Open Source Machine Learning Framework for Everyone.
+
+- [OSV Docs](https://osv.dev/docs/) - OSV is a vulnerability database for open source projects. It exposes an API that lets users of these projects query whether or not their versions are impacted.
 
 <a name="hashicorp-open-source-documentations"/>
 
