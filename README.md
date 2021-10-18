@@ -212,6 +212,8 @@
 
 - [TensorFlow Docs](https://www.tensorflow.org/tutorials) - An Open Source Machine Learning Framework for Everyone.
 
+- [OSV Docs](https://osv.dev/docs/) - OSV is a vulnerability database for open source projects. It exposes an API that lets users of these projects query whether or not their versions are impacted.
+
 <a name="hashicorp-open-source-documentations"/>
 
 ## HashiCorp Open Source Documentations
