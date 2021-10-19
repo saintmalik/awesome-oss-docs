@@ -242,7 +242,7 @@
 
 ## JetBrains Open Source Documentations
 
-<!-- markdown-link-check-disable-line --> - [Kotlin Docs](https://kotlinlang.org/docs/home.html) - AThe Kotlin Programming Language.
+- <!-- markdown-link-check-disable-line --> [Kotlin Docs](https://kotlinlang.org/docs/home.html) - AThe Kotlin Programming Language.
 
 <a name="linode-open-source-documentations"/>
 
