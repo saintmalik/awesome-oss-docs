@@ -36,6 +36,8 @@
 
 - [Netlify Open Source Documentations](#netlify-open-source-documentations)
 
+- [Ory Open Source Documentations](#ory-open-source-documentations)
+
 - [Puppet Open Source Documentations](#puppet-open-source-documentations)
 
 - [RedHat Open Source Documentations](#redhat-open-source-documentations)
@@ -323,6 +325,18 @@
 ## Netlify Open Source Documentations
 
 - [Netlify CMS Docs](https://www.netlifycms.org/docs/intro/) - Netlify CMS gives non-technical users a simple way to edit and add content to any site built with a site generator, It is completely build tool agnostic and works with storing structured content in Git, Its a CMS for site generators.
+
+<a name="ory-open-source-documentations"/>
+
+## Ory Open Source Documentations
+
+- [Ory Kratos Docs](https://www.ory.sh/kratos/docs/) - Ory Kratos is an identity management server.
+
+- [Ory Hydra Docs](https://www.ory.sh/hydra/docs/) - Ory Hydra is an OAuth 2.0 and OpenID Connect provider.
+
+- [Ory Oathkeeper Docs](https://www.ory.sh/oathkeeper/docs/) - Ory Oathkeeper is an Identity and Access Proxy.
+
+- [Ory Keto Docs](https://www.ory.sh/keto/docs/) - Ory Keto is an access control server.
 
 <a name="puppet-open-source-documentations"/>
 
