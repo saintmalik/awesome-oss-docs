@@ -10,6 +10,8 @@
 
 - [Apple Open Source Documentations](#apple-open-source-documentations)
 
+- [Bridgecrew Open Source Documentations](#bridgecrew-open-source-documentations)
+
 - [DeltaLake Open Source Documentations](#deltalake-open-source-documentations)
 
 - [Dropbox Open Source Documentations](#dropbox-open-source-documentations)
@@ -116,6 +118,14 @@
 - [WebKit](https://webkit.org/) - An open source rendering engine introduced by Apple — powers Safari on macOS and iOS.
 
 <a name="deltalake-open-source-documentations"/>
+
+## Bridgecrew Open Source Documentations
+
+- [Checkov](https://checkov.io/documentation/) - Checkov is a static code analysis tool for infrastructure-as-code. [Edit on GitHub](https://github.com/bridgecrewio/checkov/tree/master/docs).
+
+- [AirIAM](https://airiam.io/documentation/) - AirIAM is a tool to identify and automate Least privilege IAM principles in AWS using Terraform.
+
+<a name="bridgecrew-open-source-documentations"/>
 
 ## DeltaLake Open Source Documentations
 
