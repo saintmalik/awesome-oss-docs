@@ -121,9 +121,9 @@
 
 ## Bridgecrew Open Source Documentations
 
-- [Checkov](https://checkov.io/documentation/) - Checkov is a static code analysis tool for infrastructure-as-code. [Edit on GitHub](https://github.com/bridgecrewio/checkov/tree/master/docs).
+- [Checkov](https://www.checkov.io/1.Welcome/Quick%20Start.html) - Checkov is a static code analysis tool for infrastructure-as-code. [Edit on GitHub](https://github.com/bridgecrewio/checkov/tree/master/docs).
 
-- [AirIAM](https://airiam.io/documentation/) - AirIAM is a tool to identify and automate Least privilege IAM principles in AWS using Terraform.
+- [AirIAM](https://airiam.io/documentation) - AirIAM is a tool to identify and automate Least privilege IAM principles in AWS using Terraform.
 
 <a name="bridgecrew-open-source-documentations"/>
 
