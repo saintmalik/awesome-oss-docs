@@ -12,6 +12,8 @@
 
 - [Bridgecrew Open Source Documentations](#bridgecrew-open-source-documentations)
 
+- [Confluent Inc. Open Source Documentations](#confluentinc-open-source-documentations)
+
 - [DeltaLake Open Source Documentations](#deltalake-open-source-documentations)
 
 - [Dropbox Open Source Documentations](#dropbox-open-source-documentations)
@@ -126,6 +128,14 @@
 - [AirIAM](https://airiam.io/documentation) - AirIAM is a tool to identify and automate Least privilege IAM principles in AWS using Terraform.
 
 <a name="bridgecrew-open-source-documentations"/>
+
+<a name="confluentinc-open-source-documentations"/>
+
+## Confluent Inc. Open Source Documentations
+
+- [Kafka Rest](https://docs.confluent.io/current/kafka-rest/docs/index.html) - Confluent REST Proxy for Kafka.
+
+- [Schema Registry](https://docs.confluent.io/current/schema-registry/docs/index.html) - Confluent Schema Registry for Kafka.
 
 ## DeltaLake Open Source Documentations
 
