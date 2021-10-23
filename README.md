@@ -135,8 +135,6 @@
 
 - [Kafka Rest](https://docs.confluent.io/current/kafka-rest/docs/index.html) - Confluent REST Proxy for Kafka.
 
-- [ksqlDB](https://docs.ksqldb.io/) - The database purpose-built for stream processing applications.
-
 - [Schema Registry](https://docs.confluent.io/current/schema-registry/docs/index.html) - Confluent Schema Registry for Kafka.
 
 ## DeltaLake Open Source Documentations
