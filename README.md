@@ -153,8 +153,6 @@
 
 - [dropbox-sdk-java](https://dropbox.github.io/dropbox-sdk-java/api-docs/v2.1.x/) - Java library for the Dropbox API. [Edit on GitHub](https://github.com/dropbox/dropbox-sdk-java)
 
-- [SwiftyDropbox](https://dropbox.github.io/SwiftyDropbox/api-docs/latest/) - Swift SDK for the Dropbox API. [Edit on GiHub](https://github.com/dropbox/SwiftyDropbox)
-
 <a name="elastic-open-source-documentations"/>
 
 ## Elastic Open Source Documentations
