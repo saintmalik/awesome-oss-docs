@@ -137,6 +137,8 @@
 
 - [Schema Registry](https://docs.confluent.io/current/schema-registry/docs/index.html) - Confluent Schema Registry for Kafka.
 
+- [ksql](https://github.com/confluentinc/ksql/tree/master/docs) - Confluent Schema Registry for Kafka.
+
 ## DeltaLake Open Source Documentations
 
 - [DeltaLake Docs](https://docs.delta.io/latest/index.html) - An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.
