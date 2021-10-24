@@ -12,7 +12,7 @@
 
 - [Bridgecrew Open Source Documentations](#bridgecrew-open-source-documentations)
 
-- [Confluent Inc. Open Source Documentations](#confluentinc-open-source-documentations)
+- [Confluent Inc. Open Source Documentations](#confluent-inc-open-source-documentations)
 
 - [DeltaLake Open Source Documentations](#deltalake-open-source-documentations)
 
@@ -121,7 +121,7 @@
 
 - [WebKit](https://webkit.org/) - An open source rendering engine introduced by Apple — powers Safari on macOS and iOS.
 
-<a name="deltalake-open-source-documentations"/>
+<a name="bridgecrew-open-source-documentations"/>
 
 ## Bridgecrew Open Source Documentations
 
@@ -129,17 +129,17 @@
 
 - [AirIAM](https://airiam.io/documentation) - AirIAM is a tool to identify and automate Least privilege IAM principles in AWS using Terraform.
 
-<a name="bridgecrew-open-source-documentations"/>
-
 <a name="confluentinc-open-source-documentations"/>
 
-## Confluent Inc. Open Source Documentations
+## Confluent Inc Open Source Documentations
 
 - [Kafka Rest](https://docs.confluent.io/current/kafka-rest/docs/index.html) - Confluent REST Proxy for Kafka.
 
 - [Schema Registry](https://docs.confluent.io/current/schema-registry/docs/index.html) - Confluent Schema Registry for Kafka.
 
-- [ksql](https://github.com/confluentinc/ksql/tree/master/docs) - Confluent Schema Registry for Kafka.
+- [Ksql](https://docs.ksqldb.io/en/latest/)- The database purpose-built for stream processing applications. [Edit On GitHub](https://github.com/confluentinc/ksql/tree/master/docs)
+
+<a name="deltalake-open-source-documentations"/>
 
 ## DeltaLake Open Source Documentations
 
