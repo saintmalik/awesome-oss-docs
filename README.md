@@ -12,11 +12,13 @@
 
 - [Bridgecrew Open Source Documentations](#bridgecrew-open-source-documentations)
 
-- [Confluent Inc. Open Source Documentations](#confluentinc-open-source-documentations)
+- [Confluent Inc. Open Source Documentations](#confluent-inc-open-source-documentations)
 
 - [DeltaLake Open Source Documentations](#deltalake-open-source-documentations)
 
 - [Dropbox Open Source Documentations](#dropbox-open-source-documentations)
+
+- [Elastic Open Source Documentations](#elastic-open-source-documentations)
 
 - [Facebook Open Source Documentations](#facebook-open-source-documentations)
 
@@ -119,7 +121,7 @@
 
 - [WebKit](https://webkit.org/) - An open source rendering engine introduced by Apple — powers Safari on macOS and iOS.
 
-<a name="deltalake-open-source-documentations"/>
+<a name="bridgecrew-open-source-documentations"/>
 
 ## Bridgecrew Open Source Documentations
 
@@ -127,17 +129,17 @@
 
 - [AirIAM](https://airiam.io/documentation) - AirIAM is a tool to identify and automate Least privilege IAM principles in AWS using Terraform.
 
-<a name="bridgecrew-open-source-documentations"/>
-
 <a name="confluentinc-open-source-documentations"/>
 
-## Confluent Inc. Open Source Documentations
+## Confluent Inc Open Source Documentations
 
 - [Kafka Rest](https://docs.confluent.io/current/kafka-rest/docs/index.html) - Confluent REST Proxy for Kafka.
 
 - [Schema Registry](https://docs.confluent.io/current/schema-registry/docs/index.html) - Confluent Schema Registry for Kafka.
 
-- [ksql](https://github.com/confluentinc/ksql/tree/master/docs) - Confluent Schema Registry for Kafka.
+- [Ksql](https://docs.ksqldb.io/en/latest/)- The database purpose-built for stream processing applications. [Edit On GitHub](https://github.com/confluentinc/ksql/tree/master/docs)
+
+<a name="deltalake-open-source-documentations"/>
 
 ## DeltaLake Open Source Documentations
 
@@ -150,6 +152,18 @@
 - [dropbox-sdk-java](https://dropbox.github.io/dropbox-sdk-java/api-docs/v2.1.x/) - Java library for the Dropbox API. [Edit on GitHub](https://github.com/dropbox/dropbox-sdk-java)
 
 - [SwiftyDropbox](https://dropbox.github.io/SwiftyDropbox/api-docs/latest/) - Swift SDK for the Dropbox API. [Edit on GiHub](https://github.com/dropbox/SwiftyDropbox)
+
+<a name="elastic-open-source-documentations"/>
+
+## Elastic Open Source Documentations
+
+- [Beats Docs](https://www.elastic.co/guide/en/beats/libbeat/current/getting-started.html) - The Beats are lightweight data shippers, written in Go, that you install on your servers to capture all sorts of operational data (think of logs, metrics, or network packet data).
+
+- [Elasticsearch Docs](https://www.elastic.co/guide/en/elasticsearch/reference/current/getting-started.html) - Elasticsearch is the distributed, RESTful search and analytics engine at the heart of the Elastic Stack. 
+
+- [Kibana Docs](https://www.elastic.co/guide/en/kibana/current/get-started.html) - Kibana is your window into the Elastic Stack. Specifically, it's a browser-based analytics and search dashboard for Elasticsearch.
+
+- [Logstash Docs](https://www.elastic.co/guide/en/logstash/current/getting-started-with-logstash.html) - Logstash is a server-side data processing pipeline that ingests data from a multitude of sources simultaneously, transforms it, and then sends it to your favorite 'stash.'
 
 <a name="facebook-open-source-documentations"/>
 
