@@ -163,7 +163,7 @@
 
 - [Kibana Docs](https://www.elastic.co/guide/en/kibana/current/get-started.html) - Kibana is your window into the Elastic Stack. Specifically, it's a browser-based analytics and search dashboard for Elasticsearch.
 
-- [Logstash Docs](https://www.elastic.co/guide/en/logstash/current/getting-started-with-logstash.html) - Logstash is a server-side data processing pipeline that ingests data from a multitude of sources simultaneously, transforms it, and then sends it to your favorite "stash."
+- [Logstash Docs](https://www.elastic.co/guide/en/logstash/current/getting-started-with-logstash.html) - Logstash is a server-side data processing pipeline that ingests data from a multitude of sources simultaneously, transforms it, and then sends it to your favorite 'stash.'
 
 <a name="facebook-open-source-documentations"/>
 
