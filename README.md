@@ -141,6 +141,8 @@
 
 <a name="deltalake-open-source-documentations"/>
 
+<a name="confluentinc-open-source-documentations"/>
+
 ## DeltaLake Open Source Documentations
 
 - [DeltaLake Docs](https://docs.delta.io/latest/index.html) - An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.
