@@ -193,8 +193,6 @@
 
 - [flow Docs](https://flow.org/en/docs/) - Adds static typing to JavaScript to improve developer productivity and code quality.
 
-- [hhvm Docs](https://github.com/facebook/hhvm) - A virtual machine for executing programs written in Hack.
-
 <a name="google-open-source-documentations"/>
 
 ## Google Open Source Documentations
