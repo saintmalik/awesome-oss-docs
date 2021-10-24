@@ -187,15 +187,13 @@
 
 - [RocksDB Docs](https://github.com/facebook/rocksdb/wiki) - RocksDB is a storage engine with key/value interface, where keys and values are arbitrary byte streams. It is a C++ library. It was developed at Facebook based on LevelDB and provides backwards-compatible support for LevelDB APIs.
 
-- [Docusaurus Docs](https://docusaurus.io/) - Easy to maintain open source documentation websites.
+- [Docusaurus Docs](https://docusaurus.io/docs) - Easy to maintain open source documentation websites.
 
-- [Flux Docs](https://facebook.github.io/flux/) - Application Architecture for Building User Interfaces.
+- [Flux Docs](https://facebook.github.io/flux/docs/overview) - Application Architecture for Building User Interfaces.
 
-- [folly Docs](https://groups.google.com/forum/?fromgroups#!forum/facebook-folly) - An open-source C++ library developed and used at Facebook.
+- [flow Docs](https://flow.org/en/docs/) - Adds static typing to JavaScript to improve developer productivity and code quality.
 
-- [flow Docs](https://flow.org/) - Adds static typing to JavaScript to improve developer productivity and code quality.
-
-- [hhvm Docs](https://hhvm.com/) - A virtual machine for executing programs written in Hack.
+- [hhvm Docs](https://docs.hhvm.com/hhvm/) - A virtual machine for executing programs written in Hack.
 
 <a name="google-open-source-documentations"/>
 
