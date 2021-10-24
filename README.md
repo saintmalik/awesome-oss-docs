@@ -18,6 +18,8 @@
 
 - [Dropbox Open Source Documentations](#dropbox-open-source-documentations)
 
+- [Elastic Open Source Documentations](#elastic-open-source-documentations)
+
 - [Facebook Open Source Documentations](#facebook-open-source-documentations)
 
 - [Google Open Source Documentations](#google-open-source-documentations)
@@ -150,6 +152,18 @@
 - [dropbox-sdk-java](https://dropbox.github.io/dropbox-sdk-java/api-docs/v2.1.x/) - Java library for the Dropbox API. [Edit on GitHub](https://github.com/dropbox/dropbox-sdk-java)
 
 - [SwiftyDropbox](https://dropbox.github.io/SwiftyDropbox/api-docs/latest/) - Swift SDK for the Dropbox API. [Edit on GiHub](https://github.com/dropbox/SwiftyDropbox)
+
+<a name="elastic-open-source-documentations"/>
+
+## Elastic Open Source Documentations
+
+- [Beats Docs](https://www.elastic.co/guide/en/beats/libbeat/current/getting-started.html) - The Beats are lightweight data shippers, written in Go, that you install on your servers to capture all sorts of operational data (think of logs, metrics, or network packet data).
+
+- [Elasticsearch Docs](https://www.elastic.co/guide/en/elasticsearch/reference/current/getting-started.html) - Elasticsearch is the distributed, RESTful search and analytics engine at the heart of the Elastic Stack. 
+
+- [Kibana Docs](https://www.elastic.co/guide/en/kibana/current/get-started.html) - Kibana is your window into the Elastic Stack. Specifically, it's a browser-based analytics and search dashboard for Elasticsearch.
+
+- [Logstash Docs](https://www.elastic.co/guide/en/logstash/current/getting-started-with-logstash.html) - Logstash is a server-side data processing pipeline that ingests data from a multitude of sources simultaneously, transforms it, and then sends it to your favorite "stash."
 
 <a name="facebook-open-source-documentations"/>
 
