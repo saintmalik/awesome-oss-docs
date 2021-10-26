@@ -12,7 +12,7 @@
 
 - [Bridgecrew Open Source Documentations](#bridgecrew-open-source-documentations)
 
-- [Confluent Inc. Open Source Documentations](#confluent-inc-open-source-documentations)
+- [Confluent Inc Open Source Documentations](#confluent-inc-open-source-documentations)
 
 - [DeltaLake Open Source Documentations](#deltalake-open-source-documentations)
 
