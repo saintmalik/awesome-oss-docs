@@ -286,7 +286,7 @@
 
 ## JetBrains Open Source Documentations
 
-- [Kotlin Docs](https://kotlinlang.org/docs/home.html) - AThe Kotlin Programming Language.
+- [Kotlin Docs](https://kotlinlang.org/docs/) - The Kotlin Programming Language.
 
 <a name="linode-open-source-documentations"/>
 
