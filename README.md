@@ -137,7 +137,7 @@
 
 - [Schema Registry](https://docs.confluent.io/current/schema-registry/docs/index.html) - Confluent Schema Registry for Kafka.
 
-- [Ksql](https://docs.ksqldb.io/en/latest/)- The database purpose-built for stream processing applications. [Edit On GitHub](https://github.com/confluentinc/ksql/tree/master/docs)
+- [Ksql](https://docs.ksqldb.io/en/latest/) - The database purpose-built for stream processing applications. [Edit On GitHub](https://github.com/confluentinc/ksql/tree/master/docs)
 
 <a name="deltalake-open-source-documentations"/>
 
@@ -163,7 +163,7 @@
 
 - [Kibana Docs](https://www.elastic.co/guide/en/kibana/current/get-started.html) - Kibana is your window into the Elastic Stack. Specifically, it's a browser-based analytics and search dashboard for Elasticsearch.
 
-- [Logstash Docs](https://www.elastic.co/guide/en/logstash/current/getting-started-with-logstash.html) - Logstash is a server-side data processing pipeline that ingests data from a multitude of sources simultaneously, transforms it, and then sends it to your favorite 'stash.'
+- [Logstash Docs](https://www.elastic.co/guide/en/logstash/current/getting-started-with-logstash.html) - Logstash is a server-side data processing pipeline that ingests data from a multitude of sources simultaneously, transforms it, and then sends it to your favorite stash.
 
 <a name="facebook-open-source-documentations"/>
 
@@ -458,9 +458,9 @@
 
 ## SUSE Open Source Documentations
 
-- [Longhorn Docs](https://longhorn.io/docs/) - A cloud native distributed block storage for Kubernetes
+- [Longhorn Docs](https://longhorn.io/docs/) - A cloud native distributed block storage for Kubernetes.
 
-- [Trento Docs](https://github.com/trento-project/trento/tree/main/docs) - A cloud native web console for SAP Applications system administrators tasks
+- [Trento Docs](https://github.com/trento-project/trento/tree/main/docs) - A cloud native web console for SAP Applications system administrators tasks.
 
 - [Uyuni Docs](https://www.uyuni-project.org/uyuni-docs) - Uyuni is a solution for organizations that require robust control over maintenance and package deployment on their servers.
 
