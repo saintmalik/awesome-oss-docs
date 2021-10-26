@@ -458,6 +458,10 @@
 
 ## SUSE Open Source Documentations
 
+- [Longhorn Docs](https://longhorn.io/docs/) - A cloud native distributed block storage for Kubernetes
+
+- [Trento Docs](https://github.com/trento-project/trento/tree/main/docs) - A cloud native web console for SAP Applications system administrators tasks
+
 - [Uyuni Docs](https://www.uyuni-project.org/uyuni-docs) - Uyuni is a solution for organizations that require robust control over maintenance and package deployment on their servers.
 
 - [Kubewarden Docs](https://docs.kubewarden.io/) - Kubewarden is a policy engine for Kubernetes. Its mission is to simplify the adoption of policy-as-code.
