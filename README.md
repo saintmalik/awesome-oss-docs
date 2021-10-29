@@ -129,6 +129,8 @@
 
 - [AirIAM](https://airiam.io/documentation) - AirIAM is a tool to identify and automate Least privilege IAM principles in AWS using Terraform.
 
+- [Yor](https://yor.io/1.Welcome/welcome.html) - Yor is an open-source tool that helps add informative and consistent tags across infrastructure-as-code frameworks such as Terraform, CloudFormation, and Serverless. [Edit on GitHub](https://github.com/bridgecrewio/yor/tree/main/docs).
+
 <a name="confluentinc-open-source-documentations"/>
 
 ## Confluent Inc Open Source Documentations
