@@ -364,6 +364,10 @@
 
 - [Atlas Docs](https://netflix.github.io/atlas-docs/) - In-memory dimensional time series database.
 
+- [Conductor](https://netflix.github.io/conductor/) - Conductor is a workflow orchestration engine that runs in the cloud. [Edit on GitHub](https://github.com/Netflix/conductor/tree/main/docs)
+
+- [Eureka](https://github.com/Netflix/eureka/wiki) - Eureka is a RESTful (Representational State Transfer) service that is primarily used in the AWS cloud for the purpose of discovery, load balancing and failover of middle-tier servers. It plays a critical role in Netflix mid-tier infra.
+
 <a name="netlify-open-source-documentations"/>
 
 ## Netlify Open Source Documentations
