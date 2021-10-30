@@ -368,7 +368,7 @@
 
 - [Genie](https://github.com/Netflix/genie) - Genie is a federated job execution engine which provides REST-ful APIs to run a variety of big data jobs like Hadoop, Pig, Hive, Presto, Sqoop, and more. It also provides APIs for managing many distributed processing cluster configurations and the commands and applications which run on them.
 
--[Inviso](https://github.com/Netflix/inviso) - Inviso is an interface to search and visualize Hadoop jobs, Job performance, and cluster utilization data.
+- [Inviso](https://github.com/Netflix/inviso) - Inviso is an interface to search and visualize Hadoop jobs, Job performance, and cluster utilization data.
 
 <a name="netlify-open-source-documentations"/>
 
