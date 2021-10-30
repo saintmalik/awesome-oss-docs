@@ -364,6 +364,8 @@
 
 - [Atlas Docs](https://netflix.github.io/atlas-docs/) - In-memory dimensional time series database.
 
+- [Conductor](https://netflix.github.io/conductor/) - Conductor is a workflow orchestration engine that runs in the cloud. [Edit on GitHub](https://github.com/Netflix/conductor/tree/main/docs)
+
 <a name="netlify-open-source-documentations"/>
 
 ## Netlify Open Source Documentations
