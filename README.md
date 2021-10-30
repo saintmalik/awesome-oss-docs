@@ -366,8 +366,9 @@
 
 - [Conductor](https://netflix.github.io/conductor/) - Conductor is a workflow orchestration engine that runs in the cloud. [Edit on GitHub](https://github.com/Netflix/conductor/tree/main/docs)
 
-- [Genie](https://github.com/Netflix/genie) - Genie is a federated job execution engine which provides REST-ful APIs to run a variety of big data jobs like Hadoop, Pig, Hive, Presto, Sqoop, and more. It also provides APIs for managing many distributed processing cluster configurations and the commands and applications which run on them.
-- [Inviso](https://github.com/Netflix/inviso) - Inviso is an interface to search and visualize Hadoop jobs, Job performance, and cluster utilization data.
+- [Falcor](https://netflix.github.io/falcor/) -Falcor lets you represent all your remote data sources as a single domain model via a virtual JSON graph. You code the same way no matter where the data is, whether in memory on the client or over the network on the server.
+
+- [Hollow](https://github.com/Netflix/hollow) - Netflix Hollow is a java library and toolset for disseminating in-memory datasets from a single producer to many consumers for high performance read-only access. Hollow aggressively addresses the scaling challenges of in-memory datasets, and is built with servers busily serving requests at or near maximum capacity in mind.
 
 <a name="netlify-open-source-documentations"/>
 
