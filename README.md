@@ -366,6 +366,10 @@
 
 - [Conductor](https://netflix.github.io/conductor/) - Conductor is a workflow orchestration engine that runs in the cloud. [Edit on GitHub](https://github.com/Netflix/conductor/tree/main/docs)
 
+- [Falcor](https://netflix.github.io/falcor/) -Falcor lets you represent all your remote data sources as a single domain model via a virtual JSON graph. You code the same way no matter where the data is, whether in memory on the client or over the network on the server.
+
+- [Hollow](https://hollow.how/) - Netflix Hollow is a java library and toolset for disseminating in-memory datasets from a single producer to many consumers for high performance read-only access. Hollow aggressively addresses the scaling challenges of in-memory datasets, and is built with servers busily serving requests at or near maximum capacity in mind.
+
 <a name="netlify-open-source-documentations"/>
 
 ## Netlify Open Source Documentations
