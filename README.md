@@ -348,6 +348,16 @@
 
 - [Fast Design Docs](https://www.fast.design/docs/introduction/) - The adaptive interface system for modern web experiences.
 
+- [Azure Python SDK Docs](https://docs.microsoft.com/python/api) - Azure Python SDK documentation, hosted on docs.microsoft.com.
+
+- [Azure PowerShell Docs](https://docs.ms.com) - Repository used to store Azure PowerShell cmdlet content published on docs.ms.com reference site.  [Edit on GitHub](https://github.com/MicrosoftDocs/azure-docs-powershell)
+
+- [Microsoft 365 Docs](https://docs.microsoft.com/) - This repo is used to host the source for the Microsoft 365 documentation on. [Edit on GitHub](https://github.com/MicrosoftDocs/microsoft-365-docs)
+
+- [Azure CLI Docs](https://docs.microsoft.com/cli/azure/) - Repository used to store content for the docs.microsoft.com content for the Azure CLI.
+
+- [PowerShell Docs](https://docs.microsoft.com/en-gb/powershell/) - The official PowerShell documentation sources.
+
 - [DeepSpeed Docs](https://deepspeed.readthedocs.io/en/latest/) - DeepSpeed is a deep learning optimization library that makes distributed training easy, efficient, and effective.
 
 - [Dapr Docs](https://docs.dapr.io/) - Dapr user documentation, used to build docs.dapr.io.
