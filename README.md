@@ -1,81 +1,83 @@
-# Awesome OSS Documentations [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome OSS Documentation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of Open Source Documentations.
+> A curated list of Open Source Documentation.
 
 ## Contents
 
-- [Airbnb Open Source Documentations](#airbnb-open-source-documentations)
+- [Airbnb Open Source Documentation](#airbnb-open-source-documentation)
 
-- [Amazon Open Source Documentations](#amazon-open-source-documentations)
+- [Amazon Open Source Documentation](#amazon-open-source-documentation)
 
-- [Apple Open Source Documentations](#apple-open-source-documentations)
+- [Apple Open Source Documentation](#apple-open-source-documentation)
 
-- [Bridgecrew Open Source Documentations](#bridgecrew-open-source-documentations)
+- [Bridgecrew Open Source Documentation](#bridgecrew-open-source-documentation)
 
-- [Confluent Inc Open Source Documentations](#confluent-inc-open-source-documentations)
+- [Confluent Inc Open Source Documentation](#confluent-inc-open-source-documentation)
 
-- [DeltaLake Open Source Documentations](#deltalake-open-source-documentations)
+- [DeltaLake Open Source Documentation](#deltalake-open-source-documentation)
 
-- [Dropbox Open Source Documentations](#dropbox-open-source-documentations)
+- [Dropbox Open Source Documentation](#dropbox-open-source-documentation)
 
-- [Elastic Open Source Documentations](#elastic-open-source-documentations)
+- [Elastic Open Source Documentation](#elastic-open-source-documentation)
 
-- [Facebook Open Source Documentations](#facebook-open-source-documentations)
+- [Facebook Open Source Documentation](#facebook-open-source-documentation)
 
-- [Google Open Source Documentations](#google-open-source-documentations)
+- [Google Open Source Documentation](#google-open-source-documentation)
 
-- [HashiCorp Open Source Documentations](#hashicorp-open-source-documentations)
+- [HashiCorp Open Source Documentation](#hashicorp-open-source-documentation)
 
-- [IBM Open Source Documentations](#ibm-open-source-documentations)
+- [IBM Open Source Documentation](#ibm-open-source-documentation)
 
-- [JetBrains Open Source Documentations](#jetbrains-open-source-documentations)
+- [JetBrains Open Source Documentation](#jetbrains-open-source-documentation)
 
-- [Linode Open Source Documentations](#linode-open-source-documentations)
+- [Linode Open Source Documentation](#linode-open-source-documentation)
 
-- [LoginRadius Open Source Documentations](#loginradius-open-source-documentations)
+- [LoginRadius Open Source Documentation](#loginradius-open-source-documentation)
 
-- [MayaData Open Source Documentations](#mayadata-open-source-documentations)
+- [MayaData Open Source Documentation](#mayadata-open-source-documentation)
 
-- [Microsoft Open Source Documentations](#microsoft-open-source-documentations)
+- [Microsoft Open Source Documentation](#microsoft-open-source-documentation)
 
-- [Netflix Open Source Documentations](#netflix-open-source-documentations)
+- [Netflix Open Source Documentation](#netflix-open-source-documentation)
 
-- [Netlify Open Source Documentations](#netlify-open-source-documentations)
+- [Netlify Open Source Documentation](#netlify-open-source-documentation)
 
-- [Ory Open Source Documentations](#ory-open-source-documentations)
+- [Ory Open Source Documentation](#ory-open-source-documentation)
 
-- [Puppet Open Source Documentations](#puppet-open-source-documentations)
+- [Puppet Open Source Documentation](#puppet-open-source-documentation)
 
-- [RedHat Open Source Documentations](#redhat-open-source-documentations)
+- [RedHat Open Source Documentation](#redhat-open-source-documentation)
 
-- [Salesforce Open Source Documentations](#salesforce-open-source-documentations)
+- [Salesforce Open Source Documentation](#salesforce-open-source-documentation)
 
-- [Samsung Open Source Documentations](#samsung-open-source-documentations)
+- [Samsung Open Source Documentation](#samsung-open-source-documentation)
 
-- [Shopify Open Source Documentations](#shopify-open-source-documentations)
+- [Shopify Open Source Documentation](#shopify-open-source-documentation)
 
-- [SlackHQ Open Source Documentations](#slackhq-open-source-documentations)
+- [SlackHQ Open Source Documentation](#slackhq-open-source-documentation)
 
-- [SUSE Open Source Documentations](#suse-open-source-documentations)
+- [SUSE Open Source Documentation](#suse-open-source-documentation)
 
-- [The Guild Open Source Documentations](#the-guild-open-source-documentations)
+- [The Guild Open Source Documentation](#the-guild-open-source-documentation)
 
-- [Twilio Open Source Documentations](#twilio-open-source-documentations)
+- [Twilio Open Source Documentation](#twilio-open-source-documentation)
 
-- [Twitter Open Source Documentations](#twitter-open-source-documentations)
+- [Twitter Open Source Documentation](#twitter-open-source-documentation)
 
-- [Uber Open Source Documentations](#uber-open-source-documentations)
+- [Uber Open Source Documentation](#uber-open-source-documentation)
 
-## Airbnb Open Source Documentations
+<a name="airbnb-open-source-documentation"/>
+
+## Airbnb Open Source Documentation
 
 - [Visx Docs](https://www.algolia.com/doc/guides/building-search-ui/what-is-instantsearch/js/) - A
   A collection of reusable low-level visualization components. visx combines the power of d3 to generate your visualization with the benefits of React for updating the DOM. [Edit on GitHub](https://github.com/airbnb/visx/tree/master/packages)
 
 - [Airflow Docs](https://airflow.incubator.apache.org/docs/) - A platform to programmatically author, schedule, and monitor workflows.
 
-<a name="amazon-open-source-documentations"/>
+<a name="amazon-open-source-documentation"/>
 
-## Amazon Open Source Documentations
+## Amazon Open Source Documentation
 
 - [OpenSearch Docs](https://opensearch.org/docs) - The documentation for OpenSearch, OpenSearch Dashboards, and their associated plugins. [Edit on GitHub](https://github.com/opensearch-project/documentation-website)
 
@@ -113,17 +115,17 @@
 
 - [FreeRTOS Docs](https://docs.aws.amazon.com/freertos/index.html) - FreeRTOS is a market-leading real-time operating system (RTOS) for microcontrollers and small microprocessors.FreeRTOS is built with an emphasis on reliability and ease of use.
 
-<a name="apple-open-source-documentations"/>
+<a name="apple-open-source-documentation"/>
 
-## Apple Open Source Documentations
+## Apple Open Source Documentation
 
 - [Swift](https://swift.org/documentation/) - A powerful and intuitive programming language designed to give developers the freedom and capabilities they need to create a new generation of cutting-edge apps. [Edit on GitHub](https://github.com/apple/swift/tree/main/docs).
 
 - [WebKit](https://webkit.org/) - An open source rendering engine introduced by Apple — powers Safari on macOS and iOS.
 
-<a name="bridgecrew-open-source-documentations"/>
+<a name="bridgecrew-open-source-documentation"/>
 
-## Bridgecrew Open Source Documentations
+## Bridgecrew Open Source Documentation
 
 - [Checkov](https://www.checkov.io/1.Welcome/Quick%20Start.html) - Checkov is a static code analysis tool for infrastructure-as-code. [Edit on GitHub](https://github.com/bridgecrewio/checkov/tree/master/docs).
 
@@ -131,9 +133,9 @@
 
 - [Yor](https://yor.io/1.Welcome/welcome.html) - Yor is an open-source tool that helps add informative and consistent tags across infrastructure-as-code frameworks such as Terraform, CloudFormation, and Serverless. [Edit on GitHub](https://github.com/bridgecrewio/yor/tree/main/docs).
 
-<a name="confluentinc-open-source-documentations"/>
+<a name="confluentinc-open-source-documentation"/>
 
-## Confluent Inc Open Source Documentations
+## Confluent Inc Open Source Documentation
 
 - [Kafka Rest](https://docs.confluent.io/current/kafka-rest/docs/index.html) - Confluent REST Proxy for Kafka.
 
@@ -141,23 +143,21 @@
 
 - [Ksql](https://docs.ksqldb.io/en/latest/) - The database purpose-built for stream processing applications. [Edit On GitHub](https://github.com/confluentinc/ksql/tree/master/docs)
 
-<a name="deltalake-open-source-documentations"/>
+<a name="deltalake-open-source-documentation"/>
 
-<a name="confluentinc-open-source-documentations"/>
-
-## DeltaLake Open Source Documentations
+## DeltaLake Open Source Documentation
 
 - [DeltaLake Docs](https://docs.delta.io/latest/index.html) - An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.
 
-<a name="dropbox-open-source-documentations"/>
+<a name="dropbox-open-source-documentation"/>
 
-## Dropbox Open Source Documentations
+## Dropbox Open Source Documentation
 
 - [dropbox-sdk-java](https://dropbox.github.io/dropbox-sdk-java/api-docs/v2.1.x/) - Java library for the Dropbox API. [Edit on GitHub](https://github.com/dropbox/dropbox-sdk-java)
 
-<a name="elastic-open-source-documentations"/>
+<a name="elastic-open-source-documentation"/>
 
-## Elastic Open Source Documentations
+## Elastic Open Source Documentation
 
 - [Beats Docs](https://www.elastic.co/guide/en/beats/libbeat/current/getting-started.html) - The Beats are lightweight data shippers, written in Go, that you install on your servers to capture all sorts of operational data (think of logs, metrics, or network packet data).
 
@@ -167,15 +167,15 @@
 
 - [Logstash Docs](https://www.elastic.co/guide/en/logstash/current/getting-started-with-logstash.html) - Logstash is a server-side data processing pipeline that ingests data from a multitude of sources simultaneously, transforms it, and then sends it to your favorite stash.
 
-<a name="facebook-open-source-documentations"/>
+<a name="facebook-open-source-documentation"/>
 
-## Facebook Open Source Documentations
+## Facebook Open Source Documentation
 
 - [React Native Docs](https://reactnative.dev/docs/getting-started) - A framework for building native apps with React.
 
-- [ReactJS Docs](https://reactjs.org/docs/getting-started.html) - A JavaScript library for building user interfaces.
+- [React Docs](https://React.org/docs/getting-started.html) - A JavaScript library for building user interfaces.
 
-- [Create React App Docs](https://create-react-app.dev/docs/getting-started) - Set up a modern ReactJS web app by running one command.
+- [Create React App Docs](https://create-react-app.dev/docs/getting-started) - Set up a modern React web app by running one command.
 
 - [Hermes Docs](https://hermesengine.dev/docs/building-and-running) - A JavaScript engine optimized for running React Native.
 
@@ -209,9 +209,9 @@
 
 - [flow Docs](https://flow.org/en/docs/) - Adds static typing to JavaScript to improve developer productivity and code quality.
 
-<a name="google-open-source-documentations"/>
+<a name="google-open-source-documentation"/>
 
-## Google Open Source Documentations
+## Google Open Source Documentation
 
 - [Adanet Docs](https://adanet.readthedocs.io/) - Fast and flexible AutoML with learning guarantees.
 
@@ -261,9 +261,9 @@
 
 - [OSV Docs](https://osv.dev/docs/) - OSV is a vulnerability database for open source projects. It exposes an API that lets users of these projects query whether or not their versions are impacted.
 
-<a name="hashicorp-open-source-documentations"/>
+<a name="hashicorp-open-source-documentation"/>
 
-## HashiCorp Open Source Documentations
+## HashiCorp Open Source Documentation
 
 - [Terraform Docs](https://www.terraform.io/docs/) - Terraform Linode provider.
 
@@ -275,9 +275,9 @@
 
 - [Consul Docs](https://www.consul.io/docs) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 
-<a name="ibm-open-source-documentations"/>
+<a name="ibm-open-source-documentation"/>
 
-## IBM Open Source Documentations
+## IBM Open Source Documentation
 
 - [Loopback Docs](https://loopback.io/doc/en/lb4/) - A highly extensible Node.js and TypeScript framework
   for building APIs and microservices.
@@ -286,19 +286,19 @@
 
 - [Node-RED Docs](https://nodered.org/docs) - Low-code programming for event-driven applications. [Edit on GitHub](https://github.com/node-red/node-red.github.io/tree/master/docs)
 
-## JetBrains Open Source Documentations
+## JetBrains Open Source Documentation
 
 - [Kotlin Docs](https://kotlinlang.org/docs/home.html) - The Kotlin Programming Language.
 
-<a name="linode-open-source-documentations"/>
+<a name="linode-open-source-documentation"/>
 
-## Linode Open Source Documentations
+## Linode Open Source Documentation
 
 - [Linode Docs](https://www.linode.com/docs/) - Linode guides and tutorials.
 
-<a name="loginradius-open-source-documentations"/>
+<a name="loginradius-open-source-documentation"/>
 
-## LoginRadius Open Source Documentations
+## LoginRadius Open Source Documentation
 
 - [LoginRadius Docs](https://github.com/LoginRadius/docs) - LoginRadius Developer Documentation.
 
@@ -314,17 +314,17 @@
 
 - [C# Password Hash Library](https://github.com/LoginRadius/csharp-password-hash) - .NET standard library to secure the passwords using multiple hashing algorithms.
 
-<a name="mayadata-open-source-documentations"/>
+<a name="mayadata-open-source-documentation"/>
 
-## MayaData Open Source Documentations
+## MayaData Open Source Documentation
 
 - [OpenEBS Docs](https://openebs.io/docs) - OpenEBS helps Developers and Platform SREs easily deploy Kubernetes Stateful Workloads that require fast and highly reliable Container Attached Storage.
 
 - [LitmusChaos Docs](https://docs.litmuschaos.io/) - Litmus is an end-to-end chaos engineering platform for cloud native infrastructure and applications.
 
-<a name="microsoft-open-source-documentations"/>
+<a name="microsoft-open-source-documentation"/>
 
-## Microsoft Open Source Documentations
+## Microsoft Open Source Documentation
 
 - [Accessibility Insights for Web Docs](https://accessibilityinsights.io/docs/en/web/overview/) - Accessibility Insights for Web. [Edit on GitHub](https://github.com/microsoft/accessibility-insights-web/tree/main/docs)
 
@@ -366,9 +366,9 @@
 
 - [Accessibility Insights for Windows. Docs](https://accessibilityinsights.io/docs/en/windows/overview/) - Accessibility Insights for Windows. [Edit on GitHub](https://github.com/microsoft/accessibility-insights-windows/tree/main/docs)
 
-<a name="netflix-open-source-documentations"/>
+<a name="netflix-open-source-documentation"/>
 
-## Netflix Open Source Documentations
+## Netflix Open Source Documentation
 
 - [Metaflow Docs](https://github.com/Netflix/metaflow-docs) - Build and manage real-life data science projects with ease.
 
@@ -380,15 +380,15 @@
 
 - [Hollow](https://hollow.how/) - Netflix Hollow is a java library and toolset for disseminating in-memory datasets from a single producer to many consumers for high performance read-only access. Hollow aggressively addresses the scaling challenges of in-memory datasets, and is built with servers busily serving requests at or near maximum capacity in mind.
 
-<a name="netlify-open-source-documentations"/>
+<a name="netlify-open-source-documentation"/>
 
-## Netlify Open Source Documentations
+## Netlify Open Source Documentation
 
 - [Netlify CMS Docs](https://www.netlifycms.org/docs/intro/) - Netlify CMS gives non-technical users a simple way to edit and add content to any site built with a site generator, It is completely build tool agnostic and works with storing structured content in Git, Its a CMS for site generators.
 
-<a name="ory-open-source-documentations"/>
+<a name="ory-open-source-documentation"/>
 
-## Ory Open Source Documentations
+## Ory Open Source Documentation
 
 - [Ory Kratos Docs](https://www.ory.sh/kratos/docs/) - Ory Kratos is an identity management server.
 
@@ -398,17 +398,17 @@
 
 - [Ory Keto Docs](https://www.ory.sh/keto/docs/) - Ory Keto is an access control server.
 
-<a name="puppet-open-source-documentations"/>
+<a name="puppet-open-source-documentation"/>
 
-## Puppet Open Source Documentations
+## Puppet Open Source Documentation
 
 - [Puppet VS Code Extension](https://puppet-vscode.github.io/docs) - The Puppet Extension for VS Code provides full Puppet DSL intellisense, syntax highlighting, Puppet command support, Puppet node graphs, and much more.
 
 - [PuppetDB](https://puppet.com/docs/puppetdb/7/overview.html) - PuppetDB collects and stores data generated by Puppet giving you access to a huge inventory of metadata about every node in your infrastructure.
 
-<a name="redhat-open-source-documentations"/>
+<a name="redhat-open-source-documentation"/>
 
-## RedHat Open Source Documentations
+## RedHat Open Source Documentation
 
 - [CentOS Docs](https://docs.centos.org) - SA solid, predictable base to build upon, with extensive resources to build, test, release, and maintain code.
 
@@ -418,9 +418,9 @@
 
 - [WildFly Docs](https://docs.wildfly.org/) - A flexible, lightweight, managed application runtime that helps you build amazing applications. [Edit on GitHub](https://github.com/wildfly/wildfly/tree/main/docs)
 
-<a name="salesforce-open-source-documentations"/>
+<a name="salesforce-open-source-documentation"/>
 
-## Salesforce Open Source Documentations
+## Salesforce Open Source Documentation
 
 - [Lightning Web Components Docs](https://lwc.dev/guide/introduction) - A Blazing Fast, Enterprise-Grade Web Components Foundation, The lightweight, high performance web component framework that powers thousands of apps.
 
@@ -438,17 +438,17 @@
 
 - [Policy Sentry Docs](https://policy-sentry.readthedocs.io/en/latest/) - AM Least Privilege Policy Generator.
 
-<a name="samsung-open-source-documentations"/>
+<a name="samsung-open-source-documentation"/>
 
-## Samsung Open Source Documentations
+## Samsung Open Source Documentation
 
 - [Tizen Docs](https://docs.tizen.org/) - Tizen is an open and flexible operating system built from the ground up to address the needs of all stakeholders of the mobile and connected device ecosystem, including device manufacturers, mobile operators, application developers and independent software vendors (ISVs).
 
 - [JerryScript Docs](https://jerryscript.net/getting-started/) - Ultra-lightweight JavaScript engine for the Internet of Things.
 
-<a name="shopify-open-source-documentations"/>
+<a name="shopify-open-source-documentation"/>
 
-## Shopify Open Source Documentations
+## Shopify Open Source Documentation
 
 - [Draggable Docs](https://shopify.github.io/draggable/docs/) - The JavaScript Drag & Drop library your grandparents warned you about.
 
@@ -456,9 +456,9 @@
 
 - [Shopify Theme Kit Docs](https://shopify.dev/themes/tools/theme-kit) - Shopify theme development command line tool.
 
-<a name="slackhq-open-source-documentations"/>
+<a name="slackhq-open-source-documentation"/>
 
-## SlackHQ Open Source Documentations
+## SlackHQ Open Source Documentation
 
 - [Keeper Docs](https://slackhq.github.io/keeper/) - A Gradle plugin that infers Proguard/R8 keep rules for androidTest sources.
 
@@ -474,7 +474,7 @@
 
 <a name="suse-open-source-documentation">
 
-## SUSE Open Source Documentations
+## SUSE Open Source Documentation
 
 - [Longhorn Docs](https://longhorn.io/docs/) - A cloud native distributed block storage for Kubernetes.
 
@@ -484,9 +484,9 @@
 
 - [Kubewarden Docs](https://docs.kubewarden.io/) - Kubewarden is a policy engine for Kubernetes. Its mission is to simplify the adoption of policy-as-code.
 
-<a name="the-guild-open-source-documentations"/>
+<a name="the-guild-open-source-documentation"/>
 
-## The Guild Open Source Documentations
+## The Guild Open Source Documentation
 
 - [GraphQL Inspector Docs](https://graphql-inspector.com/docs/index) - Validate schema, get schema change notifications, validate operations, find breaking changes, look for similar types, schema coverage.
 
@@ -500,21 +500,21 @@
 
 - [GraphQL Tools Docs](https://www.graphql-tools.com/docs/introduction) - Build, mock, and stitch a GraphQL schema using the schema language.
 
-<a name="twilio-open-source-documentations"/>
+<a name="twilio-open-source-documentation"/>
 
-## Twilio Open Source Documentations
+## Twilio Open Source Documentation
 
 - [SendGrid Docs](https://docs.sendgrid.com/) - SendGrid is everything you need to send emails that cut through the noise and make a connection. [GitHub Docs Location](https://github.com/sendgrid/docs/tree/develop/content/docs)
 
-<a name="twitter-open-source-documentations"/>
+<a name="twitter-open-source-documentation"/>
 
-## Twitter Open Source Documentations
+## Twitter Open Source Documentation
 
 - [Pants](https://www.pantsbuild.org/docs) - Pants is a fast, scalable, user-friendly build system for codebases of all sizes. It's currently focused on Python and Shell, with support for other languages coming soon.
 
-<a name="uber-open-source-documentations"/>
+<a name="uber-open-source-documentation"/>
 
-## Uber Open Source Documentations
+## Uber Open Source Documentation
 
 - [Base Web - React UI framework Docs](https://baseweb.design/getting-started/setup) - Base Web is a foundation for initiating, evolving, and unifying web products.
 
