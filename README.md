@@ -1,6 +1,6 @@
 # Awesome OSS Documentation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of Open Source Documentation.
+> Carefully curated list of awesome open source software documentations.
 
 ## Contents
 
