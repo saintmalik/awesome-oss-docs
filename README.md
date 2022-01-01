@@ -173,7 +173,7 @@
 
 - [React Native Docs](https://reactnative.dev/docs/getting-started) - A framework for building native apps with React.
 
-- [React Docs](https://React.org/docs/getting-started.html) - A JavaScript library for building user interfaces.
+- [React Docs](https://reactjs.org/docs/getting-started.html) - A JavaScript library for building user interfaces.
 
 - [Create React App Docs](https://create-react-app.dev/docs/getting-started) - Set up a modern React web app by running one command.
 
