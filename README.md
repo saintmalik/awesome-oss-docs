@@ -10,6 +10,8 @@
 
 - [Apple Open Source Documentation](#apple-open-source-documentation)
 
+- [Apache Software Foundation Open Source Documentation](#apache-software-foundation-open-source-documentation)
+
 - [Bridgecrew Open Source Documentation](#bridgecrew-open-source-documentation)
 
 - [Confluent Inc Open Source Documentation](#confluent-inc-open-source-documentation)
@@ -124,6 +126,12 @@
 - [WebKit](https://webkit.org/) - An open source rendering engine introduced by Apple — powers Safari on macOS and iOS.
 
 <a name="bridgecrew-open-source-documentation"/>
+
+## Apache Software Foundation Open Source Documentation
+
+- [Apache APISIX](http://apisix.apache.org/) - Apache APISIX is a dynamic, real-time, high-performance API gateway, and it provides rich traffic management features such as load balancing, dynamic upstream, canary release, circuit breaking, authentication, observability, and more. [Edit on GitHub](https://github.com/apache/apisix/tree/master/docs)
+
+- [Apache SkyWalking](https://skywalking.apache.org/) - Application performance monitor tool for distributed systems, especially designed for microservices, cloud native and container-based (Kubernetes) architectures. [Edit on GitHub](https://github.com/apache/skywalking/tree/master/docs)
 
 ## Bridgecrew Open Source Documentation
 
