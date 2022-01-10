@@ -14,7 +14,9 @@
 
 - [Bridgecrew Open Source Documentation](#bridgecrew-open-source-documentation)
 
-- [Confluent Inc Open Source Documentation](#confluent-inc-open-source-documentation)
+- [Confluent Inc Open Source Documentation](#confluent-inc-open-source-documentation) 
+
+- [Cryptocurrencies Open Source Documentation](#cryptocurrencies-open-source-documentation)
 
 - [DeltaLake Open Source Documentation](#deltalake-open-source-documentation)
 
@@ -152,6 +154,22 @@
 - [Schema Registry](https://docs.confluent.io/current/schema-registry/docs/index.html) - Confluent Schema Registry for Kafka.
 
 - [Ksql](https://docs.ksqldb.io/en/latest/) - The database purpose-built for stream processing applications. [Edit On GitHub](https://github.com/confluentinc/ksql/tree/master/docs)
+
+<a name="#cryptocurrencies-open-source-documentation"/>
+
+## Cryptocurrencies Open Source Documentation
+
+- [Avalanche](https://docs.avax.network/) - An open-source platform for launching decentralized applications and enterprise blockchain deployments in one interoperable, highly scalable ecosystem.
+
+- [Solana](https://docs.solana.com/introduction) - An open source project implementing a new, high-performance, permissionless blockchain. [Edit On GitHub](https://github.com/solana-labs/solana/tree/master/docs)
+
+- [Polkadot](https://wiki.polkadot.network/docs/getting-started) - A project that enables scalability by allowing specialized blockchains to communicate with each other in a secure, trust-free environment.
+
+- [Binance API](https://binance-docs.github.io/apidocs/) - Official Documentation for the Binance APIs and Streams Resources. [Edit On GitHub](https://github.com/binance/binance-spot-api-docs)
+
+- [Algorand](https://developer.algorand.org/docs/get-started/basics/what_is_blockchain/) - Algorand is a blockchain cryptocurrency protocol that aims to be scalable, it supports smart contracts, and its consensus algorithm is based on proof of stake and a Byzantine agreement protocol.
+
+- [Cosmos](https://docs.cosmos.network/v0.44/intro/overview.html) - ⛓️ A Framework for Building High Value Public Blockchains ✨. [Edit On GitHub](https://github.com/cosmos/cosmos-sdk/tree/master/docs)
 
 <a name="deltalake-open-source-documentation"/>
 
