@@ -5,69 +5,37 @@
 ## Contents
 
 - [Airbnb Open Source Documentation](#airbnb-open-source-documentation)
-
 - [Amazon Open Source Documentation](#amazon-open-source-documentation)
-
 - [Apache Software Foundation Open Source Documentation](#apache-software-foundation-open-source-documentation)
-
 - [Apple Open Source Documentation](#apple-open-source-documentation)
-
 - [Bridgecrew Open Source Documentation](#bridgecrew-open-source-documentation)
-
 - [Confluent Inc Open Source Documentation](#confluent-inc-open-source-documentation) 
-
 - [Cryptocurrencies Open Source Documentation](#cryptocurrencies-open-source-documentation)
-
 - [DeltaLake Open Source Documentation](#deltalake-open-source-documentation)
-
 - [Dropbox Open Source Documentation](#dropbox-open-source-documentation)
-
 - [Elastic Open Source Documentation](#elastic-open-source-documentation)
-
 - [Facebook Open Source Documentation](#facebook-open-source-documentation)
-
 - [Google Open Source Documentation](#google-open-source-documentation)
-
 - [HashiCorp Open Source Documentation](#hashicorp-open-source-documentation)
-
 - [IBM Open Source Documentation](#ibm-open-source-documentation)
-
 - [JetBrains Open Source Documentation](#jetbrains-open-source-documentation)
-
 - [Linode Open Source Documentation](#linode-open-source-documentation)
-
 - [LoginRadius Open Source Documentation](#loginradius-open-source-documentation)
-
 - [MayaData Open Source Documentation](#mayadata-open-source-documentation)
-
 - [Microsoft Open Source Documentation](#microsoft-open-source-documentation)
-
 - [Netflix Open Source Documentation](#netflix-open-source-documentation)
-
 - [Netlify Open Source Documentation](#netlify-open-source-documentation)
-
 - [Ory Open Source Documentation](#ory-open-source-documentation)
-
 - [Puppet Open Source Documentation](#puppet-open-source-documentation)
-
 - [RedHat Open Source Documentation](#redhat-open-source-documentation)
-
 - [Salesforce Open Source Documentation](#salesforce-open-source-documentation)
-
 - [Samsung Open Source Documentation](#samsung-open-source-documentation)
-
 - [Shopify Open Source Documentation](#shopify-open-source-documentation)
-
 - [SlackHQ Open Source Documentation](#slackhq-open-source-documentation)
-
 - [SUSE Open Source Documentation](#suse-open-source-documentation)
-
 - [The Guild Open Source Documentation](#the-guild-open-source-documentation)
-
 - [Twilio Open Source Documentation](#twilio-open-source-documentation)
-
 - [Twitter Open Source Documentation](#twitter-open-source-documentation)
-
 - [Uber Open Source Documentation](#uber-open-source-documentation)
 
 <a name="airbnb-open-source-documentation"/>
@@ -76,7 +44,6 @@
 
 - [Visx Docs](https://www.algolia.com/doc/guides/building-search-ui/what-is-instantsearch/js/) - A
   A collection of reusable low-level visualization components. visx combines the power of d3 to generate your visualization with the benefits of React for updating the DOM. [Edit on GitHub](https://github.com/airbnb/visx/tree/master/packages)
-
 - [Airflow Docs](https://airflow.incubator.apache.org/docs/) - A platform to programmatically author, schedule, and monitor workflows.
 
 <a name="amazon-open-source-documentation"/>
@@ -84,9 +51,7 @@
 ## Amazon Open Source Documentation
 
 - [OpenSearch Docs](https://opensearch.org/docs) - The documentation for OpenSearch, OpenSearch Dashboards, and their associated plugins. [Edit on GitHub](https://github.com/opensearch-project/documentation-website)
-
 - [Amplify JS Docs](https://docs.amplify.aws/lib/q/platform/js) - A declarative JavaScript library for application development using cloud services.
-
 - [Amplify iOS Docs](https://docs.amplify.aws/start/q/integration/ios) - A declarative library for application development using cloud services.
 
 - [Amplify CLI Docs](https://docs.amplify.aws/cli) - The AWS Amplify CLI is a toolchain for simplifying serverless web and mobile development.
