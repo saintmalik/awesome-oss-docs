@@ -12,6 +12,7 @@
 - [Confluent Inc Open Source Documentation](#confluent-inc-open-source-documentation) 
 - [Cryptocurrencies Open Source Documentation](#cryptocurrencies-open-source-documentation)
 - [DeltaLake Open Source Documentation](#deltalake-open-source-documentation)
+- [Docker Open Source Documentation](#docker-open-source-documentation)
 - [Dropbox Open Source Documentation](#dropbox-open-source-documentation)
 - [Elastic Open Source Documentation](#elastic-open-source-documentation)
 - [Facebook Open Source Documentation](#facebook-open-source-documentation)
@@ -115,6 +116,12 @@
 ## DeltaLake Open Source Documentation
 
 - [DeltaLake Docs](https://docs.delta.io/latest/index.html) - An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.
+
+<a name="docker-open-source-documentation"/>
+
+## Docker Open Source Documentation
+
+- [Docker Docs](https://docs.docker.com/get-started/overview/) - Docker is an open platform for developing, shipping, and running applications. [Edit on GitHub](https://github.com/docker/docker.github.io)
 
 <a name="dropbox-open-source-documentation"/>
 
