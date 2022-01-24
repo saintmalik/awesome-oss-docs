@@ -352,7 +352,7 @@
 ## The Good Docs Project Documentation
 
 - [The Good Docs Project](https://thegooddocsproject.dev/) - Open source project creating best practice templates and writing instructions for documenting software.
-  
+
 <a name="the-guild-open-source-documentation"/>
 
 ## The Guild Open Source Documentation
