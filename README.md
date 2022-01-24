@@ -347,11 +347,11 @@
 - [Uyuni Docs](https://www.uyuni-project.org/uyuni-docs) - Uyuni is a solution for organizations that require robust control over maintenance and package deployment on their servers.
 - [Kubewarden Docs](https://docs.kubewarden.io/) - Kubewarden is a policy engine for Kubernetes. Its mission is to simplify the adoption of policy-as-code.
 
-<a name="the-good-docs-project-documentation"/>  
+<a name="the-good-docs-project-documentation"/>
 
 ## The Good Docs Project Documentation
 
-- [The Good Docs Project](https://thegooddocsproject.dev/) - Open source project creating best practice templates and writing instructions for documenting software.       
+- [The Good Docs Project](https://thegooddocsproject.dev/) - Open source project creating best practice templates and writing instructions for documenting software.
   
 <a name="the-guild-open-source-documentation"/>
 
