@@ -121,7 +121,7 @@
 
 ## Docker Open Source Documentation
 
-- [Docker Docs](https://docs.docker.com/get-started/overview/) - Docker is an open platform for developing, shipping, and running applications. [Edit on GitHub](https://github.com/docker/docker.github.io)
+- [Docker Docs](https://docs.docker.com/) - Docker is an open platform for developing, shipping, and running applications. [Edit on GitHub](https://github.com/docker/docker.github.io)
 
 <a name="dropbox-open-source-documentation"/>
 
