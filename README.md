@@ -122,6 +122,10 @@
 ## Docker Open Source Documentation
 
 - [Docker Docs](https://docs.docker.com/) - Docker is an open platform for developing, shipping, and running applications. [Edit on GitHub](https://github.com/docker/docker.github.io)
+- [Build Kit](https://docs.docker.com/develop/develop-images/build_enhancements/) - A set of tooling for building and packaging software using containers. [Edit on Github](https://github.com/moby/buildkit)
+- [Compose](https://docs.docker.com/compose/) - Define and run multi-container applications with Docker.[Edit on Github](https://github.com/docker/compose)
+- [Docker cli](https://docs.docker.com/engine/reference/commandline/cli/) - The cli used in the Docker CE and Docker EE products. [Edit on Github] (https://github.com/docker/cli)
+
 
 <a name="dropbox-open-source-documentation"/>
 
