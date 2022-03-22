@@ -4,6 +4,14 @@
 
 ## Contents
 
+<p align="center">
+  <a href="#company-oss-doc">Community Supported OSS Doc</a> | <a href="#community-oss-doc">Community Supported OSS Doc</a>
+</p>
+<br/>
+<br/>
+
+## <a name="company-oss-doc"> </a>Community Supported
+
 - [Airbnb Open Source Documentation](#airbnb-open-source-documentation)
 - [Amazon Open Source Documentation](#amazon-open-source-documentation)
 - [Apache Software Foundation Open Source Documentation](#apache-software-foundation-open-source-documentation)
@@ -37,6 +45,8 @@
 - [Twilio Open Source Documentation](#twilio-open-source-documentation)
 - [Twitter Open Source Documentation](#twitter-open-source-documentation)
 - [Uber Open Source Documentation](#uber-open-source-documentation)
+## <a name="company-oss-doc"> </a>Community Supported
+- [Polkadot Open Source Documentation](#polkadot-open-source-documentation)
 
 <a name="airbnb-open-source-documentation"/>
 
@@ -281,6 +291,12 @@
 - [Ory Hydra Docs](https://www.ory.sh/hydra/docs/) - Ory Hydra is an OAuth 2.0 and OpenID Connect provider.
 - [Ory Oathkeeper Docs](https://www.ory.sh/oathkeeper/docs/) - Ory Oathkeeper is an Identity and Access Proxy.
 - [Ory Keto Docs](https://www.ory.sh/keto/docs/) - Ory Keto is an access control server.
+
+<a name="puppet-open-source-documentation"/>
+
+## Polkadot Open Source Documentation
+
+- [Polkadot](https://wiki.polkadot.network/docs/getting-started) - Polkadot facilitates an internet where independent blockchains can exchange information and transactions in a trustless way via the Polkadot relay chain.
 
 <a name="puppet-open-source-documentation"/>
 
