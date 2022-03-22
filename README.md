@@ -4,12 +4,6 @@
 
 ## Contents
 
-<p align="center">
-  <a href="#company-oss-doc">Community Supported OSS Doc</a> | <a href="#community-oss-doc">Community Supported OSS Doc</a>
-</p>
-
-## <a name="company-oss-doc">Community Supported </a>
-
 - [Airbnb Open Source Documentation](#airbnb-open-source-documentation)
 - [Amazon Open Source Documentation](#amazon-open-source-documentation)
 - [Apache Software Foundation Open Source Documentation](#apache-software-foundation-open-source-documentation)
@@ -44,8 +38,6 @@
 - [Twilio Open Source Documentation](#twilio-open-source-documentation)
 - [Twitter Open Source Documentation](#twitter-open-source-documentation)
 - [Uber Open Source Documentation](#uber-open-source-documentation)
-## <a name="company-oss-doc">Community Supported </a>
-- [Polkadot Open Source Documentation](#polkadot-open-source-documentation)
 
 <a name="airbnb-open-source-documentation"/>
 
@@ -77,19 +69,19 @@
 - [AWS CDK Docs](https://aws.amazon.com/cdk/resources) - AWS Cloud Development Kit defines cloud infrastructure using familiar programming languages.
 - [FreeRTOS Docs](https://docs.aws.amazon.com/freertos/index.html) - FreeRTOS is a market-leading real-time operating system (RTOS) for microcontrollers and small microprocessors.FreeRTOS is built with an emphasis on reliability and ease of use.
 
-<a name="apple-open-source-documentation"/>
-
-## Apple Open Source Documentation
-
-- [Swift](https://swift.org/documentation/) - A powerful and intuitive programming language designed to give developers the freedom and capabilities they need to create a new generation of cutting-edge apps. [Edit on GitHub](https://github.com/apple/swift/tree/main/docs).
-- [WebKit](https://webkit.org/) - An open source rendering engine introduced by Apple — powers Safari on macOS and iOS.
-
 <a name="apache-software-foundation-open-source-documentation"/>
 
 ## Apache Software Foundation Open Source Documentation
 
 - [Apache APISIX](http://apisix.apache.org/) - Apache APISIX is a dynamic, real-time, high-performance API gateway, and it provides rich traffic management features such as load balancing, dynamic upstream, canary release, circuit breaking, authentication, observability, and more. [Edit on GitHub](https://github.com/apache/apisix/tree/master/docs)
 - [Apache SkyWalking](https://skywalking.apache.org/) - Application performance monitor tool for distributed systems, especially designed for microservices, cloud native and container-based (Kubernetes) architectures. [Edit on GitHub](https://github.com/apache/skywalking/tree/master/docs)
+
+<a name="apple-open-source-documentation"/>
+
+## Apple Open Source Documentation
+
+- [Swift](https://swift.org/documentation/) - A powerful and intuitive programming language designed to give developers the freedom and capabilities they need to create a new generation of cutting-edge apps. [Edit on GitHub](https://github.com/apple/swift/tree/main/docs).
+- [WebKit](https://webkit.org/) - An open source rendering engine introduced by Apple — powers Safari on macOS and iOS.
 
 <a name="bridgecrew-open-source-documentation"/>
 
@@ -113,7 +105,6 @@
 
 - [Avalanche](https://docs.avax.network/) - An open-source platform for launching decentralized applications and enterprise blockchain deployments in one interoperable, highly scalable ecosystem.
 - [Solana](https://docs.solana.com/introduction) - An open source project implementing a new, high-performance, permissionless blockchain. [Edit On GitHub](https://github.com/solana-labs/solana/tree/master/docs)
-- [Polkadot](https://wiki.polkadot.network/docs/getting-started) - A project that enables scalability by allowing specialized blockchains to communicate with each other in a secure, trust-free environment.
 - [Binance API](https://binance-docs.github.io/apidocs/) - Official Documentation for the Binance APIs and Streams Resources. [Edit On GitHub](https://github.com/binance/binance-spot-api-docs)
 - [Algorand](https://developer.algorand.org/docs/get-started/basics/what_is_blockchain/) - Algorand is a blockchain cryptocurrency protocol that aims to be scalable, it supports smart contracts, and its consensus algorithm is based on proof of stake and a Byzantine agreement protocol.
 - [Cosmos](https://docs.cosmos.network/v0.44/intro/overview.html) - ⛓️ A Framework for Building High Value Public Blockchains ✨. [Edit On GitHub](https://github.com/cosmos/cosmos-sdk/tree/master/docs)
@@ -129,9 +120,9 @@
 ## Docker Open Source Documentation
 
 - [Docker Docs](https://docs.docker.com/) - Docker is an open platform for developing, shipping, and running applications. [Edit on GitHub](https://github.com/docker/docker.github.io)
-- [Build Kit](https://docs.docker.com/develop/develop-images/build_enhancements/) - A set of tooling for building and packaging software using containers. [Edit on Github](https://github.com/moby/buildkit)
-- [Compose](https://docs.docker.com/compose/) - Define and run multi-container applications with Docker.[Edit on Github](https://github.com/docker/compose)
-- [Docker cli](https://docs.docker.com/engine/reference/commandline/cli/) - The cli used in the Docker CE and Docker EE products. [Edit on Github] (https://github.com/docker/cli)
+- [Build Kit](https://docs.docker.com/develop/develop-images/build_enhancements/) - A set of tooling for building and packaging software using containers. [Edit on GitHub](https://github.com/moby/buildkit)
+- [Compose](https://docs.docker.com/compose/) - Define and run multi-container applications with Docker.[Edit on GitHub](https://github.com/docker/compose)
+- [Docker cli](https://docs.docker.com/engine/reference/commandline/cli/) - The cli used in the Docker CE and Docker EE products. [Edit on GitHub](https://github.com/docker/cli)
 
 
 <a name="dropbox-open-source-documentation"/>
@@ -221,6 +212,8 @@
 - [Carbon Design System Docs](https://www.carbondesignsystem.com/all-about-carbon/what-is-carbon/) - A design system for products and experiences that includes code, tools, resources, and guidelines.
 - [Node-RED Docs](https://nodered.org/docs) - Low-code programming for event-driven applications. [Edit on GitHub](https://github.com/node-red/node-red.github.io/tree/master/docs)
 
+<a name="jetbrains-open-source-documentation"/>
+
 ## JetBrains Open Source Documentation
 
 - [Kotlin Docs](https://kotlinlang.org/docs/home.html) - The Kotlin Programming Language.
@@ -302,12 +295,6 @@
 
 <a name="puppet-open-source-documentation"/>
 
-## Polkadot Open Source Documentation
-
-- [Polkadot](https://wiki.polkadot.network/docs/getting-started) - Polkadot facilitates an internet where independent blockchains can exchange information and transactions in a trustless way via the Polkadot relay chain.
-
-<a name="puppet-open-source-documentation"/>
-
 ## Puppet Open Source Documentation
 
 - [Puppet VS Code Extension](https://puppet-vscode.github.io/docs) - The Puppet Extension for VS Code provides full Puppet DSL intellisense, syntax highlighting, Puppet command support, Puppet node graphs, and much more.
@@ -377,7 +364,7 @@
 - [GraphQL Inspector Docs](https://graphql-inspector.com/docs/index) - Validate schema, get schema change notifications, validate operations, find breaking changes, look for similar types, schema coverage.
 - [GraphQL Config Docs](https://graphql-config.com/introduction) - One configuration for all your GraphQL tools supported by most tools, editors & IDEs.
 - [GraphQL Modules Docs](https://www.graphql-modules.com/docs/index) - Enterprise Grade Tooling For Your GraphQL Server.
-- [GraphQL Mesh Docs](https://www.graphql-mesh.com/docs/getting-started/introduction) - Query anything, run anywhere
+- [GraphQL Mesh Docs](https://www.graphql-mesh.com/docs/getting-started/introduction) - Query anything, run anywhere.
 - [GraphQL Code Generator Docs](https://www.graphql-code-generator.com/docs/getting-started/index) - A tool for generating code based on a GraphQL schema and GraphQL operations "query/mutation/subscription", with flexible support for custom plugins.
 - [GraphQL Tools Docs](https://www.graphql-tools.com/docs/introduction) - Build, mock, and stitch a GraphQL schema using the schema language.
 
