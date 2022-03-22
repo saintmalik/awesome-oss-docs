@@ -1,6 +1,6 @@
 # Awesome OSS Documentation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Carefully curated list of awesome open source software documentations.
+> Carefully curated list of awesome open source software documentation.
 
 ## Contents
 
@@ -20,6 +20,7 @@
 - [Confluent Inc Open Source Documentation](#confluent-inc-open-source-documentation) 
 - [Cryptocurrencies Open Source Documentation](#cryptocurrencies-open-source-documentation)
 - [DeltaLake Open Source Documentation](#deltalake-open-source-documentation)
+- [Docker Open Source Documentation](#docker-open-source-documentation)
 - [Dropbox Open Source Documentation](#dropbox-open-source-documentation)
 - [Elastic Open Source Documentation](#elastic-open-source-documentation)
 - [Facebook Open Source Documentation](#facebook-open-source-documentation)
@@ -52,8 +53,7 @@
 
 ## Airbnb Open Source Documentation
 
-- [Visx Docs](https://www.algolia.com/doc/guides/building-search-ui/what-is-instantsearch/js/) - A
-  A collection of reusable low-level visualization components. visx combines the power of d3 to generate your visualization with the benefits of React for updating the DOM. [Edit on GitHub](https://github.com/airbnb/visx/tree/master/packages)
+- [Visx Docs](https://www.algolia.com/doc/guides/building-search-ui/what-is-instantsearch/js/) - A collection of reusable low-level visualization components. visx combines the power of d3 to generate your visualization with the benefits of React for updating the DOM. [Edit on GitHub](https://github.com/airbnb/visx/tree/master/packages)
 - [Airflow Docs](https://airflow.incubator.apache.org/docs/) - A platform to programmatically author, schedule, and monitor workflows.
 
 <a name="amazon-open-source-documentation"/>
@@ -125,6 +125,16 @@
 ## DeltaLake Open Source Documentation
 
 - [DeltaLake Docs](https://docs.delta.io/latest/index.html) - An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.
+
+<a name="docker-open-source-documentation"/>
+
+## Docker Open Source Documentation
+
+- [Docker Docs](https://docs.docker.com/) - Docker is an open platform for developing, shipping, and running applications. [Edit on GitHub](https://github.com/docker/docker.github.io)
+- [Build Kit](https://docs.docker.com/develop/develop-images/build_enhancements/) - A set of tooling for building and packaging software using containers. [Edit on Github](https://github.com/moby/buildkit)
+- [Compose](https://docs.docker.com/compose/) - Define and run multi-container applications with Docker.[Edit on Github](https://github.com/docker/compose)
+- [Docker cli](https://docs.docker.com/engine/reference/commandline/cli/) - The cli used in the Docker CE and Docker EE products. [Edit on Github] (https://github.com/docker/cli)
+
 
 <a name="dropbox-open-source-documentation"/>
 
