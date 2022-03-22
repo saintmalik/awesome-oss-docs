@@ -8,7 +8,7 @@
   <a href="#company-oss-doc">Community Supported OSS Doc</a> | <a href="#community-oss-doc">Community Supported OSS Doc</a>
 </p>
 
-## <a name="company-oss-doc"> </a>Community Supported
+## <a name="company-oss-doc">Community Supported </a>
 
 - [Airbnb Open Source Documentation](#airbnb-open-source-documentation)
 - [Amazon Open Source Documentation](#amazon-open-source-documentation)
@@ -44,7 +44,7 @@
 - [Twilio Open Source Documentation](#twilio-open-source-documentation)
 - [Twitter Open Source Documentation](#twitter-open-source-documentation)
 - [Uber Open Source Documentation](#uber-open-source-documentation)
-## <a name="company-oss-doc"> </a>Community Supported
+## <a name="company-oss-doc">Community Supported </a>
 - [Polkadot Open Source Documentation](#polkadot-open-source-documentation)
 
 <a name="airbnb-open-source-documentation"/>
