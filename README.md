@@ -8,7 +8,6 @@
   <a href="#company-oss-doc">Community Supported OSS Doc</a> | <a href="#community-oss-doc">Community Supported OSS Doc</a>
 </p>
 <br/>
-<br/>
 
 ## <a name="company-oss-doc"> </a>Community Supported
 
