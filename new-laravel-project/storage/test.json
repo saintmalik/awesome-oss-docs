@@ -1,0 +1,55 @@
+{
+    "company": [
+      {
+        "Facebook": [
+          {
+            "Project Name": "React Native",
+            "Documentation Link": "https://reactnative.dev/docs/getting-started",
+            "GitHub Repo": "https://github.com/facebook/react-native",
+            "Stargazers": "Nil",
+            "OSS Org": "Facebook Open Source Documentation"
+          },
+          {
+            "Project Name": "DraftJs",
+            "Documentation Link": "Nil",
+            "GitHub Repo": "Nil",
+            "Stargazers": "Nil",
+            "OSS Org": ""
+          }
+        ]
+      },
+      {
+      "Twilio": [
+          {
+            "Project Name": "SendGrid Docs",
+            "Documentation Link": "https://docs.sendgrid.com/",
+            "GitHub Repo": "https://github.com/sendgrid/docs/tree/develop/content/docs",
+            "Stargazers": "Nil",
+            "OSS Org": "Twilio Open Source Documentation"
+          }
+        ]
+      }
+    ], 
+    "community": [
+      {
+        "Bitcoin": [
+          {
+            "Project Name": "Bitcoin Wiki",
+            "Documentation Link": "https://bitcoin.org/docs",
+            "GitHub Repo": "Nil",
+            "Last Commit": "Nil"
+          }
+        ]
+      },
+      {
+        "WriteTheDocs": [
+          {
+            "Project Name": "WriteTheDocs Tut Pages",
+            "Documentation Link": "https://writethedocs.org/docs/tutorial-pages/",
+            "GitHub Repo": "Nil",
+            "Last Commit": "Nil"
+          }
+        ]
+      }
+    ]
+  }
