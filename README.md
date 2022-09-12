@@ -148,7 +148,7 @@
 - [React Docs](https://reactjs.org/docs/getting-started.html) - A JavaScript library for building user interfaces.
 - [Create React App Docs](https://create-react-app.dev/docs/getting-started) - Set up a modern React web app by running one command.
 - [Hermes Docs](https://hermesengine.dev/docs/building-and-running) - A JavaScript engine optimized for running React Native.
-- [Flipper Docs](https://fbflipper.com/docs/getting-started/index/) - A desktop debugging platform for mobile developers.
+- [Flipper Docs](https://fbflipper.com/docs/getting-started/) - A desktop debugging platform for mobile developers.
 - [PyTorch Docs](https://pytorch.org/docs/stable/index.html) - Tensors and Dynamic neural networks in Python with strong GPU acceleration.
 - [Fresco Docs](https://frescolib.org/docs/) - An Android library for managing images and the memory they use.
 - [Litho Docs](https://fblitho.com/docs/getting-started/) - A declarative framework for building efficient UIs on Android.
@@ -181,7 +181,7 @@
 - [gRPC Docs](https://grpc.io/docs/) - gRPC is a modern RPC framework that can run in any environment. It can efficiently connect services in and across data centers with pluggable support for load balancing, tracing, health checking and authentication.
 - [Istio Docs](https://istio.io/latest/docs/) - Istio is an open platform that provides a uniform way to connect, manage, and secure microservices. [Edit on GitHub](https://github.com/istio/istio.io/tree/master/content)
 - [JanusGraph Docs](https://docs.janusgraph.org/) - JanusGraph is a scalable distributed graph database forked from the popular, but no longer maintained, project Titan.
-- [Knative Docs](https://knative.dev/docs/developer/) - Knative components build on top of Kubernetes, abstracting away the complex details and enabling developers to focus on what matters.
+- [Knative Docs](https://knative.dev/docs/) - Knative components build on top of Kubernetes, abstracting away the complex details and enabling developers to focus on what matters.
 - [Kubeflow Docs](https://www.kubeflow.org/docs/) - Kubeflow is an open, community driven project to make it easy to deploy and manage an ML stack on Kubernetes.
 - [Kubernetes Docs](https://kubernetes.io/docs/home/) - Kubernetes is an open source container orchestration engine for automating deployment, scaling, and management of containerized applications. The open source project is hosted by the Cloud Native Computing Foundation (CNCF).
 - [OpenTelemetry Docs](https://opentelemetry.io/docs/) - OpenTelemetry provides a single set of APIs, libraries, agents, and collector services to capture distributed traces and metrics from your application.
@@ -256,11 +256,11 @@
 - [PWA Builder Docs](https://blog.pwabuilder.com/docs) - Helping developers build Progressive Web Apps (PWAs) and package them for app stores like Google Play, Microsoft Store, macOS Store, and more.
 - [Project Mu Docs](https://microsoft.github.io/mu/) - Project Mu is a modular adaptation of TianoCore's edk2 (UEFI BIOS reference) tuned for building modern devices using a scalable, maintainable, and reusable pattern.
 - [PowerShell Docs](https://docs.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.1) - PowerShell is a cross-platform task automation solution made up of a command-line shell, a scripting language, and a configuration management framework. PowerShell runs on Windows, Linux, and macOS.
-- [PlayWright Docs](https://playwright.dev/docs/intro/) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
+- [PlayWright Docs](https://playwright.dev/docs/intro) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
 - [Microsoft Graph Engine Docs](https://www.graphengine.io/docs/manual/index.html) - Microsoft Graph Engine.
 - [Fast Design Docs](https://www.fast.design/docs/introduction/) - The adaptive interface system for modern web experiences.
 - [Azure Python SDK Docs](https://docs.microsoft.com/python/api) - Azure Python SDK documentation, hosted on docs.microsoft.com.
-- [Azure PowerShell Docs](https://docs.ms.com) - Repository used to store Azure PowerShell cmdlet content published on docs.ms.com reference site.  [Edit on GitHub](https://github.com/MicrosoftDocs/azure-docs-powershell)
+- [Azure PowerShell Docs](https://docs.microsoft.com/en-us/powershell/azure/) - Repository used to store Azure PowerShell cmdlet content published on docs.ms.com reference site.  [Edit on GitHub](https://github.com/MicrosoftDocs/azure-docs-powershell)
 - [Microsoft 365 Docs](https://docs.microsoft.com/) - This repo is used to host the source for the Microsoft 365 documentation on. [Edit on GitHub](https://github.com/MicrosoftDocs/microsoft-365-docs)
 - [Azure CLI Docs](https://docs.microsoft.com/cli/azure/) - Repository used to store content for the docs.microsoft.com content for the Azure CLI.
 - [PowerShell Docs](https://docs.microsoft.com/en-gb/powershell/) - The official PowerShell documentation sources.
@@ -319,7 +319,6 @@
 - [Cloudsplaining Docs](https://cloudsplaining.readthedocs.io/en/latest/) - AWS IAM security assessment tool that identifies violations of least privilege and generates a risk-prioritized report.
 - [Oclif Docs](https://oclif.io/docs/introduction) - A framework for building CLIs in Node.js. Designed both for simple CLIs that can be just a single file with a few flag options, or for very complex CLIs that have many subcommands.
 - [Apache PredictionIO Docs](https://predictionio.apache.org/start/) - Apache PredictionIO® is a machine learning server for developers and data scientists to create predictive engines for any machine learning task.
-- [Akita Docs](https://datorama.github.io/akita/docs/store) - State management tailored-made for JavaScript applications from the team at Datorama.
 - [TransmogrifAI Docs](https://docs.transmogrif.ai/en/stable/) - AutoML library for building modular, reusable, strongly typed machine learning workflows on Apache Spark with minimal hand tuning. [Edit on GitHub](https://github.com/salesforce/TransmogrifAI/tree/master/docs)
 - [Policy Sentry Docs](https://policy-sentry.readthedocs.io/en/latest/) - AM Least Privilege Policy Generator.
 
@@ -393,5 +392,5 @@
 - [Nebula.gl Docs](https://nebula.gl/docs) - A suite of 3D-enabled data editing overlays, suitable for deck.gl.
 - [Pyro Docs](https://docs.pyro.ai/en/stable/) - Pyro is a flexible, scalable deep probabilistic programming library built on PyTorch.
 - [Deck.gl Docs](https://deck.gl/docs) - WebGL2 powered geospatial visualization layers.
-- [Ludwig Docs](https://ludwig-ai.github.io/ludwig-docs/getting_started/) - A toolbox built on top of TensorFlow that allows to train and test deep learning models without writing code.
+- [Ludwig Docs](https://ludwig-ai.github.io/ludwig-docs/0.5/) - A toolbox built on top of TensorFlow that allows to train and test deep learning models without writing code.
 - [Jaeger Tracing Docs](https://www.jaegertracing.io/docs/) - Base Web is a foundation for initiating, evolving, and unifying web products, [Edit Jaeger Tracing Docs on GitHub](https://github.com/jaegertracing/documentation).
