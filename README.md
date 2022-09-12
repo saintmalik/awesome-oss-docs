@@ -211,6 +211,7 @@
   for building APIs and microservices.
 - [Carbon Design System Docs](https://www.carbondesignsystem.com/all-about-carbon/what-is-carbon/) - A design system for products and experiences that includes code, tools, resources, and guidelines.
 - [Node-RED Docs](https://nodered.org/docs) - Low-code programming for event-driven applications. [Edit on GitHub](https://github.com/node-red/node-red.github.io/tree/master/docs)
+- [Qiskit Docs](https://qiskit.org/learn/) - An open-source SDK for working with quantum computers. [Edit on GitHub](https://github.com/Qiskit/platypus)
 
 <a name="jetbrains-open-source-documentation"/>
 
