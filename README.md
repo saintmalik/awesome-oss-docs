@@ -38,6 +38,7 @@
 - [Twilio Open Source Documentation](#twilio-open-source-documentation)
 - [Twitter Open Source Documentation](#twitter-open-source-documentation)
 - [Uber Open Source Documentation](#uber-open-source-documentation)
+- [Upbound Open Source Documentation](#upbound-open-source-documentation)
 
 <a name="airbnb-open-source-documentation"/>
 
@@ -394,3 +395,8 @@
 - [Deck.gl Docs](https://deck.gl/docs) - WebGL2 powered geospatial visualization layers.
 - [Ludwig Docs](https://ludwig-ai.github.io/ludwig-docs/0.5/) - A toolbox built on top of TensorFlow that allows to train and test deep learning models without writing code.
 - [Jaeger Tracing Docs](https://www.jaegertracing.io/docs/) - Base Web is a foundation for initiating, evolving, and unifying web products, [Edit Jaeger Tracing Docs on GitHub](https://github.com/jaegertracing/documentation).
+
+## Upbound Open Source Documentation
+
+- [Crossplane Docs](https://crossplane.io/docs/) - Crossplane is a CNCF project that extends Kubernetes to manage public cloud resources. Crossplane was created by [Upbound](https://upbound.io).
+- [Upbound Docs](https://docs.upbound.io) - Upbound provides a commercial solution for the open-source [Crossplane](https://crossplane.io) project.
