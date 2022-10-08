@@ -125,7 +125,6 @@
 - [Compose](https://docs.docker.com/compose/) - Define and run multi-container applications with Docker.[Edit on GitHub](https://github.com/docker/compose)
 - [Docker cli](https://docs.docker.com/engine/reference/commandline/cli/) - The cli used in the Docker CE and Docker EE products. [Edit on GitHub](https://github.com/docker/cli)
 - [Docker registry](https://docs.docker.com/registry/) - store your docker images
-- [NFS](https://hub.docker.com/r/itsthenetwork/nfs-server-alpine/) - docker swarm volumes
 
 <a name="dropbox-open-source-documentation"/>
 
