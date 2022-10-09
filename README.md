@@ -124,7 +124,7 @@
 - [Build Kit](https://docs.docker.com/develop/develop-images/build_enhancements/) - A set of tooling for building and packaging software using containers. [Edit on GitHub](https://github.com/moby/buildkit)
 - [Compose](https://docs.docker.com/compose/) - Define and run multi-container applications with Docker.[Edit on GitHub](https://github.com/docker/compose)
 - [Docker cli](https://docs.docker.com/engine/reference/commandline/cli/) - The cli used in the Docker CE and Docker EE products. [Edit on GitHub](https://github.com/docker/cli)
-
+- [Docker registry](https://docs.docker.com/registry/) - store your docker images
 
 <a name="dropbox-open-source-documentation"/>
 
