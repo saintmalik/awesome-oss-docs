@@ -1,4 +1,6 @@
-## UI Design for the Awesome OSS Docs Page (Light Mode, Web version) [Figma Link](https://www.figma.com/file/jsRFaDirWjXPBIOZGpqg7G/Awesome-OSS-DOCS?node-id=3%3A8)
+## UI Design for the Awesome OSS Docs Page (Web version - Dark mode)  [Figma Link](https://www.figma.com/file/jsRFaDirWjXPBIOZGpqg7G/Awesome-OSS-DOCS?node-id=88%3A2222)
+
+## UI Design for the Awesome OSS Docs Page (Web version - Light mode) [Figma Link](https://www.figma.com/file/jsRFaDirWjXPBIOZGpqg7G/Awesome-OSS-DOCS?node-id=3%3A8)
 
 # Awesome OSS Documentation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
