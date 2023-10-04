@@ -1,7 +1,8 @@
 import React from 'react'
+import Home from './component/Home'
 
 export default function App() {
   return (
-    <div className='text-2xl'>App</div>
+    <div> <Home/></div>
   )
 }
