@@ -34,6 +34,7 @@
 - [Shopify Open Source Documentation](#shopify-open-source-documentation)
 - [SlackHQ Open Source Documentation](#slackhq-open-source-documentation)
 - [SUSE Open Source Documentation](#suse-open-source-documentation)
+- [Tailwind Open Source Documentation](#tailwind-open-source-documentation)
 - [The Guild Open Source Documentation](#the-guild-open-source-documentation)
 - [Twilio Open Source Documentation](#twilio-open-source-documentation)
 - [Twitter Open Source Documentation](#twitter-open-source-documentation)
@@ -358,6 +359,14 @@
 - [Uyuni Docs](https://www.uyuni-project.org/uyuni-docs) - Uyuni is a solution for organizations that require robust control over maintenance and package deployment on their servers.
 - [Kubewarden Docs](https://docs.kubewarden.io/) - Kubewarden is a policy engine for Kubernetes. Its mission is to simplify the adoption of policy-as-code.
 
+<a name="tailwind-open-source-documentation"/>
+
+## Tailwind Open Source Documentation
+
+- [Tailwind Docs](https://v2.tailwindcss.com/docs/installation) - Tailwind is a utility-first CSS framework packed with classes like flex, pt-4, text-center and
+rotate-90 that can be composed to build any design, directly in your markup.
+[GitHub Docs Location](https://github.com/tailwindlabs/tailwindcss)
+
 <a name="the-guild-open-source-documentation"/>
 
 ## The Guild Open Source Documentation
@@ -374,6 +383,7 @@
 ## Twilio Open Source Documentation
 
 - [SendGrid Docs](https://docs.sendgrid.com/) - SendGrid is everything you need to send emails that cut through the noise and make a connection. [GitHub Docs Location](https://github.com/sendgrid/docs/tree/develop/content/docs)
+- 
 
 <a name="twitter-open-source-documentation"/>
 
