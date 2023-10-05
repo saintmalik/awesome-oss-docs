@@ -383,13 +383,13 @@ rotate-90 that can be composed to build any design, directly in your markup.
 ## Twilio Open Source Documentation
 
 - [SendGrid Docs](https://docs.sendgrid.com/) - SendGrid is everything you need to send emails that cut through the noise and make a connection. [GitHub Docs Location](https://github.com/sendgrid/docs/tree/develop/content/docs)
-- 
+- `Company Owned Docs`
 
 <a name="twitter-open-source-documentation"/>
 
 ## Twitter Open Source Documentation
 
-- [Pants](https://www.pantsbuild.org/docs) - Pants is a fast, scalable, user-friendly build system for codebases of all sizes. It's currently focused on Python and Shell, with support for other languages coming soon.
+- [Pants](https://www.pantsbuild.org/docs) - Pants is a fast, scalable, user-friendly build system for codebases of all sizes. It's currently focused on Python and Shell, with support for other languages coming soon. `Community Owned Docs`
 
 <a name="uber-open-source-documentation"/>
 
@@ -408,5 +408,5 @@ rotate-90 that can be composed to build any design, directly in your markup.
 
 ## Upbound Open Source Documentation
 
-- [Crossplane Docs](https://crossplane.io/docs/) - Crossplane is a CNCF project that extends Kubernetes to manage public cloud resources. Crossplane was created by [Upbound](https://upbound.io).
-- [Upbound Docs](https://docs.upbound.io) - Upbound provides a commercial solution for the open-source [Crossplane](https://crossplane.io) project.
+- [Crossplane Docs](https://crossplane.io/docs/) - Crossplane is a CNCF project that extends Kubernetes to manage public cloud resources. Crossplane was created by [Upbound](https://upbound.io). `Community Owned Docs`
+- [Upbound Docs](https://docs.upbound.io) - Upbound provides a commercial solution for the open-source [Crossplane](https://crossplane.io) project. `Community Owned Docs`
