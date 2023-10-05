@@ -395,16 +395,16 @@ rotate-90 that can be composed to build any design, directly in your markup.
 
 ## Uber Open Source Documentation
 
-- [Base Web - React UI framework Docs](https://baseweb.design/getting-started/setup) - Base Web is a foundation for initiating, evolving, and unifying web products.
-- [Codence Work Flow Docs](https://cadenceworkflow.io/docs/get-started/#what-s-next) - Orchestration engine used to develop applications which perform multiple actions over long periods of time.
-- [Kepler.gl Docs](https://docs.kepler.gl) - kepler.gl is a data-agnostic, high-perf. web application for visual exploration of large-scale geolocation data sets, [Edit Keplergl Docs on GitHub](https://github.com/keplergl/kepler.gl/tree/master/docs)
-- [FusionJS Docs](https://fusionjs.com/docs/overview) - Fusion.js is a modern framework for fast, powerful React apps, which provides a rich set of tools, [Edit FusionJS Docs on GitHub](https://github.com/fusionjs/fusionjs.github.io/tree/master/documentation)
-- [H3](https://h3geo.org/docs/) - A hexagonal hierarchical geospatial indexing system.
-- [Nebula.gl Docs](https://nebula.gl/docs) - A suite of 3D-enabled data editing overlays, suitable for deck.gl.
-- [Pyro Docs](https://docs.pyro.ai/en/stable/) - Pyro is a flexible, scalable deep probabilistic programming library built on PyTorch.
-- [Deck.gl Docs](https://deck.gl/docs) - WebGL2 powered geospatial visualization layers.
-- [Ludwig Docs](https://ludwig-ai.github.io/ludwig-docs/0.5/) - A toolbox built on top of TensorFlow that allows to train and test deep learning models without writing code.
-- [Jaeger Tracing Docs](https://www.jaegertracing.io/docs/) - Base Web is a foundation for initiating, evolving, and unifying web products, [Edit Jaeger Tracing Docs on GitHub](https://github.com/jaegertracing/documentation).
+- [Base Web - React UI framework Docs](https://baseweb.design/getting-started/setup) - Base Web is a foundation for initiating, evolving, and unifying web products. `Company Owned Docs`
+- [Codence Work Flow Docs](https://cadenceworkflow.io/docs/get-started/#what-s-next) - Orchestration engine used to develop applications which perform multiple actions over long periods of time. `Community Owned Docs`
+- [Kepler.gl Docs](https://docs.kepler.gl) - kepler.gl is a data-agnostic, high-perf. web application for visual exploration of large-scale geolocation data sets, [Edit Keplergl Docs on GitHub](https://github.com/keplergl/kepler.gl/tree/master/docs) `Community Owned Docs`
+- [FusionJS Docs](https://fusionjs.com/docs/overview) - Fusion.js is a modern framework for fast, powerful React apps, which provides a rich set of tools, [Edit FusionJS Docs on GitHub](https://github.com/fusionjs/fusionjs.github.io/tree/master/documentation) `Community Owned Docs`
+- [H3](https://h3geo.org/docs/) - A hexagonal hierarchical geospatial indexing system. `Community Owned Docs`
+- [Nebula.gl Docs](https://nebula.gl/docs) - A suite of 3D-enabled data editing overlays, suitable for deck.gl. `Community Owned Docs`
+- [Pyro Docs](https://docs.pyro.ai/en/stable/) - Pyro is a flexible, scalable deep probabilistic programming library built on PyTorch. `Community Owned Docs`
+- [Deck.gl Docs](https://deck.gl/docs) - WebGL2 powered geospatial visualization layers. `Community Owned Docs`
+- [Ludwig Docs](https://ludwig-ai.github.io/ludwig-docs/0.5/) - A toolbox built on top of TensorFlow that allows to train and test deep learning models without writing code. `Community Owned Docs`
+- [Jaeger Tracing Docs](https://www.jaegertracing.io/docs/) - Base Web is a foundation for initiating, evolving, and unifying web products, [Edit Jaeger Tracing Docs on GitHub](https://github.com/jaegertracing/documentation). `Community Owned Docs`
 
 ## Upbound Open Source Documentation
 
