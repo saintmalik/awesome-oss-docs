@@ -328,27 +328,27 @@
 
 ## Samsung Open Source Documentation
 
-- [Tizen Docs](https://docs.tizen.org/) - Tizen is an open and flexible operating system built from the ground up to address the needs of all stakeholders of the mobile and connected device ecosystem, including device manufacturers, mobile operators, application developers and independent software vendors (ISVs).
-- [JerryScript Docs](https://jerryscript.net/getting-started/) - Ultra-lightweight JavaScript engine for the Internet of Things.
+- [Tizen Docs](https://docs.tizen.org/) - Tizen is an open and flexible operating system built from the ground up to address the needs of all stakeholders of the mobile and connected device ecosystem, including device manufacturers, mobile operators, application developers and independent software vendors (ISVs). `community-owned documentation`
+- [JerryScript Docs](https://jerryscript.net/getting-started/) - Ultra-lightweight JavaScript engine for the Internet of Things.`community-owned documentation`
 
 <a name="shopify-open-source-documentation"/>
 
 ## Shopify Open Source Documentation
 
-- [Draggable Docs](https://shopify.github.io/draggable/docs/) - The JavaScript Drag & Drop library your grandparents warned you about.
-- [FunctionalTableData Docs](https://shopify.github.io/FunctionalTableData/) - Declarative UITableViewDataSource implementation, [Edit FunctionalTableData Docs on GitHub](https://github.com/Shopify/FunctionalTableData/tree/master/docs)
-- [Shopify Theme Kit Docs](https://shopify.dev/themes/tools/theme-kit) - Shopify theme development command line tool.
+- [Draggable Docs](https://shopify.github.io/draggable/docs/) - The JavaScript Drag & Drop library your grandparents warned you about.`Company Owned Documentation`
+- [FunctionalTableData Docs](https://shopify.github.io/FunctionalTableData/) - Declarative UITableViewDataSource implementation, [Edit FunctionalTableData Docs on GitHub](https://github.com/Shopify/FunctionalTableData/tree/master/docs)`Company Owned Documentation`
+- [Shopify Theme Kit Docs](https://shopify.dev/themes/tools/theme-kit) - Shopify theme development command line tool.`Company Owned Documentation`
 
 <a name="slackhq-open-source-documentation"/>
 
 ## SlackHQ Open Source Documentation
 
-- [Keeper Docs](https://slackhq.github.io/keeper/) - A Gradle plugin that infers Proguard/R8 keep rules for androidTest sources.
-- [Bolt-Js Docs](https://slack.dev/bolt-js/) - A framework to build Slack apps using JavaScript.
-- [Bolt-Python Docs](https://slack.dev/python-slack-sdk/) - A framework to build Slack apps using Python.
-- [Slack Java SDK Docs](https://slack.dev/java-slack-sdk/) - Slack Developer Kit (including Bolt for Java) for any JVM language.
-- [Slack Node SDK Docs](https://slack.dev/node-slack-sdk) - Slack Developer Kit for Node.js.
-- [Slack Hubot Docs](https://slack.dev/hubot-slack/) - Slack Developer Kit for Hubot.
+- [Keeper Docs](https://slackhq.github.io/keeper/) - A Gradle plugin that infers Proguard/R8 keep rules for androidTest sources.`Company Owned Documentation`
+- [Bolt-Js Docs](https://slack.dev/bolt-js/) - A framework to build Slack apps using JavaScript.`Company Owned Documentation`
+- [Bolt-Python Docs](https://slack.dev/python-slack-sdk/) - A framework to build Slack apps using Python.`Company Owned Documentation`
+- [Slack Java SDK Docs](https://slack.dev/java-slack-sdk/) - Slack Developer Kit (including Bolt for Java) for any JVM language.`Company Owned Documentation`
+- [Slack Node SDK Docs](https://slack.dev/node-slack-sdk) - Slack Developer Kit for Node.js.`Company Owned Documentation`
+- [Slack Hubot Docs](https://slack.dev/hubot-slack/) - Slack Developer Kit for Hubot.`Company Owned Documentation`
 
 <a name="suse-open-source-documentation">
 
