@@ -354,10 +354,10 @@
 
 ## SUSE Open Source Documentation
 
-- [Longhorn Docs](https://longhorn.io/docs/) - A cloud native distributed block storage for Kubernetes.
-- [Trento Docs](https://github.com/trento-project/trento/tree/main/docs) - A cloud native web console for SAP Applications system administrators tasks.
-- [Uyuni Docs](https://www.uyuni-project.org/uyuni-docs) - Uyuni is a solution for organizations that require robust control over maintenance and package deployment on their servers.
-- [Kubewarden Docs](https://docs.kubewarden.io/) - Kubewarden is a policy engine for Kubernetes. Its mission is to simplify the adoption of policy-as-code.
+- [Longhorn Docs](https://longhorn.io/docs/) - A cloud native distributed block storage for Kubernetes. `Community Owned Docs`
+- [Trento Docs](https://github.com/trento-project/trento/tree/main/docs) - A cloud native web console for SAP Applications system administrators tasks. `Community Owned Docs`
+- [Uyuni Docs](https://www.uyuni-project.org/uyuni-docs) - Uyuni is a solution for organizations that require robust control over maintenance and package deployment on their servers. `Community Owned Docs`
+- [Kubewarden Docs](https://docs.kubewarden.io/) - Kubewarden is a policy engine for Kubernetes. Its mission is to simplify the adoption of policy-as-code. `Community Owned Docs`
 
 <a name="tailwind-open-source-documentation"/>
 
@@ -365,19 +365,19 @@
 
 - [Tailwind Docs](https://v2.tailwindcss.com/docs/installation) - Tailwind is a utility-first CSS framework packed with classes like flex, pt-4, text-center and
 rotate-90 that can be composed to build any design, directly in your markup.
-[GitHub Docs Location](https://github.com/tailwindlabs/tailwindcss)
+[GitHub Docs Location](https://github.com/tailwindlabs/tailwindcss). `Community Owned Docs`
 
 <a name="the-guild-open-source-documentation"/>
 
 ## The Guild Open Source Documentation
 
-- [GraphQL Inspector Docs](https://graphql-inspector.com/docs/index) - Validate schema, get schema change notifications, validate operations, find breaking changes, look for similar types, schema coverage.
-- [GraphQL Config Docs](https://graphql-config.com/introduction) - One configuration for all your GraphQL tools supported by most tools, editors & IDEs.
-- [GraphQL Modules Docs](https://www.graphql-modules.com/docs/index) - Enterprise Grade Tooling For Your GraphQL Server.
-- [GraphQL Mesh Docs](https://www.graphql-mesh.com/docs/getting-started/introduction) - Query anything, run anywhere.
-- [GraphQL Code Generator Docs](https://www.graphql-code-generator.com/docs/getting-started/index) - A tool for generating code based on a GraphQL schema and GraphQL operations "query/mutation/subscription", with flexible support for custom plugins.
+- [GraphQL Inspector Docs](https://graphql-inspector.com/docs/index) - Validate schema, get schema change notifications, validate operations, find breaking changes, look for similar types, schema coverage. `Community Owned Docs`
+- [GraphQL Config Docs](https://graphql-config.com/introduction) - One configuration for all your GraphQL tools supported by most tools, editors & IDEs. `Community Owned Docs`
+- [GraphQL Modules Docs](https://www.graphql-modules.com/docs/index) - Enterprise Grade Tooling For Your GraphQL Server. `Community Owned Docs`
+- [GraphQL Mesh Docs](https://www.graphql-mesh.com/docs/getting-started/introduction) - Query anything, run anywhere. `Community Owned Docs`
+- [GraphQL Code Generator Docs](https://www.graphql-code-generator.com/docs/getting-started/index) - A tool for generating code based on a GraphQL schema and GraphQL operations "query/mutation/subscription", with flexible support for custom plugins. `Community Owned Docs`
 - [GraphQL Tools Docs](https://www.graphql-tools.com/docs/introduction) - Build, mock, and stitch a GraphQL schema using the schema language.
-
+`Community Owned Docs`
 <a name="twilio-open-source-documentation"/>
 
 ## Twilio Open Source Documentation
