@@ -354,10 +354,10 @@
 
 ## SUSE Open Source Documentation
 
-- [Longhorn Docs](https://longhorn.io/docs/) - A cloud native distributed block storage for Kubernetes.
-- [Trento Docs](https://github.com/trento-project/trento/tree/main/docs) - A cloud native web console for SAP Applications system administrators tasks.
-- [Uyuni Docs](https://www.uyuni-project.org/uyuni-docs) - Uyuni is a solution for organizations that require robust control over maintenance and package deployment on their servers.
-- [Kubewarden Docs](https://docs.kubewarden.io/) - Kubewarden is a policy engine for Kubernetes. Its mission is to simplify the adoption of policy-as-code.
+- [Longhorn Docs](https://longhorn.io/docs/) - A cloud native distributed block storage for Kubernetes. `Community Owned Docs`
+- [Trento Docs](https://github.com/trento-project/trento/tree/main/docs) - A cloud native web console for SAP Applications system administrators tasks. `Community Owned Docs`
+- [Uyuni Docs](https://www.uyuni-project.org/uyuni-docs) - Uyuni is a solution for organizations that require robust control over maintenance and package deployment on their servers. `Community Owned Docs`
+- [Kubewarden Docs](https://docs.kubewarden.io/) - Kubewarden is a policy engine for Kubernetes. Its mission is to simplify the adoption of policy-as-code. `Community Owned Docs`
 
 <a name="tailwind-open-source-documentation"/>
 
@@ -365,7 +365,7 @@
 
 - [Tailwind Docs](https://v2.tailwindcss.com/docs/installation) - Tailwind is a utility-first CSS framework packed with classes like flex, pt-4, text-center and
 rotate-90 that can be composed to build any design, directly in your markup.
-[GitHub Docs Location](https://github.com/tailwindlabs/tailwindcss)
+[GitHub Docs Location](https://github.com/tailwindlabs/tailwindcss). `Community Owned Docs`
 
 <a name="the-guild-open-source-documentation"/>
 
