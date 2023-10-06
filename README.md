@@ -371,13 +371,13 @@ rotate-90 that can be composed to build any design, directly in your markup.
 
 ## The Guild Open Source Documentation
 
-- [GraphQL Inspector Docs](https://graphql-inspector.com/docs/index) - Validate schema, get schema change notifications, validate operations, find breaking changes, look for similar types, schema coverage.
-- [GraphQL Config Docs](https://graphql-config.com/introduction) - One configuration for all your GraphQL tools supported by most tools, editors & IDEs.
-- [GraphQL Modules Docs](https://www.graphql-modules.com/docs/index) - Enterprise Grade Tooling For Your GraphQL Server.
-- [GraphQL Mesh Docs](https://www.graphql-mesh.com/docs/getting-started/introduction) - Query anything, run anywhere.
-- [GraphQL Code Generator Docs](https://www.graphql-code-generator.com/docs/getting-started/index) - A tool for generating code based on a GraphQL schema and GraphQL operations "query/mutation/subscription", with flexible support for custom plugins.
+- [GraphQL Inspector Docs](https://graphql-inspector.com/docs/index) - Validate schema, get schema change notifications, validate operations, find breaking changes, look for similar types, schema coverage. `Community Owned Docs`
+- [GraphQL Config Docs](https://graphql-config.com/introduction) - One configuration for all your GraphQL tools supported by most tools, editors & IDEs. `Community Owned Docs`
+- [GraphQL Modules Docs](https://www.graphql-modules.com/docs/index) - Enterprise Grade Tooling For Your GraphQL Server. `Community Owned Docs`
+- [GraphQL Mesh Docs](https://www.graphql-mesh.com/docs/getting-started/introduction) - Query anything, run anywhere. `Community Owned Docs`
+- [GraphQL Code Generator Docs](https://www.graphql-code-generator.com/docs/getting-started/index) - A tool for generating code based on a GraphQL schema and GraphQL operations "query/mutation/subscription", with flexible support for custom plugins. `Community Owned Docs`
 - [GraphQL Tools Docs](https://www.graphql-tools.com/docs/introduction) - Build, mock, and stitch a GraphQL schema using the schema language.
-
+`Community Owned Docs`
 <a name="twilio-open-source-documentation"/>
 
 ## Twilio Open Source Documentation
