@@ -275,26 +275,26 @@
 
 ## Netflix Open Source Documentation
 
-- [Metaflow Docs](https://github.com/Netflix/metaflow-docs) - Build and manage real-life data science projects with ease.
-- [Atlas Docs](https://netflix.github.io/atlas-docs/) - In-memory dimensional time series database.
-- [Conductor](https://netflix.github.io/conductor/) - Conductor is a workflow orchestration engine that runs in the cloud. [Edit on GitHub](https://github.com/Netflix/conductor/tree/main/docs)
-- [Falcor](https://netflix.github.io/falcor/) - Falcor lets you represent all your remote data sources as a single domain model via a virtual JSON graph. You code the same way no matter where the data is, whether in memory on the client or over the network on the server.
-- [Hollow](https://hollow.how/) - Netflix Hollow is a java library and toolset for disseminating in-memory datasets from a single producer to many consumers for high performance read-only access. Hollow aggressively addresses the scaling challenges of in-memory datasets, and is built with servers busily serving requests at or near maximum capacity in mind.
+- [Metaflow Docs](https://github.com/Netflix/metaflow-docs) - Build and manage real-life data science projects with ease. `Community Owned Docs`
+- [Atlas Docs](https://netflix.github.io/atlas-docs/) - In-memory dimensional time series database. `Community Owned Docs`
+- [Conductor](https://netflix.github.io/conductor/) - Conductor is a workflow orchestration engine that runs in the cloud. [Edit on GitHub](https://github.com/Netflix/conductor/tree/main/docs). `Community Owned Docs`
+- [Falcor](https://netflix.github.io/falcor/) - Falcor lets you represent all your remote data sources as a single domain model via a virtual JSON graph. You code the same way no matter where the data is, whether in memory on the client or over the network on the server. `Community Owned Docs`
+- [Hollow](https://hollow.how/) - Netflix Hollow is a java library and toolset for disseminating in-memory datasets from a single producer to many consumers for high performance read-only access. Hollow aggressively addresses the scaling challenges of in-memory datasets, and is built with servers busily serving requests at or near maximum capacity in mind. `Community Owned Docs`
 
 <a name="netlify-open-source-documentation"/>
 
 ## Netlify Open Source Documentation
 
-- [Netlify CMS Docs](https://www.netlifycms.org/docs/intro/) - Netlify CMS gives non-technical users a simple way to edit and add content to any site built with a site generator, It is completely build tool agnostic and works with storing structured content in Git, Its a CMS for site generators.
+- [Netlify CMS Docs](https://www.netlifycms.org/docs/intro/) - Netlify CMS gives non-technical users a simple way to edit and add content to any site built with a site generator, It is completely build tool agnostic and works with storing structured content in Git, Its a CMS for site generators. `Community Owned Docs`
 
 <a name="ory-open-source-documentation"/>
 
 ## Ory Open Source Documentation
 
-- [Ory Kratos Docs](https://www.ory.sh/kratos/docs/) - Ory Kratos is an identity management server.
-- [Ory Hydra Docs](https://www.ory.sh/hydra/docs/) - Ory Hydra is an OAuth 2.0 and OpenID Connect provider.
-- [Ory Oathkeeper Docs](https://www.ory.sh/oathkeeper/docs/) - Ory Oathkeeper is an Identity and Access Proxy.
-- [Ory Keto Docs](https://www.ory.sh/keto/docs/) - Ory Keto is an access control server.
+- [Ory Kratos Docs](https://www.ory.sh/kratos/docs/) - Ory Kratos is an identity management server. `Community Owned Docs`
+- [Ory Hydra Docs](https://www.ory.sh/hydra/docs/) - Ory Hydra is an OAuth 2.0 and OpenID Connect provider. `Community Owned Docs`
+- [Ory Oathkeeper Docs](https://www.ory.sh/oathkeeper/docs/) - Ory Oathkeeper is an Identity and Access Proxy. `Community Owned Docs`
+- [Ory Keto Docs](https://www.ory.sh/keto/docs/) - Ory Keto is an access control server. `Community Owned Docs`
 
 <a name="puppet-open-source-documentation"/>
 
