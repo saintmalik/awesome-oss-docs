@@ -26,6 +26,7 @@
 - [Microsoft Open Source Documentation](#microsoft-open-source-documentation)
 - [Netflix Open Source Documentation](#netflix-open-source-documentation)
 - [Netlify Open Source Documentation](#netlify-open-source-documentation)
+- [Nutanix Cloud Native Open Source Documentation](#nutanix-open-source-documentation)
 - [Ory Open Source Documentation](#ory-open-source-documentation)
 - [Puppet Open Source Documentation](#puppet-open-source-documentation)
 - [RedHat Open Source Documentation](#redhat-open-source-documentation)
@@ -286,6 +287,12 @@
 ## Netlify Open Source Documentation
 
 - [Netlify CMS Docs](https://www.netlifycms.org/docs/intro/) - Netlify CMS gives non-technical users a simple way to edit and add content to any site built with a site generator, It is completely build tool agnostic and works with storing structured content in Git, Its a CMS for site generators. `Community Owned Docs`
+
+<a name="nutanix-open-source-documentation"/>
+
+## Nutanix Open Source Documentation
+
+- [Nutanix Open-Source Docs](https://opendocs.nutanix.com/) - Welcome to the official home dedicated to documenting how to run Cloud Native applications on Nutanix. Here, you'll find information and code to enable the best-in-class Hybrid Cloud experience using the Nutanix Cloud Platform and Kubernetes.`Community Owned Docs` 
 
 <a name="ory-open-source-documentation"/>
 
