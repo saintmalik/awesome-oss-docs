@@ -115,32 +115,32 @@
 
 ## DeltaLake Open Source Documentation
 
-- [DeltaLake Docs](https://docs.delta.io/latest/index.html) - An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.
+- [DeltaLake Docs](https://docs.delta.io/latest/index.html) - An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads. `Community Owned Docs`
 
 <a name="docker-open-source-documentation"/>
 
 ## Docker Open Source Documentation
 
-- [Docker Docs](https://docs.docker.com/) - Docker is an open platform for developing, shipping, and running applications. [Edit on GitHub](https://github.com/docker/docker.github.io)
-- [Build Kit](https://docs.docker.com/develop/develop-images/build_enhancements/) - A set of tooling for building and packaging software using containers. [Edit on GitHub](https://github.com/moby/buildkit)
-- [Compose](https://docs.docker.com/compose/) - Define and run multi-container applications with Docker.[Edit on GitHub](https://github.com/docker/compose)
-- [Docker cli](https://docs.docker.com/engine/reference/commandline/cli/) - The cli used in the Docker CE and Docker EE products. [Edit on GitHub](https://github.com/docker/cli)
-- [Docker registry](https://docs.docker.com/registry/) - store your docker images.
+- [Docker Docs](https://docs.docker.com/) - Docker is an open platform for developing, shipping, and running applications. [Edit on GitHub](https://github.com/docker/docker.github.io)  `Company Owned Docs`
+- [Build Kit](https://docs.docker.com/develop/develop-images/build_enhancements/) - A set of tooling for building and packaging software using containers. [Edit on GitHub](https://github.com/moby/buildkit)  `Company Owned Docs`
+- [Compose](https://docs.docker.com/compose/) - Define and run multi-container applications with Docker.[Edit on GitHub](https://github.com/docker/compose)  `Company Owned Docs`
+- [Docker cli](https://docs.docker.com/engine/reference/commandline/cli/) - The cli used in the Docker CE and Docker EE products. [Edit on GitHub](https://github.com/docker/cli)  `Company Owned Docs`
+- [Docker registry](https://docs.docker.com/registry/) - store your docker images.  `Company Owned Docs`
 
 <a name="dropbox-open-source-documentation"/>
 
 ## Dropbox Open Source Documentation
 
-- [dropbox-sdk-java](https://dropbox.github.io/dropbox-sdk-java/api-docs/v2.1.x/) - Java library for the Dropbox API. [Edit on GitHub](https://github.com/dropbox/dropbox-sdk-java)
+- [dropbox-sdk-java](https://dropbox.github.io/dropbox-sdk-java/api-docs/v2.1.x/) - Java library for the Dropbox API. [Edit on GitHub](https://github.com/dropbox/dropbox-sdk-java) `Company Owned Docs`
 
 <a name="elastic-open-source-documentation"/>
 
 ## Elastic Open Source Documentation
 
-- [Beats Docs](https://www.elastic.co/guide/en/beats/libbeat/current/getting-started.html) - The Beats are lightweight data shippers, written in Go, that you install on your servers to capture all sorts of operational data (think of logs, metrics, or network packet data).
-- [Elasticsearch Docs](https://www.elastic.co/guide/en/elasticsearch/reference/current/getting-started.html) - Elasticsearch is the distributed, RESTful search and analytics engine at the heart of the Elastic Stack. 
-- [Kibana Docs](https://www.elastic.co/guide/en/kibana/current/get-started.html) - Kibana is your window into the Elastic Stack. Specifically, it's a browser-based analytics and search dashboard for Elasticsearch.
-- [Logstash Docs](https://www.elastic.co/guide/en/logstash/current/getting-started-with-logstash.html) - Logstash is a server-side data processing pipeline that ingests data from a multitude of sources simultaneously, transforms it, and then sends it to your favorite stash.
+- [Beats Docs](https://www.elastic.co/guide/en/beats/libbeat/current/getting-started.html) - The Beats are lightweight data shippers, written in Go, that you install on your servers to capture all sorts of operational data (think of logs, metrics, or network packet data). `Company Owned Docs`
+- [Elasticsearch Docs](https://www.elastic.co/guide/en/elasticsearch/reference/current/getting-started.html) - Elasticsearch is the distributed, RESTful search and analytics engine at the heart of the Elastic Stack. `Company Owned Docs`
+- [Kibana Docs](https://www.elastic.co/guide/en/kibana/current/get-started.html) - Kibana is your window into the Elastic Stack. Specifically, it's a browser-based analytics and search dashboard for Elasticsearch. `Company Owned Docs`
+- [Logstash Docs](https://www.elastic.co/guide/en/logstash/current/getting-started-with-logstash.html) - Logstash is a server-side data processing pipeline that ingests data from a multitude of sources simultaneously, transforms it, and then sends it to your favorite stash. `Company Owned Docs`
 
 <a name="facebook-open-source-documentation"/>
 
