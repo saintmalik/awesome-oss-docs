@@ -250,26 +250,26 @@
 
 ## Microsoft Open Source Documentation
 
-- [Accessibility Insights for Web Docs](https://accessibilityinsights.io/docs/en/web/overview/) - Accessibility Insights for Web. [Edit on GitHub](https://github.com/microsoft/accessibility-insights-web/tree/main/docs)
-- [Azure Docs](https://docs.microsoft.com/en-us/azure/) - A cloud computing service created by Microsoft for building, testing, deploying, and managing applications and services through Microsoft-managed data centers. [Edit on GitHub](https://github.com/MicrosoftDocs/azure-docs)
-- [TypeScript Docs](https://www.typescriptlang.org/docs/) - TypeScript is an open-source and cross-platform language that builds on JavaScript by adding static types and type-checking.
-- [Visual Studio Code Docs](https://code.visualstudio.com/docs) - Visual Studio Code is a free, highly customizable code editor that is based on an open-source codebase and runs on Linux, macOS, and Windows.
-- [Fluid Framework Docs](https://fluidframework.com/docs/) - Library for building distributed, real-time collaborative web applications.
-- [PWA Builder Docs](https://blog.pwabuilder.com/docs) - Helping developers build Progressive Web Apps (PWAs) and package them for app stores like Google Play, Microsoft Store, macOS Store, and more.
-- [Project Mu Docs](https://microsoft.github.io/mu/) - Project Mu is a modular adaptation of TianoCore's edk2 (UEFI BIOS reference) tuned for building modern devices using a scalable, maintainable, and reusable pattern.
-- [PowerShell Docs](https://docs.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.1) - PowerShell is a cross-platform task automation solution made up of a command-line shell, a scripting language, and a configuration management framework. PowerShell runs on Windows, Linux, and macOS.
-- [PlayWright Docs](https://playwright.dev/docs/intro) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
-- [Microsoft Graph Engine Docs](https://www.graphengine.io/docs/manual/index.html) - Microsoft Graph Engine.
-- [Fast Design Docs](https://www.fast.design/docs/introduction/) - The adaptive interface system for modern web experiences.
-- [Azure Python SDK Docs](https://docs.microsoft.com/python/api) - Azure Python SDK documentation, hosted on docs.microsoft.com.
-- [Azure PowerShell Docs](https://docs.microsoft.com/en-us/powershell/azure/) - Repository used to store Azure PowerShell cmdlet content published on docs.ms.com reference site.  [Edit on GitHub](https://github.com/MicrosoftDocs/azure-docs-powershell)
-- [Microsoft 365 Docs](https://docs.microsoft.com/) - This repo is used to host the source for the Microsoft 365 documentation on. [Edit on GitHub](https://github.com/MicrosoftDocs/microsoft-365-docs)
-- [Azure CLI Docs](https://docs.microsoft.com/cli/azure/) - Repository used to store content for the docs.microsoft.com content for the Azure CLI.
-- [PowerShell Docs](https://docs.microsoft.com/en-gb/powershell/) - The official PowerShell documentation sources.
-- [DeepSpeed Docs](https://deepspeed.readthedocs.io/en/latest/) - DeepSpeed is a deep learning optimization library that makes distributed training easy, efficient, and effective.
-- [Dapr Docs](https://docs.dapr.io/) - Dapr user documentation, used to build docs.dapr.io.
-- [Microsoft Terminal Docs](https://docs.microsoft.com/en-us/windows/terminal/) - The new Windows Terminal and the original Windows console host, all in the same place!. [Edit on GitHub](https://github.com/MicrosoftDocs/terminal)
-- [Accessibility Insights for Windows. Docs](https://accessibilityinsights.io/docs/en/windows/overview/) - Accessibility Insights for Windows. [Edit on GitHub](https://github.com/microsoft/accessibility-insights-windows/tree/main/docs)
+- [Accessibility Insights for Web Docs](https://accessibilityinsights.io/docs/en/web/overview/) - Accessibility Insights for Web. [Edit on GitHub](https://github.com/microsoft/accessibility-insights-web/tree/main/docs) `Company Owned Documentation`
+- [Azure Docs](https://docs.microsoft.com/en-us/azure/) - A cloud computing service created by Microsoft for building, testing, deploying, and managing applications and services through Microsoft-managed data centers. [Edit on GitHub](https://github.com/MicrosoftDocs/azure-docs)`Company Owned Documentation`
+- [TypeScript Docs](https://www.typescriptlang.org/docs/) - TypeScript is an open-source and cross-platform language that builds on JavaScript by adding static types and type-checking.`Company Owned Documentation`
+- [Visual Studio Code Docs](https://code.visualstudio.com/docs) - Visual Studio Code is a free, highly customizable code editor that is based on an open-source codebase and runs on Linux, macOS, and Windows.`Company Owned Documentation`
+- [Fluid Framework Docs](https://fluidframework.com/docs/) - Library for building distributed, real-time collaborative web applications.`Company Owned Documentation`
+- [PWA Builder Docs](https://blog.pwabuilder.com/docs) - Helping developers build Progressive Web Apps (PWAs) and package them for app stores like Google Play, Microsoft Store, macOS Store, and more.`Company Owned Documentation`
+- [Project Mu Docs](https://microsoft.github.io/mu/) - Project Mu is a modular adaptation of TianoCore's edk2 (UEFI BIOS reference) tuned for building modern devices using a scalable, maintainable, and reusable pattern.`Company Owned Documentation`
+- [PowerShell Docs](https://docs.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.1) - PowerShell is a cross-platform task automation solution made up of a command-line shell, a scripting language, and a configuration management framework. PowerShell runs on Windows, Linux, and macOS.`Company Owned Documentation`
+- [PlayWright Docs](https://playwright.dev/docs/intro) - Node.js library to automate Chromium, Firefox and WebKit with a single API.`Company Owned Documentation`
+- [Microsoft Graph Engine Docs](https://www.graphengine.io/docs/manual/index.html) - Microsoft Graph Engine.`Company Owned Documentation`
+- [Fast Design Docs](https://www.fast.design/docs/introduction/) - The adaptive interface system for modern web experiences.`Company Owned Documentation`
+- [Azure Python SDK Docs](https://docs.microsoft.com/python/api) - Azure Python SDK documentation, hosted on docs.microsoft.com.`Company Owned Documentation`
+- [Azure PowerShell Docs](https://docs.microsoft.com/en-us/powershell/azure/) - Repository used to store Azure PowerShell cmdlet content published on docs.ms.com reference site.  [Edit on GitHub](https://github.com/MicrosoftDocs/azure-docs-powershell)`Company Owned Documentation`
+- [Microsoft 365 Docs](https://docs.microsoft.com/) - This repo is used to host the source for the Microsoft 365 documentation on. [Edit on GitHub](https://github.com/MicrosoftDocs/microsoft-365-docs)`Company Owned Documentation`
+- [Azure CLI Docs](https://docs.microsoft.com/cli/azure/) - Repository used to store content for the docs.microsoft.com content for the Azure CLI.`Company Owned Documentation`
+- [PowerShell Docs](https://docs.microsoft.com/en-gb/powershell/) - The official PowerShell documentation sources.`Company Owned Documentation`
+- [DeepSpeed Docs](https://deepspeed.readthedocs.io/en/latest/) - DeepSpeed is a deep learning optimization library that makes distributed training easy, efficient, and effective.`Company Owned Documentation`
+- [Dapr Docs](https://docs.dapr.io/) - Dapr user documentation, used to build docs.dapr.io.`Company Owned Documentation`
+- [Microsoft Terminal Docs](https://docs.microsoft.com/en-us/windows/terminal/) - The new Windows Terminal and the original Windows console host, all in the same place!. [Edit on GitHub](https://github.com/MicrosoftDocs/terminal)`Company Owned Documentation`
+- [Accessibility Insights for Windows. Docs](https://accessibilityinsights.io/docs/en/windows/overview/) - Accessibility Insights for Windows. [Edit on GitHub](https://github.com/microsoft/accessibility-insights-windows/tree/main/docs)`Company Owned Documentation`
 
 <a name="netflix-open-source-documentation"/>
 
