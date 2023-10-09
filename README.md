@@ -149,7 +149,7 @@
 
 ## Facebook Open Source Documentation
 
-- [React Native Docs](https://reactnative.dev/docs/getting-started) - A framework for building native apps with React.
+- [React Native Docs](https://reactnative.dev/docs/getting-started) - A framework for building native apps with React. 'Community Owned Docs'
 - [React Docs](https://reactjs.org/docs/getting-started.html) - A JavaScript library for building user interfaces.
 - [Create React App Docs](https://create-react-app.dev/docs/getting-started) - Set up a modern React web app by running one command.
 - [Hermes Docs](https://hermesengine.dev/docs/building-and-running) - A JavaScript engine optimized for running React Native.
