@@ -200,27 +200,27 @@
 
 ## HashiCorp Open Source Documentation
 
-- [Terraform Docs](https://www.terraform.io/docs/) - Terraform Linode provider.
-- [Vagrant Docs](https://www.vagrantup.com/docs) - Vagrant is a tool for building and distributing development environments.
-- [Waypoint Docs](https://www.waypointproject.io/docs) - A tool to build, deploy, and release any application on any platform.
-- [VaultProject Docs](https://www.vaultproject.io/docs) - A tool for secrets management, encryption as a service, and privileged access management.
-- [Consul Docs](https://www.consul.io/docs) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
+- [Terraform Docs](https://www.terraform.io/docs/) - Terraform Linode provider.`Community Owned Documentation`
+- [Vagrant Docs](https://www.vagrantup.com/docs) - Vagrant is a tool for building and distributing development environments.`Community Owned Documentation`
+- [Waypoint Docs](https://www.waypointproject.io/docs) - A tool to build, deploy, and release any application on any platform.`Community Owned Documentation`
+- [VaultProject Docs](https://www.vaultproject.io/docs) - A tool for secrets management, encryption as a service, and privileged access management.`Community Owned Documentation`
+- [Consul Docs](https://www.consul.io/docs) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.`Community Owned Documentation`
 
 <a name="ibm-open-source-documentation"/>
 
 ## IBM Open Source Documentation
 
 - [Loopback Docs](https://loopback.io/doc/en/lb4/) - A highly extensible Node.js and TypeScript framework
-  for building APIs and microservices.
-- [Carbon Design System Docs](https://www.carbondesignsystem.com/all-about-carbon/what-is-carbon/) - A design system for products and experiences that includes code, tools, resources, and guidelines.
-- [Node-RED Docs](https://nodered.org/docs) - Low-code programming for event-driven applications. [Edit on GitHub](https://github.com/node-red/node-red.github.io/tree/master/docs)
-- [Qiskit Docs](https://qiskit.org/learn/) - An open-source SDK for working with quantum computers. [Edit on GitHub](https://github.com/Qiskit/platypus)
+  for building APIs and microservices.`Community Owned Documentation`
+- [Carbon Design System Docs](https://www.carbondesignsystem.com/all-about-carbon/what-is-carbon/) - A design system for products and experiences that includes code, tools, resources, and guidelines.`Community Owned Documentation`
+- [Node-RED Docs](https://nodered.org/docs) - Low-code programming for event-driven applications. [Edit on GitHub](https://github.com/node-red/node-red.github.io/tree/master/docs)`Community Owned Documentation`
+- [Qiskit Docs](https://qiskit.org/learn/) - An open-source SDK for working with quantum computers. [Edit on GitHub](https://github.com/Qiskit/platypus)`Community Owned Documentation`
 
 <a name="jetbrains-open-source-documentation"/>
 
 ## JetBrains Open Source Documentation
 
-- [Kotlin Docs](https://kotlinlang.org/docs/home.html) - The Kotlin Programming Language.
+- [Kotlin Docs](https://kotlinlang.org/docs/home.html) - The Kotlin Programming Language.`Community Owned Documentation`
 
 <a name="linode-open-source-documentation"/>
 
