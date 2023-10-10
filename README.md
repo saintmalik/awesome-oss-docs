@@ -150,24 +150,24 @@
 ## Facebook Open Source Documentation
 
 - [React Native Docs](https://reactnative.dev/docs/getting-started) - A framework for building native apps with React. 'Community Owned Docs'
-- [React Docs](https://reactjs.org/docs/getting-started.html) - A JavaScript library for building user interfaces.
-- [Create React App Docs](https://create-react-app.dev/docs/getting-started) - Set up a modern React web app by running one command.
-- [Hermes Docs](https://hermesengine.dev/docs/building-and-running) - A JavaScript engine optimized for running React Native.
-- [Flipper Docs](https://fbflipper.com/docs/getting-started/) - A desktop debugging platform for mobile developers.
-- [PyTorch Docs](https://pytorch.org/docs/stable/index.html) - Tensors and Dynamic neural networks in Python with strong GPU acceleration.
-- [Fresco Docs](https://frescolib.org/docs/) - An Android library for managing images and the memory they use.
-- [Litho Docs](https://fblitho.com/docs/getting-started/) - A declarative framework for building efficient UIs on Android.
-- [Redex Docs](https://fbredex.com/docs/installation) - A bytecode optimizer for Android apps.
-- [Draftjs Docs](https://draftjs.org/docs/getting-started/) - A React framework for building text editors.
-- [Relay Docs](https://relay.dev/docs/) - Relay is a JavaScript framework for building data-driven React applications.
-- [Jestjs Docs](https://jestjs.io/docs/getting-started) - Delightful JavaScript Testing.
-- [Hydra Docs](https://hydra.cc/docs/intro) - Hydra is a framework for elegantly configuring complex applications.
-- [ParlAI Docs](https://parl.ai/docs/index.html) - A framework for training and evaluating AI models on a variety of openly available dialogue datasets.
-- [FBT Docs](https://facebook.github.io/fbt/docs/getting_started_on_web) - FBT is an internationalization framework for JavaScript designed to be not just powerful and flexible, but also simple and intuitive. [Edit on GitHub](https://github.com/facebook/fbt/tree/main/docs)
-- [RocksDB Docs](https://github.com/facebook/rocksdb/wiki) - RocksDB is a storage engine with key/value interface, where keys and values are arbitrary byte streams. It is a C++ library. It was developed at Facebook based on LevelDB and provides backwards-compatible support for LevelDB APIs.
-- [Docusaurus Docs](https://docusaurus.io/docs) - Easy to maintain open source documentation websites.
-- [Flux Docs](https://facebook.github.io/flux/docs/overview) - Application Architecture for Building User Interfaces.
-- [flow Docs](https://flow.org/en/docs/) - Adds static typing to JavaScript to improve developer productivity and code quality.
+- [React Docs](https://reactjs.org/docs/getting-started.html) - A JavaScript library for building user interfaces. 'Company Owned Docs'
+- [Create React App Docs](https://create-react-app.dev/docs/getting-started) - Set up a modern React web app by running one command. 'Community Owned Docs'
+- [Hermes Docs](https://hermesengine.dev/docs/building-and-running) - A JavaScript engine optimized for running React Native. 'Community Owned Docs'
+- [Flipper Docs](https://fbflipper.com/docs/getting-started/) - A desktop debugging platform for mobile developers. 'Company Owned Docs'
+- [PyTorch Docs](https://pytorch.org/docs/stable/index.html) - Tensors and Dynamic neural networks in Python with strong GPU acceleration. 'Community Owned Docs'
+- [Fresco Docs](https://frescolib.org/docs/) - An Android library for managing images and the memory they use. 'Community Owned Docs'
+- [Litho Docs](https://fblitho.com/docs/getting-started/) - A declarative framework for building efficient UIs on Android. 'Community Owned Docs'
+- [Redex Docs](https://fbredex.com/docs/installation) - A bytecode optimizer for Android apps. 'Community Owned Docs'
+- [Draftjs Docs](https://draftjs.org/docs/getting-started/) - A React framework for building text editors. 'Community Owned Docs'
+- [Relay Docs](https://relay.dev/docs/) - Relay is a JavaScript framework for building data-driven React applications. 'Community Owned Docs' 
+- [Jestjs Docs](https://jestjs.io/docs/getting-started) - Delightful JavaScript Testing. 'Community Owned Docs'
+- [Hydra Docs](https://hydra.cc/docs/intro) - Hydra is a framework for elegantly configuring complex applications. 'Community Owned Docs'
+- [ParlAI Docs](https://parl.ai/docs/index.html) - A framework for training and evaluating AI models on a variety of openly available dialogue datasets. 'Community Owned Docs'
+- [FBT Docs](https://facebook.github.io/fbt/docs/getting_started_on_web) - FBT is an internationalization framework for JavaScript designed to be not just powerful and flexible, but also simple and intuitive. [Edit on GitHub](https://github.com/facebook/fbt/tree/main/docs) 'Community Owned Docs'
+- [RocksDB Docs](https://github.com/facebook/rocksdb/wiki) - RocksDB is a storage engine with key/value interface, where keys and values are arbitrary byte streams. It is a C++ library. It was developed at Facebook based on LevelDB and provides backwards-compatible support for LevelDB APIs. 'Community Owned Docs'
+- [Docusaurus Docs](https://docusaurus.io/docs) - Easy to maintain open source documentation websites. 'Community Owned Docs'
+- [Flux Docs](https://facebook.github.io/flux/docs/overview) - Application Architecture for Building User Interfaces. 'Community Owned Docs'
+- [flow Docs](https://flow.org/en/docs/) - Adds static typing to JavaScript to improve developer productivity and code quality. 'Community Owned Docs'
 
 <a name="google-open-source-documentation"/>
 
