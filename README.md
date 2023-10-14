@@ -215,41 +215,43 @@
 ## IBM Open Source Documentation
 
 - [Loopback Docs](https://loopback.io/doc/en/lb4/) - A highly extensible Node.js and TypeScript framework
-  for building APIs and microservices.`Community Owned Documentation`
-- [Carbon Design System Docs](https://www.carbondesignsystem.com/all-about-carbon/what-is-carbon/) - A design system for products and experiences that includes code, tools, resources, and guidelines.`Community Owned Documentation`
-- [Node-RED Docs](https://nodered.org/docs) - Low-code programming for event-driven applications. [Edit on GitHub](https://github.com/node-red/node-red.github.io/tree/master/docs)`Community Owned Documentation`
-- [Qiskit Docs](https://qiskit.org/learn/) - An open-source SDK for working with quantum computers. [Edit on GitHub](https://github.com/Qiskit/platypus)`Community Owned Documentation`
+  for building APIs and microservices.- `Community Owned Documentation`
+- [Carbon Design System Docs](https://www.carbondesignsystem.com/all-about-carbon/what-is-carbon/) - A design system for products and experiences that includes code, tools, resources, and guidelines.- `Community Owned Documentation`
+- [Node-RED Docs](https://nodered.org/docs) - Low-code programming for event-driven applications. [Edit on GitHub](https://github.com/node-red/node-red.github.io/tree/master/docs)- `Community Owned Documentation`
+- [Qiskit Docs](https://qiskit.org/learn/) - An open-source SDK for working with quantum computers. [Edit on GitHub](https://github.com/Qiskit/platypus) -`Community Owned Documentation`
 
 <a name="jetbrains-open-source-documentation"/>
 
 ## JetBrains Open Source Documentation
 
-- [Kotlin Docs](https://kotlinlang.org/docs/home.html) - The Kotlin Programming Language.`Community Owned Documentation`
+- [Kotlin Docs](https://kotlinlang.org/docs/home.html) - The Kotlin Programming Language.-`Community Owned Documentation`
 
 <a name="linode-open-source-documentation"/>
 
 ## Linode Open Source Documentation
 
-- [Linode Docs](https://www.linode.com/docs/) - Linode guides and tutorials.
+- [Linode Docs](https://www.linode.com/docs/) - Linode guides and tutorials.-`Community Owned Documentation`
 
 <a name="loginradius-open-source-documentation"/>
 
 ## LoginRadius Open Source Documentation
 
-- [LoginRadius Docs](https://github.com/LoginRadius/docs) - LoginRadius Developer Documentation.
-- [Go-SAML](https://github.com/LoginRadius/go-saml) - High-Level API Implementation of SAML 2.0 (Currently Supported Identity Provider Implementation) Single Sign-On.
-- [Egnature](https://github.com/LoginRadius/egnature) - An email signature generator.
-- [PS-Softlist](https://github.com/LoginRadius/ps-softlist) - A power shell script to detect non-whitelisted installed software on Windows machines.
-- [LoginRadius Engineering Portal](https://github.com/LoginRadius/engineering-portal) - Engineering Blog where you can contribute by writing a guest blog of fixing any issue you find with any of the available blogs.
-- [Cascade](https://github.com/LoginRadius/cascade) - Create your internal developer's portal using Cascade.
-- [C# Password Hash Library](https://github.com/LoginRadius/csharp-password-hash) - .NET standard library to secure the passwords using multiple hashing algorithms.
+- [LoginRadius Docs](https://github.com/LoginRadius/docs) - LoginRadius Developer Documentation.-`Company Owned Documentation`
+
+- [Go-SAML](https://github.com/LoginRadius/go-saml) - High-Level API Implementation of SAML 2.0 (Currently Supported Identity Provider Implementation) Single Sign-On. -`Community Owned Documentation`
+- [Egnature](https://github.com/LoginRadius/egnature) - An email signature generator.-`Community Owned Documentation`
+
+- [PS-Softlist](https://github.com/LoginRadius/ps-softlist) - A power shell script to detect non-whitelisted installed software on Windows machines. -`Community Owned Documentation`
+- [LoginRadius Engineering Portal](https://github.com/LoginRadius/engineering-portal) - Engineering Blog where you can contribute by writing a guest blog of fixing any issue you find with any of the available blogs. -`Community Owned Documentation`
+- [Cascade](https://github.com/LoginRadius/cascade) - Create your internal developer's portal using Cascade. -`Community Owned Documentation`
+- [C# Password Hash Library](https://github.com/LoginRadius/csharp-password-hash) - .NET standard library to secure the passwords using multiple hashing algorithms. -`Community Owned Documentation`
 
 <a name="mayadata-open-source-documentation"/>
 
 ## MayaData Open Source Documentation
 
-- [OpenEBS Docs](https://openebs.io/docs) - OpenEBS helps Developers and Platform SREs easily deploy Kubernetes Stateful Workloads that require fast and highly reliable Container Attached Storage.
-- [LitmusChaos Docs](https://docs.litmuschaos.io/) - Litmus is an end-to-end chaos engineering platform for cloud native infrastructure and applications.
+- [OpenEBS Docs](https://openebs.io/docs) - OpenEBS helps Developers and Platform SREs easily deploy Kubernetes Stateful Workloads that require fast and highly reliable Container Attached Storage.-`Community Owned Documentation`
+- [LitmusChaos Docs](https://docs.litmuschaos.io/) - Litmus is an end-to-end chaos engineering platform for cloud native infrastructure and applications. -`Community Owned Documentation`
 
 <a name="microsoft-open-source-documentation"/>
 
