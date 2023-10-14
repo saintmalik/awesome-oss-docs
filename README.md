@@ -76,6 +76,7 @@
 
 ## Apache Software Foundation Open Source Documentation
 
+- [Apache Ant](https://ant.apache.org/manual/index.html) - Apache Ant is a Java-based build tool. In theory, it is kind of like make, without make's wrinkles.      
 - [Apache APISIX](http://apisix.apache.org/) - Apache APISIX is a dynamic, real-time, high-performance API gateway, and it provides rich traffic management features such as load balancing, dynamic upstream, canary release, circuit breaking, authentication, observability, and more. [Edit on GitHub](https://github.com/apache/apisix/tree/master/docs)
 
 - [Apache Forrest] (https://forrest.apache.org/docs_0_90/) - Apache Forrest software is a publishing framework that transforms input from various sources into a unified presentation in one or more output formats.
@@ -174,31 +175,32 @@
 
 ## Google Open Source Documentation
 
-- [Adanet Docs](https://adanet.readthedocs.io/) - Fast and flexible AutoML with learning guarantees. `Community Owned Docs`
-- [AMP Project Docs](https://amp.dev) - The AMP(Accelerated Mobile Pages) Project is an open source initiative aiming to make the web better for all. [Edit on GitHub](https://github.com/ampproject/amp.dev/tree/future/pages/content/amp-dev/documentation). `Community Owned Docs`
-- [Angular Docs](https://angular.io/docs) - Angular is a web application framework for mobile,desktop and web. `Community Owned Docs`
-- [Apache beam Docs](https://beam.apache.org/documentation/) - Apache beam is a unified model to define and execute data processing pipelines.`Community Owned Docs`
-- [Bazel Docs](https://docs.bazel.build) - Bazel is Google's build system for fast and correct builds.`Community Owned Docs`
-- [Dart Docs](https://dart.dev/guides) - Dart is a programming language developed at Google and approved as a standard by Ecma. It is ideal for web development and can be transcompiled to JavaScript, but can also be used to build server, desktop, and mobile applications. `Company Owned Docs`
-- [Fastlane Docs](https://docs.fastlane.tools) - Fastlane allows you to automate the complete release process of your iOS and Android apps. `Community Owned Docs`
-- [Flutter Docs](https://flutter.dev/docs) - Flutter is a mobile app SDK for building high-performance, high-fidelity apps for iOS and Android, from a single codebase. `Community Owned Docs`
-- [Forseti Security Docs](https://forsetisecurity.org/docs/latest/concepts/) - Forseti Security helps you secure your Google Cloud Platform organization. `Company Owned Docs`
-- [Fuchsia Docs](https://fuchsia.dev/fuchsia-src/development) - Fuchsia is an open-source operating system designed from the ground up for security and updatability.  `Community Owned Docs`
-- [gRPC Docs](https://grpc.io/docs/) - gRPC is a modern RPC framework that can run in any environment. It can efficiently connect services in and across data centers with pluggable support for load balancing, tracing, health checking and authentication.  `Community Owned Docs`
-- [Istio Docs](https://istio.io/latest/docs/) - Istio is an open platform that provides a uniform way to connect, manage, and secure microservices. [Edit on GitHub](https://github.com/istio/istio.io/tree/master/content).  `Community Owned Docs`
-- [JanusGraph Docs](https://docs.janusgraph.org/) - JanusGraph is a scalable distributed graph database forked from the popular, but no longer maintained, project Titan.  `Community Owned Docs`
-- [Knative Docs](https://knative.dev/docs/) - Knative components build on top of Kubernetes, abstracting away the complex details and enabling developers to focus on what matters.  `Community Owned Docs`
-- [Kubeflow Docs](https://www.kubeflow.org/docs/) - Kubeflow is an open, community driven project to make it easy to deploy and manage an ML stack on Kubernetes.  `Community Owned Docs`
-- [Kubernetes Docs](https://kubernetes.io/docs/home/) - Kubernetes is an open source container orchestration engine for automating deployment, scaling, and management of containerized applications. The open source project is hosted by the Cloud Native Computing Foundation (CNCF). `Community Owned Docs`
-- [OpenTelemetry Docs](https://opentelemetry.io/docs/) - OpenTelemetry provides a single set of APIs, libraries, agents, and collector services to capture distributed traces and metrics from your application. `Community Owned Docs`
-- [OpenTitan Docs](https://docs.opentitan.org/) - OpenTitan is the first open source project building a transparent, high-quality reference design and integration guidelines for silicon root of trust (RoT) chips. [Edit on GitHub](https://github.com/lowRISC/opentitan/tree/master/doc) `Community Owned Docs`
-- [Spinnaker Docs](https://spinnaker.io/docs/) - Spinnaker is an open source, multi-cloud, continuous delivery platform started at Netflix. Google joined the project in 2014 and together we launched its open sourcing in November of 2015. `Community Owned Docs`
-- [Upspin Docs](https://upspin.io/doc/) - Upspin is an experimental project to build a framework for naming and sharing files and other data securely, uniformly, and globally: a global name system of sorts. `Company Owned Docs`
-
-- [V8 Docs](https://v8.dev/docs) - V8 is a JavaScript engine which can run standalone, or be embedded into any C++ application. It compiles JavaScript to machine code before executing it, handles memory allocation for objects, and garbage collects objects it no longer needs. `Community Owned Docs`
+- [Adanet Docs](https://adanet.readthedocs.io/) - Fast and flexible AutoML with learning guarantees. - `Community Owned Docs`
+- [AMP Project Docs](https://amp.dev) - The AMP(Accelerated Mobile Pages) Project is an open source initiative aiming to make the web better for all. [Edit on GitHub](https://github.com/ampproject/amp.dev/tree/future/pages/content/amp-dev/documentation). - `Community Owned Docs`
+- [Angular Docs](https://angular.io/docs) - Angular is a web application framework for mobile,desktop and web. - `Community Owned Docs`
+- [Apache beam Docs](https://beam.apache.org/documentation/) - Apache beam is a unified model to define and execute data processing pipelines. - `Community Owned Docs`
+- [Bazel Docs](https://docs.bazel.build) - Bazel is Google's build system for fast and correct builds. - `Community Owned Docs`
+- [Dart Docs](https://dart.dev/guides) - Dart is a programming language developed at Google and approved as a standard by Ecma. It is ideal for web development and can be transcompiled to JavaScript, but can also be used to build server, desktop, and mobile applications. - `Company Owned Docs`
+- [Fastlane Docs](https://docs.fastlane.tools) - Fastlane allows you to automate the complete release process of your iOS and Android apps. - `Community Owned Docs`
+- [Flutter Docs](https://flutter.dev/docs) - Flutter is a mobile app SDK for building high-performance, high-fidelity apps for iOS and Android, from a single codebase. - `Community Owned Docs`
+- [Forseti Security Docs](https://forsetisecurity.org/docs/latest/concepts/) - Forseti Security helps you secure your Google Cloud Platform organization. - `Company Owned Docs`
+- [Fuchsia Docs](https://fuchsia.dev/fuchsia-src/development) - Fuchsia is an open-source operating system designed from the ground up for security and updatability. - `Community Owned Docs`
+- [gRPC Docs](https://grpc.io/docs/) - gRPC is a modern RPC framework that can run in any environment. It can efficiently connect services in and across data centers with pluggable support for load balancing, tracing, health checking and authentication. - `Community Owned Docs`
+- [Istio Docs](https://istio.io/latest/docs/) - Istio is an open platform that provides a uniform way to connect, manage, and secure microservices. [Edit on GitHub](https://github.com/istio/istio.io/tree/master/content). - `Community Owned Docs`
+- [JanusGraph Docs](https://docs.janusgraph.org/) - JanusGraph is a scalable distributed graph database forked from the popular, but no longer maintained, project Titan. - `Community Owned Docs`
+- [Knative Docs](https://knative.dev/docs/) - Knative components build on top of Kubernetes, abstracting away the complex details and enabling developers to focus on what matters. - `Community Owned Docs`
+- [Kubeflow Docs](https://www.kubeflow.org/docs/) - Kubeflow is an open, community driven project to make it easy to deploy and manage an ML stack on Kubernetes. - `Community Owned Docs`
+- [Kubernetes Docs](https://kubernetes.io/docs/home/) - Kubernetes is an open source container orchestration engine for automating deployment, scaling, and management of containerized applications. The open source project is hosted by the Cloud Native Computing Foundation (CNCF). - `Community Owned Docs`
+- [Material UI](https://mui.com/material-ui/getting-started/) - Material UI is an open-source React component library that implements Google's Material Design. - `Community Owned Documentation`
+- [OpenTelemetry Docs](https://opentelemetry.io/docs/) - OpenTelemetry provides a single set of APIs, libraries, agents, and collector services to capture distributed traces and metrics from your application. -`Community Owned Docs`
+- [OpenTitan Docs](https://docs.opentitan.org/) - OpenTitan is the first open source project building a transparent, high-quality reference design and integration guidelines for silicon root of trust (RoT) chips. [Edit on GitHub](https://github.com/lowRISC/opentitan/tree/master/doc) - `Community Owned Docs`
+- [Spinnaker Docs](https://spinnaker.io/docs/) - Spinnaker is an open source, multi-cloud, continuous delivery platform started at Netflix. Google joined the project in 2014 and together we launched its open sourcing in November of 2015. - `Community Owned Docs`
+- [Upspin Docs](https://upspin.io/doc/) - Upspin is an experimental project to build a framework for naming and sharing files and other data securely, uniformly, and globally: a global name system of sorts. - `Company Owned Docs`
+- [V8 Docs](https://v8.dev/docs) - V8 is a JavaScript engine which can run standalone, or be embedded into any C++ application. It compiles JavaScript to machine code before executing it, handles memory allocation for objects, and garbage collects objects it no longer needs. - `Community Owned Docs`
 - [Vitess Docs](https://vitess.io/docs/) - Vitess is a distributed database which uses MySQL as backend. With Vitess, existing MySQL installations can be turned into a scalable and sharded distributed database while preserving advanced MySQL features e.g. transactions or the SQL language.
-- [TensorFlow Docs](https://www.tensorflow.org/tutorials) - An Open Source Machine Learning Framework for Everyone. `Community Owned Docs`
-- [OSV Docs](https://osv.dev/docs/) - OSV is a vulnerability database for open source projects. It exposes an API that lets users of these projects query whether or not their versions are impacted. `Company Owned Docs`
+- [TensorFlow Docs](https://www.tensorflow.org/tutorials) - An Open Source Machine Learning Framework for Everyone. - `Community Owned Docs`
+- [OSV Docs](https://osv.dev/docs/) - OSV is a vulnerability database for open source projects. It exposes an API that lets users of these projects query whether or not their versions are impacted. - `Company Owned Docs`
+
 
 <a name="hashicorp-open-source-documentation"/>
 
