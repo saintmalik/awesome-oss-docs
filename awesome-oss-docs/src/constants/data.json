@@ -1,0 +1,39 @@
+{
+  "documentationSets": [
+    {
+      "title": "Airbnb Open Source Documentation",
+      "projects": [
+        {
+          "title": "Visx Docs",
+          "logoSrc": "path/to/visx-logo.png",
+          "description": "A collection of reusable low-level visualization components.",
+          "stars": 15,
+          "isDocumentation": true,
+          "isOpenSource": true,
+          "projectUrl":"https://www.google.com",
+          "githubUrl":"https://www.google.com"
+        },
+        {
+          "title": "Airflows Docs",
+          "logoSrc": "path/to/airflows-logo.png",
+          "description": "A platform to programmatically author, schedule, and monitor workflows.",
+          "stars": 15,
+          "isDocumentation": true,
+          "isOpenSource": true,
+          "projectUrl":"https://www.google.com",
+          "githubUrl":"https://www.google.com"
+        },
+        {
+          "title": "Airflows",
+          "logoSrc": "path/to/airflows-logo.png",
+          "description": "A platform to programmatically author, schedule, and monitor workflows.",
+          "stars": 15,
+          "isDocumentation": true,
+          "isOpenSource": true,
+          "projectUrl":"https://www.google.com",
+          "githubUrl":"https://www.google.com"
+        }
+      ]
+    }
+  ]
+}
