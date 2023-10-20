@@ -1,23 +1,24 @@
 // ProjectCard.js
-import React from "react";
+import PropTypes from "prop-types";
 import { BsStar } from "react-icons/bs";
 import { BsFillCaretDownFill } from "react-icons/bs";
 import Logo from "../component/imgs/logo.svg";
 
 const DocCard = ({
   title,
-  logoSrc,
+  // logoSrc,
   description,
   stars,
   isDocumentation,
   isOpenSource,
+  owner,
   goToGithub,
   goToProject,
 }) => {
   return (
     <div className="bg-white p-2 mb-4 rounded-lg border border-black mr-3">
       <div className="flex flex-col items-center">
-        <img src={Logo} alt={`${title} Logo`} className="w-18 h-18 mb-4 mt-5" />
+        <img src={Logo} alt={`${title} Logo`} className="w-18 h-15 mb-4 mt-5" />
         <h3 className="text-2xl font-semibold mb-2 text-center">{title}</h3>
         <div className="flex justify-center mt-7 mb-4">
           <div className="flex items-center bg-blue-200 rounded-full px-4 py-1 mb-3">
@@ -42,8 +43,9 @@ const DocCard = ({
             </button>
           )}
         </div>
-        <h3 className="text-black text-l text-center mb-5">{description}</h3>
+        <h3 className="text-black text-[14px] text-center mb-5">{description}</h3>
         <hr className="my-2 w-full border-black" />
+        <small className="hidden">{owner}</small>
         <div className="flex justify-center mt-3">
           <button
             className="border border-blue-500 text-sm text-blue-500 px-1 mr-4 rounded"
@@ -59,6 +61,18 @@ const DocCard = ({
       </div>
     </div>
   );
+};
+
+DocCard.propTypes = {
+  title: PropTypes.string,
+  logoSrc: PropTypes.string,
+  description: PropTypes.string,
+  stars: PropTypes.number,
+  isDocumentation: PropTypes.bool,
+  isOpenSource: PropTypes.bool,
+  owner: PropTypes.string,
+  goToGithub: PropTypes.func,
+  goToProject: PropTypes.func,
 };
 
 export default DocCard;
