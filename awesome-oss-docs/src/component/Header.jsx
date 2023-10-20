@@ -1,4 +1,3 @@
-import React from 'react'
 import { BsDiscord, BsGithub, BsTwitter, BsYoutube } from 'react-icons/bs'
 
 const Header = () => {

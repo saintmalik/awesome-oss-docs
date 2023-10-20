@@ -8,7 +8,6 @@ export default {
       projectUrl: 'https://airbnb.io/visx/docs',
       githubUrl: 'https://github.com/airbnb/visx',
       //   stars: 'https://github.com/airbnb/visx/stargazers_count',
-      isOpensource: true,
       owner: 'Company Owned Documentation',
     },
   ],

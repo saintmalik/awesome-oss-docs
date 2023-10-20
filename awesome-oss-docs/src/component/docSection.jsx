@@ -1,4 +1,4 @@
-import React from "react";
+import PropTypes from "prop-types";
 
 const DocSection = ({ title, children }) => {
   return (
@@ -12,5 +12,11 @@ const DocSection = ({ title, children }) => {
     </div>
   );
 };
+
+DocSection.propTypes = {
+  title: PropTypes.string.isRequired,
+  children: PropTypes.node.isRequired,
+};
+
 
 export default DocSection;

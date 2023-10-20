@@ -1,16 +1,20 @@
-import React from "react";
-import DocSection from "./docSection";
-import jsonData from "../constants/data";
-import DocCard from "./docCard";
+import DocSection from './docSection';
+// import jsonData from '../constants/data';
+import DocCard from './docCard';
+import docs from '../constants/docs';
+import logo from '../component/imgs/logo.svg';
 
-export default function () {
+export default function Card() {
   const onGoToClick = (url) => {
-    window.open(url, "_blank"); // Open the URL in a new tab
+    window.open(url, '_blank'); // Open the URL in a new tab
   };
+
+  console.log(docs);
+
 
   return (
     <div>
-      {jsonData.documentationSets.map((documentation, index) => (
+      {/* {jsonData.documentationSets.map((documentation, index) => (
         <DocSection key={index} title={documentation.title}>
           {documentation.projects.map((project, projectIndex) => (
             <DocCard
@@ -27,6 +31,22 @@ export default function () {
               goToGithub={() => {
                 onGoToClick(project.githubUrl);
               }}
+            />
+          ))}
+        </DocSection>
+      ))} */}
+
+      {docs.map((doc, index) => (
+        <DocSection key={index} title={doc.title}>
+          {doc.documentations.map((documentation, index) => (
+            <DocCard
+              key={index}
+              title={documentation.title}
+              logoSrc={logo}
+              description={documentation.description}
+              owner={documentation.owner}
+              goToGithub={() => onGoToClick(documentation.githubUrl)}
+              goToProject={() => onGoToClick(documentation.projectUrl)}
             />
           ))}
         </DocSection>
