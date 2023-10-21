@@ -1,14 +1,14 @@
-import React, { useState } from 'react';
+//import React, { useState } from 'react';
 import SearchIcon from './imgs/search.svg';
 
 const App = () => {
   const [searchText, setSearchText] = useState('');
   const [selectedFilter, setSelectedFilter] = useState('all');
 
-  const handleSearch = () => {
-    // Implement your search logic here
-    console.log(`Searching for "${searchText}" with filter "${selectedFilter}"`);
-  };
+//   const handleSearch = () => {
+//     // Implement your search logic here
+//     console.log(`Searching for "${searchText}" with filter "${selectedFilter}"`);
+//   };
 
   return (
     <div style={{ display: 'flex', alignItems: 'center', gap: '50px', maxWidth: '100%' }}>
