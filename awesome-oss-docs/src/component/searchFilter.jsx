@@ -1,4 +1,4 @@
-//import React, { useState } from 'react';
+import React, { useState } from 'react';
 import SearchIcon from './imgs/search.svg';
 
 const App = () => {
@@ -13,7 +13,7 @@ const App = () => {
   return (
     <div style={{ display: 'flex', alignItems: 'center', gap: '50px', maxWidth: '100%' }}>
       {/* Search Bar */}
-      <div style={{ flex: 1, display: 'flex', alignItems: 'center', borderRadius: '5px', border: '1px solid #000', padding: '7px' }}>
+      <div style={{ flex: 1, display: 'flex', alignItems: 'center', borderRadius: '7px', border: '1px solid #000', padding: '7px' }}>
         <div style={{ position: 'relative', display: 'flex', alignItems: 'center', width: '100%' }}>
           {searchText === '' && (
             <img
@@ -34,7 +34,7 @@ const App = () => {
       </div>
 
       {/* Filter Bar */}
-      <div style={{ flex: 1, display: 'flex', alignItems: 'center', borderRadius: '5px', border: '1px solid #000', padding: '7px' }}>
+      <div style={{ flex: 1, display: 'flex', alignItems: 'center', borderRadius: '7px', border: '1px solid #000', padding: '7px' }}>
         <select
           className="form-select"
           value={selectedFilter}
