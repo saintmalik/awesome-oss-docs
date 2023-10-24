@@ -225,7 +225,7 @@
 
 ## JetBrains Open Source Documentation
 
-- [Kotlin Docs](https://kotlinlang.org/docs/home.html) - The Kotlin Programming Language.-`Community Owned Documentation`
+- [Kotlin Docs](https://kotlinlang.org/docs/home.html) - Kotlin is a modern but already mature programming language designed to make developers happier.-`Community Owned Documentation`
 
 <a name="linode-open-source-documentation"/>
 
