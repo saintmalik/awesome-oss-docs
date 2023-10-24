@@ -9,7 +9,7 @@
 - [Apache Software Foundation Open Source Documentation](#apache-software-foundation-open-source-documentation)
 - [Apple Open Source Documentation](#apple-open-source-documentation)
 - [Bridgecrew Open Source Documentation](#bridgecrew-open-source-documentation)
-- [Confluent Inc Open Source Documentation](#confluent-inc-open-source-documentation) 
+- [Confluent Inc Open Source Documentation](#confluent-inc-open-source-documentation)
 - [Cryptocurrencies Open Source Documentation](#cryptocurrencies-open-source-documentation)
 - [DeltaLake Open Source Documentation](#deltalake-open-source-documentation)
 - [Docker Open Source Documentation](#docker-open-source-documentation)
@@ -48,7 +48,6 @@
 
 - [Visx Docs](https://airbnb.io/visx/docs) - A collection of reusable low-level visualization components. visx combines the power of d3 to generate your visualization with the benefits of React for updating the DOM. [Edit on GitHub](https://github.com/airbnb/visx/tree/master/packages). `Company Owned Docs`
 
-
 <a name="amazon-open-source-documentation"/>
 
 ## Amazon Open Source Documentation
@@ -76,11 +75,10 @@
 
 ## Apache Software Foundation Open Source Documentation
 
-- [Apache Ant](https://ant.apache.org/manual/index.html) - Apache Ant is a Java-based build tool. In theory, it is kind of like make, without make's wrinkles. `Community Owned Docs`     
+- [Apache Ant](https://ant.apache.org/manual/index.html) - Apache Ant is a Java-based build tool. In theory, it is kind of like make, without make's wrinkles. `Community Owned Docs`
 - [Apache APISIX](http://apisix.apache.org/) - Apache APISIX is a dynamic, real-time, high-performance API gateway, and it provides rich traffic management features such as load balancing, dynamic upstream, canary release, circuit breaking, authentication, observability, and more. [Edit on GitHub](https://github.com/apache/apisix/tree/master/docs) `Community Owned Docs`
 
 - [Apache Forrest](https://forrest.apache.org/docs_0_90/) - Apache Forrest software is a publishing framework that transforms input from various sources into a unified presentation in one or more output formats. `Community Owned Docs`
-  
 - [Apache SkyWalking](https://skywalking.apache.org/) - Application performance monitor tool for distributed systems, especially designed for microservices, cloud native and container-based (Kubernetes) architectures. [Edit on GitHub](https://github.com/apache/skywalking/tree/master/docs) `Community Owned Docs`
 
 - [Airflow Docs](https://airflow.incubator.apache.org/docs/) - A platform to programmatically author, schedule, and monitor workflows. `Community Owned Docs`
@@ -128,11 +126,11 @@
 
 ## Docker Open Source Documentation
 
-- [Docker Docs](https://docs.docker.com/) - Docker is an open platform for developing, shipping, and running applications. [Edit on GitHub](https://github.com/docker/docker.github.io)  `Company Owned Docs`
-- [Build Kit](https://docs.docker.com/develop/develop-images/build_enhancements/) - A set of tooling for building and packaging software using containers. [Edit on GitHub](https://github.com/moby/buildkit)  `Company Owned Docs`
-- [Compose](https://docs.docker.com/compose/) - Define and run multi-container applications with Docker.[Edit on GitHub](https://github.com/docker/compose)  `Company Owned Docs`
-- [Docker cli](https://docs.docker.com/engine/reference/commandline/cli/) - The cli used in the Docker CE and Docker EE products. [Edit on GitHub](https://github.com/docker/cli)  `Company Owned Docs`
-- [Docker registry](https://docs.docker.com/registry/) - store your docker images.  `Company Owned Docs`
+- [Docker Docs](https://docs.docker.com/) - Docker is an open platform for developing, shipping, and running applications. [Edit on GitHub](https://github.com/docker/docker.github.io) `Company Owned Docs`
+- [Build Kit](https://docs.docker.com/develop/develop-images/build_enhancements/) - A set of tooling for building and packaging software using containers. [Edit on GitHub](https://github.com/moby/buildkit) `Company Owned Docs`
+- [Compose](https://docs.docker.com/compose/) - Define and run multi-container applications with Docker.[Edit on GitHub](https://github.com/docker/compose) `Company Owned Docs`
+- [Docker cli](https://docs.docker.com/engine/reference/commandline/cli/) - The cli used in the Docker CE and Docker EE products. [Edit on GitHub](https://github.com/docker/cli) `Company Owned Docs`
+- [Docker registry](https://docs.docker.com/registry/) - store your docker images. `Company Owned Docs`
 
 <a name="dropbox-open-source-documentation"/>
 
@@ -163,7 +161,7 @@
 - [Litho Docs](https://fblitho.com/docs/getting-started/) - A declarative framework for building efficient UIs on Android. 'Community Owned Docs'
 - [Redex Docs](https://fbredex.com/docs/installation) - A bytecode optimizer for Android apps. 'Community Owned Docs'
 - [Draftjs Docs](https://draftjs.org/docs/getting-started/) - A React framework for building text editors. 'Community Owned Docs'
-- [Relay Docs](https://relay.dev/docs/) - Relay is a JavaScript framework for building data-driven React applications. 'Community Owned Docs' 
+- [Relay Docs](https://relay.dev/docs/) - Relay is a JavaScript framework for building data-driven React applications. 'Community Owned Docs'
 - [Jestjs Docs](https://jestjs.io/docs/getting-started) - Delightful JavaScript Testing. 'Community Owned Docs'
 - [Hydra Docs](https://hydra.cc/docs/intro) - Hydra is a framework for elegantly configuring complex applications. 'Community Owned Docs'
 - [ParlAI Docs](https://parl.ai/docs/index.html) - A framework for training and evaluating AI models on a variety of openly available dialogue datasets. 'Community Owned Docs'
@@ -203,7 +201,6 @@
 - [TensorFlow Docs](https://www.tensorflow.org/tutorials) - An Open Source Machine Learning Framework for Everyone. - `Community Owned Docs`
 - [OSV Docs](https://osv.dev/docs/) - OSV is a vulnerability database for open source projects. It exposes an API that lets users of these projects query whether or not their versions are impacted. - `Company Owned Docs`
 
-
 <a name="hashicorp-open-source-documentation"/>
 
 ## HashiCorp Open Source Documentation
@@ -240,7 +237,7 @@
 
 ## LoginRadius Open Source Documentation
 
-- [LoginRadius Docs](https://github.com/LoginRadius/docs) - LoginRadius Developer Documentation.-`Company Owned Documentation`
+- [LoginRadius Docs](https://www.loginradius.com/docs) - LoginRadius empowers businesses to deliver a delightful customer experience without compromising security.-`Company Owned Documentation`
 
 - [Go-SAML](https://github.com/LoginRadius/go-saml) - High-Level API Implementation of SAML 2.0 (Currently Supported Identity Provider Implementation) Single Sign-On. -`Community Owned Documentation`
 - [Egnature](https://github.com/LoginRadius/egnature) - An email signature generator.-`Community Owned Documentation`
@@ -273,7 +270,7 @@
 - [Microsoft Graph Engine Docs](https://www.graphengine.io/docs/manual/index.html) - Microsoft Graph Engine.`Company Owned Documentation`
 - [Fast Design Docs](https://www.fast.design/docs/introduction/) - The adaptive interface system for modern web experiences.`Company Owned Documentation`
 - [Azure Python SDK Docs](https://docs.microsoft.com/python/api) - Azure Python SDK documentation, hosted on docs.microsoft.com.`Company Owned Documentation`
-- [Azure PowerShell Docs](https://docs.microsoft.com/en-us/powershell/azure/) - Repository used to store Azure PowerShell cmdlet content published on docs.ms.com reference site.  [Edit on GitHub](https://github.com/MicrosoftDocs/azure-docs-powershell)`Company Owned Documentation`
+- [Azure PowerShell Docs](https://docs.microsoft.com/en-us/powershell/azure/) - Repository used to store Azure PowerShell cmdlet content published on docs.ms.com reference site. [Edit on GitHub](https://github.com/MicrosoftDocs/azure-docs-powershell)`Company Owned Documentation`
 - [Microsoft 365 Docs](https://docs.microsoft.com/) - This repo is used to host the source for the Microsoft 365 documentation on. [Edit on GitHub](https://github.com/MicrosoftDocs/microsoft-365-docs)`Company Owned Documentation`
 - [Azure CLI Docs](https://docs.microsoft.com/cli/azure/) - Repository used to store content for the docs.microsoft.com content for the Azure CLI.`Company Owned Documentation`
 - [PowerShell Docs](https://docs.microsoft.com/en-gb/powershell/) - The official PowerShell documentation sources.`Company Owned Documentation`
@@ -380,8 +377,8 @@
 ## Tailwind Open Source Documentation
 
 - [Tailwind Docs](https://v2.tailwindcss.com/docs/installation) - Tailwind is a utility-first CSS framework packed with classes like flex, pt-4, text-center and
-rotate-90 that can be composed to build any design, directly in your markup.
-[GitHub Docs Location](https://github.com/tailwindlabs/tailwindcss). `Community Owned Docs`
+  rotate-90 that can be composed to build any design, directly in your markup.
+  [GitHub Docs Location](https://github.com/tailwindlabs/tailwindcss). `Community Owned Docs`
 
 <a name="the-guild-open-source-documentation"/>
 
@@ -393,8 +390,8 @@ rotate-90 that can be composed to build any design, directly in your markup.
 - [GraphQL Mesh Docs](https://www.graphql-mesh.com/docs/getting-started/introduction) - Query anything, run anywhere. `Community Owned Docs`
 - [GraphQL Code Generator Docs](https://www.graphql-code-generator.com/docs/getting-started/index) - A tool for generating code based on a GraphQL schema and GraphQL operations "query/mutation/subscription", with flexible support for custom plugins. `Community Owned Docs`
 - [GraphQL Tools Docs](https://www.graphql-tools.com/docs/introduction) - Build, mock, and stitch a GraphQL schema using the schema language.
-`Community Owned Docs`
-<a name="twilio-open-source-documentation"/>
+  `Community Owned Docs`
+  <a name="twilio-open-source-documentation"/>
 
 ## Twilio Open Source Documentation
 
