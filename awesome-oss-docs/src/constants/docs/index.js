@@ -8,6 +8,7 @@ import facebook from "./orderByAlphabet/facebook";
 import jetbrains from "./orderByAlphabet/jetbrains";
 import linode from "./orderByAlphabet/linode";
 import ibm from "./orderByAlphabet/ibm"
+import cryptocurrencies from "./orderByAlphabet/cryptocurrencies";
 
 
-export default [ airbnb, apache, apple, docker , dropbox, elastic, facebook, linode, ibm];
+export default [ airbnb, apache, apple, docker , dropbox, elastic, facebook, linode, ibm, cryptocurrencies];
