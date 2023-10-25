@@ -5,7 +5,7 @@ import docker from "./orderByAlphabet/docker";
 import dropbox from "./orderByAlphabet/dropbox";
 import elastic from "./orderByAlphabet/elastic";
 import facebook from "./orderByAlphabet/facebook";
+import linode from "./orderByAlphabet/linode";
 
 
-
-export default [ airbnb, apache, apple, docker , dropbox, elastic, facebook];
+export default [ airbnb, apache, apple, docker , dropbox, elastic, facebook, linode];
