@@ -8,7 +8,7 @@ export default {
         projectUrl: 'https://www.linode.com/docs/',
         githubUrl: 'https://github.com/linode/docs',
 
-        owner: 'Company Owned Documentation',
+        owner: 'Communitiy Owned Documentation',
       },
     ],
   };
