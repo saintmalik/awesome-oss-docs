@@ -11,7 +11,7 @@ import jetbrains from "./orderByAlphabet/jetbrains";
 import linode from "./orderByAlphabet/linode";
 import loginradius from "./orderByAlphabet/loginradius";
 import mayadata from "./orderByAlphabet/mayadata";
-
+import deltalake from "./orderByAlphabet/deltalake";
 
 export default [
   airbnb,
@@ -19,6 +19,7 @@ export default [
   apple,
   bridgecrew,
   docker,
+  deltalake,
   dropbox,
   elastic,
   facebook,
