@@ -12,7 +12,7 @@ export default {
     {
       title: "Checkov",
       description:
-        "Checkov is a static code analysis tool for infrastructure-as-code.",
+        "Checkov is a static code analysis tool for infrastructure-as-code. Checkov scans cloud infrastructure configurations to find misconfigurations before they're deployed.",
       projectUrl: "https://www.checkov.io",
       githubUrl: "https://github.com/bridgecrewio/checkov/tree/master/docs",
       owner: "Community Owned Documentation",
