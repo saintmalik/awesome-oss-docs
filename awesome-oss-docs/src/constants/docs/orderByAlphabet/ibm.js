@@ -7,7 +7,7 @@ export default {
           'A highly extensible Node.js and TypeScript framework for building APIs and microservices.',
         projectUrl: 'https://loopback.io/doc/en/lb4/',
         githubUrl: 'https://github.com/loopbackio/loopback-next/tree/master/docs',
-        owner: 'Company Owned Documentation',
+        owner: 'Communitiy Owned Documentation',
       },
       {
         title: 'Carbon Design System Docs',
@@ -15,7 +15,7 @@ export default {
           " A design system for products and experiences that includes code, tools, resources, and guidelines.",
         projectUrl: 'https://carbondesignsystem.com/all-about-carbon/what-is-carbon/',
         githubUrl: 'https://github.com/carbon-design-system/carbon',
-        owner: 'Company Owned Documentation',
+        owner: 'Communitiy Owned Documentation',
       },
       {
         title: 'Node-RED Docs ',
@@ -23,7 +23,7 @@ export default {
           "Low-code programming for event-driven applications.",
         projectUrl: 'https://nodered.org/docs/',
         githubUrl: 'https://github.com/node-red/node-red.github.io/tree/master/docs',
-        owner: 'Company Owned Documentation',
+        owner: 'Communitiy Owned Documentation',
       },
       {
         title: 'Qiskit Docs ',
@@ -31,7 +31,7 @@ export default {
           'An open-source SDK for working with quantum computers. ',
         projectUrl: 'https://qiskit.org/learn',
         githubUrl: 'https://github.com/Qiskit/platypus',
-        owner: 'Company Owned Documentation',
+        owner: 'Communitiy Owned Documentation',
       }
     ],
   };
