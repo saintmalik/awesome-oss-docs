@@ -7,9 +7,7 @@ import elastic from "./orderByAlphabet/elastic";
 import facebook from "./orderByAlphabet/facebook";
 import jetbrains from "./orderByAlphabet/jetbrains";
 import linode from "./orderByAlphabet/linode";
-import loginradius from "./orderByAlphabet/loginradius";
-import mayadata from "./orderByAlphabet/mayadata";
+import ibm from "./orderByAlphabet/ibm"
 
 
-
-export default [ airbnb, apache, apple, docker , dropbox, elastic, facebook, jetbrains, linode, loginradius, mayadata];
+export default [ airbnb, apache, apple, docker , dropbox, elastic, facebook, linode, ibm];
