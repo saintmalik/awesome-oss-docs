@@ -7,6 +7,7 @@ import elastic from "./orderByAlphabet/elastic";
 import facebook from "./orderByAlphabet/facebook";
 import jetbrains from "./orderByAlphabet/jetbrains";
 import linode from "./orderByAlphabet/linode";
+import ibm from "./orderByAlphabet/ibm"
 
 
-export default [ airbnb, apache, apple, docker , dropbox, elastic, facebook, linode];
+export default [ airbnb, apache, apple, docker , dropbox, elastic, facebook, linode, ibm];
