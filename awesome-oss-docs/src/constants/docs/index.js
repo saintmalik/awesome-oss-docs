@@ -4,8 +4,7 @@ import apple from "./orderByAlphabet/apple";
 import docker from "./orderByAlphabet/docker";
 import elastic from "./orderByAlphabet/elastic";
 import linode from "./orderByAlphabet/linode";
-import ibm from "./orderByAlphabet/ibm";
 
 
 
-export default [ airbnb, apache, apple, docker ,elastic, linode, ibm];
+export default [ airbnb, apache, apple, docker ,elastic, linode];
