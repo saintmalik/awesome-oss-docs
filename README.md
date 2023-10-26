@@ -213,6 +213,10 @@
 - [Waypoint Docs](https://www.waypointproject.io/docs) - A tool to build, deploy, and release any application on any platform.`Community Owned Documentation`
 - [VaultProject Docs](https://www.vaultproject.io/docs) - A tool for secrets management, encryption as a service, and privileged access management.`Community Owned Documentation`
 - [Consul Docs](https://www.consul.io/docs) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.`Community Owned Documentation`
+- [Nomad Docs](https://www.nomadproject.io/docs) - An easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications.`Community Owned Documentation`
+- [Packer Docs](http://www.packer.io/docs) - An open-source tool for creating identical machine images for multiple platforms from a single source configuration. `Community Owned Documentation`
+- [Sentinel Docs](https://docs.hashicorp.com/sentinel) - A policy as code framework to enable fine-grained, logic-based policy decisions, including contextual attributes and dynamic data. `Community Owned Documentation`
+- [Boundary Docs](https://boundaryproject.io/docs/) - An open-source identity-based access management solution for teams.`Community Owned Documentation`
 
 <a name="ibm-open-source-documentation"/>
 
