@@ -3,6 +3,7 @@ import amazon from "./orderByAlphabet/amazon";
 import apache from "./orderByAlphabet/apache";
 import apple from "./orderByAlphabet/apple";
 import bridgecrew from "./orderByAlphabet/bridgecrew";
+import confluent from "./orderByAlphabet/confluent";
 import cryptocurrencies from "./orderByAlphabet/cryptocurrencies";
 import deltalake from "./orderByAlphabet/deltalake";
 import docker from "./orderByAlphabet/docker";
@@ -22,6 +23,7 @@ export default [
   amazon,
   apple,
   bridgecrew,
+  confluent,
   cryptocurrencies,
   docker,
   deltalake,
