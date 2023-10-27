@@ -197,7 +197,7 @@
 - [Spinnaker Docs](https://spinnaker.io/docs/) - Spinnaker is an open source, multi-cloud, continuous delivery platform started at Netflix. Google joined the project in 2014 and together we launched its open sourcing in November of 2015. - `Community Owned Docs`
 - [Upspin Docs](https://upspin.io/doc/) - Upspin is an experimental project to build a framework for naming and sharing files and other data securely, uniformly, and globally: a global name system of sorts. - `Company Owned Docs`
 - [V8 Docs](https://v8.dev/docs) - V8 is a JavaScript engine which can run standalone, or be embedded into any C++ application. It compiles JavaScript to machine code before executing it, handles memory allocation for objects, and garbage collects objects it no longer needs. - `Community Owned Docs`
-- [Vitess Docs](https://vitess.io/docs/) - Vitess is a distributed database which uses MySQL as backend. With Vitess, existing MySQL installations can be turned into a scalable and sharded distributed database while preserving advanced MySQL features e.g. transactions or the SQL language.
+- [Vitess Docs](https://vitess.io/docs/) - Vitess is a distributed database which uses MySQL as backend. With Vitess, existing MySQL installations can be turned into a scalable and sharded distributed database while preserving advanced MySQL features e.g. transactions or the SQL language. - `Community Owned Documentation`
 - [TensorFlow Docs](https://www.tensorflow.org/tutorials) - An Open Source Machine Learning Framework for Everyone. - `Community Owned Docs`
 - [OSV Docs](https://osv.dev/docs/) - OSV is a vulnerability database for open source projects. It exposes an API that lets users of these projects query whether or not their versions are impacted. - `Company Owned Docs`
 
