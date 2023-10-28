@@ -10,6 +10,7 @@ import docker from "./orderByAlphabet/docker";
 import dropbox from "./orderByAlphabet/dropbox";
 import elastic from "./orderByAlphabet/elastic";
 import facebook from "./orderByAlphabet/facebook";
+import hashicorp from "./orderByAlphabet/hashicorp";
 import ibm from "./orderByAlphabet/ibm";
 import jetbrains from "./orderByAlphabet/jetbrains";
 import linode from "./orderByAlphabet/linode";
@@ -30,9 +31,9 @@ export default [
   dropbox,
   elastic,
   facebook,
+  hashicorp,
   ibm,
   jetbrains,
   linode,
   loginradius,
   mayadata];
-
