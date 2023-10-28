@@ -17,6 +17,7 @@ import jetbrains from "./orderByAlphabet/jetbrains";
 import linode from "./orderByAlphabet/linode";
 import loginradius from "./orderByAlphabet/loginradius";
 import mayadata from "./orderByAlphabet/mayadata";
+import uber from "./orderByAlphabet/uber";
 
 
 export default [
