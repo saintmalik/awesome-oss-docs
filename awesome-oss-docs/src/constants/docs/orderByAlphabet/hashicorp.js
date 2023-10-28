@@ -8,21 +8,21 @@ export default {
       description: 'Infrastructure as Code (IaC) tool for building, changing, and versioning infrastructure.',
       projectUrl: 'https://www.terraform.io/docs/',
       githubUrl: 'https://github.com/hashicorp/terraform/tree/main/docs',
-      owner: 'Company Owned Documentation',
+      owner: 'Community Owned Documentation',
     },
     {
       title: 'Vault Docs',
       description: 'A tool for managing secrets and protecting sensitive data.',
       projectUrl: 'https://www.vaultproject.io/docs/',
       githubUrl: 'https://github.com/hashicorp/vault/tree/main/docs',
-      owner: 'Company Owned Documentation',
+      owner: 'Community Owned Documentation',
     },
     {
       title: 'Consul Docs',
       description: 'Service networking solution to connect and secure services across any runtime platform and public or private cloud.',
       projectUrl: 'https://www.consul.io/docs/',
       githubUrl: 'https://github.com/hashicorp/consul/tree/main/docs',
-      owner: 'Company Owned Documentation',
+      owner: 'Community Owned Documentation',
     },
     {
       title: 'Nomad Docs',
@@ -57,7 +57,7 @@ export default {
       description: 'A developer tool that makes it easier to build, deploy, and release applications.',
       projectUrl: 'https://waypointproject.io/docs/',
       githubUrl: 'https://github.com/hashicorp/waypoint/tree/main/docs/gen/',
-      owner: 'Company Owned Documentation',
+      owner: 'Community Owned Documentation',
     },
     {
       title: 'Sentinel Docs',
