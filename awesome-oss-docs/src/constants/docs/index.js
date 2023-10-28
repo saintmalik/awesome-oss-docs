@@ -10,6 +10,7 @@ import docker from "./orderByAlphabet/docker";
 import dropbox from "./orderByAlphabet/dropbox";
 import elastic from "./orderByAlphabet/elastic";
 import facebook from "./orderByAlphabet/facebook";
+import google from "./orderByAlphabet/google";
 import hashicorp from "./orderByAlphabet/hashicorp";
 import ibm from "./orderByAlphabet/ibm";
 import jetbrains from "./orderByAlphabet/jetbrains";
@@ -31,6 +32,7 @@ export default [
   dropbox,
   elastic,
   facebook,
+  google,
   hashicorp,
   ibm,
   jetbrains,
