@@ -187,29 +187,33 @@
 - [Fuchsia Docs](https://fuchsia.dev/fuchsia-src/development) - Fuchsia is an open-source operating system designed from the ground up for security and updatability. - `Community Owned Docs`
 - [gRPC Docs](https://grpc.io/docs/) - gRPC is a modern RPC framework that can run in any environment. It can efficiently connect services in and across data centers with pluggable support for load balancing, tracing, health checking and authentication. `Community Owned Docs`
 - [Istio Docs](https://istio.io/latest/docs/) - Istio is an open platform that provides a uniform way to connect, manage, and secure microservices. [Edit on GitHub](https://github.com/istio/istio.io/tree/master/content). - `Community Owned Docs`
-- [JanusGraph Docs](https://docs.janusgraph.org/) - JanusGraph is a scalable distributed graph database forked from the popular, but no longer maintained, project Titan. `Community Owned Docs`
-- [Knative Docs](https://knative.dev/docs/) - Knative components build on top of Kubernetes, abstracting away the complex details and enabling developers to focus on what matters. `Community Owned Docs`
-- [Kubeflow Docs](https://www.kubeflow.org/docs/) - Kubeflow is an open, community driven project to make it easy to deploy and manage an ML stack on Kubernetes. `Community Owned Docs`
-- [Kubernetes Docs](https://kubernetes.io/docs/home/) - Kubernetes is an open source container orchestration engine for automating deployment, scaling, and management of containerized applications. The open source project is hosted by the Cloud Native Computing Foundation (CNCF). `Community Owned Docs`
-- [Material UI](https://mui.com/material-ui/getting-started/) - Material UI is an open-source React component library that implements Google's Material Design. `Community Owned Documentation`
-- [OpenTelemetry Docs](https://opentelemetry.io/docs/) - OpenTelemetry provides a single set of APIs, libraries, agents, and collector services to capture distributed traces and metrics from your application. `Community Owned Docs`
-- [OpenTitan Docs](https://docs.opentitan.org/) - OpenTitan is the first open source project building a transparent, high-quality reference design and integration guidelines for silicon root of trust (RoT) chips. [Edit on GitHub](https://github.com/lowRISC/opentitan/tree/master/doc) `Community Owned Docs`
-- [Spinnaker Docs](https://spinnaker.io/docs/) - Spinnaker is an open source, multi-cloud, continuous delivery platform started at Netflix. Google joined the project in 2014 and together we launched its open sourcing in November of 2015. `Community Owned Docs`
-- [Upspin Docs](https://upspin.io/doc/) - Upspin is an experimental project to build a framework for naming and sharing files and other data securely, uniformly, and globally: a global name system of sorts. `Company Owned Docs`
-- [V8 Docs](https://v8.dev/docs) - V8 is a JavaScript engine which can run standalone, or be embedded into any C++ application. It compiles JavaScript to machine code before executing it, handles memory allocation for objects, and garbage collects objects it no longer needs. `Community Owned Docs`
-- [Vitess Docs](https://vitess.io/docs/) - Vitess is a distributed database which uses MySQL as backend. With Vitess, existing MySQL installations can be turned into a scalable and sharded distributed database while preserving advanced MySQL features e.g. transactions or the SQL language.
-- [TensorFlow Docs](https://www.tensorflow.org/tutorials) - An Open Source Machine Learning Framework for Everyone. `Community Owned Docs`
-- [OSV Docs](https://osv.dev/docs/) - OSV is a vulnerability database for open source projects. It exposes an API that lets users of these projects query whether or not their versions are impacted. `Company Owned Docs`
+- [JanusGraph Docs](https://docs.janusgraph.org/) - JanusGraph is a scalable distributed graph database forked from the popular, but no longer maintained, project Titan. - `Community Owned Docs`
+- [Knative Docs](https://knative.dev/docs/) - Knative components build on top of Kubernetes, abstracting away the complex details and enabling developers to focus on what matters. - `Community Owned Docs`
+- [Kubeflow Docs](https://www.kubeflow.org/docs/) - Kubeflow is an open, community driven project to make it easy to deploy and manage an ML stack on Kubernetes. - `Community Owned Docs`
+- [Kubernetes Docs](https://kubernetes.io/docs/home/) - Kubernetes is an open source container orchestration engine for automating deployment, scaling, and management of containerized applications. The open source project is hosted by the Cloud Native Computing Foundation (CNCF). - `Community Owned Docs`
+- [Material UI](https://mui.com/material-ui/getting-started/) - Material UI is an open-source React component library that implements Google's Material Design. - `Community Owned Documentation`
+- [OpenTelemetry Docs](https://opentelemetry.io/docs/) - OpenTelemetry provides a single set of APIs, libraries, agents, and collector services to capture distributed traces and metrics from your application. -`Community Owned Docs`
+- [OpenTitan Docs](https://docs.opentitan.org/) - OpenTitan is the first open source project building a transparent, high-quality reference design and integration guidelines for silicon root of trust (RoT) chips. [Edit on GitHub](https://github.com/lowRISC/opentitan/tree/master/doc) - `Community Owned Docs`
+- [Spinnaker Docs](https://spinnaker.io/docs/) - Spinnaker is an open source, multi-cloud, continuous delivery platform started at Netflix. Google joined the project in 2014 and together we launched its open sourcing in November of 2015. - `Community Owned Docs`
+- [Upspin Docs](https://upspin.io/doc/) - Upspin is an experimental project to build a framework for naming and sharing files and other data securely, uniformly, and globally: a global name system of sorts. - `Company Owned Docs`
+- [V8 Docs](https://v8.dev/docs) - V8 is a JavaScript engine which can run standalone, or be embedded into any C++ application. It compiles JavaScript to machine code before executing it, handles memory allocation for objects, and garbage collects objects it no longer needs. - `Community Owned Docs`
+- [Vitess Docs](https://vitess.io/docs/) - Vitess is a distributed database which uses MySQL as backend. With Vitess, existing MySQL installations can be turned into a scalable and sharded distributed database while preserving advanced MySQL features e.g. transactions or the SQL language. - `Community Owned Documentation`
+- [TensorFlow Docs](https://www.tensorflow.org/tutorials) - An Open Source Machine Learning Framework for Everyone. - `Community Owned Docs`
+- [OSV Docs](https://osv.dev/docs/) - OSV is a vulnerability database for open source projects. It exposes an API that lets users of these projects query whether or not their versions are impacted. - `Company Owned Docs`
 
 <a name="hashicorp-open-source-documentation"/>
 
 ## HashiCorp Open Source Documentation
 
-- [Terraform Docs](https://www.terraform.io/docs/) - Terraform Linode provider. `Community Owned Documentation`
-- [Vagrant Docs](https://www.vagrantup.com/docs) - Vagrant is a tool for building and distributing development environments. `Community Owned Documentation`
-- [Waypoint Docs](https://www.waypointproject.io/docs) - A tool to build, deploy, and release any application on any platform. `Community Owned Documentation`
-- [VaultProject Docs](https://www.vaultproject.io/docs) - A tool for secrets management, encryption as a service, and privileged access management. `Community Owned Documentation`
-- [Consul Docs](https://www.consul.io/docs) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure. `Community Owned Documentation`
+- [Terraform Docs](https://www.terraform.io/docs/) - Terraform Linode provider.`Community Owned Documentation`
+- [Vagrant Docs](https://www.vagrantup.com/docs) - Vagrant is a tool for building and distributing development environments.`Community Owned Documentation`
+- [Waypoint Docs](https://www.waypointproject.io/docs) - A tool to build, deploy, and release any application on any platform.`Community Owned Documentation`
+- [VaultProject Docs](https://www.vaultproject.io/docs) - A tool for secrets management, encryption as a service, and privileged access management.`Community Owned Documentation`
+- [Consul Docs](https://www.consul.io/docs) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.`Community Owned Documentation`
+- [Nomad Docs](https://www.nomadproject.io/docs) - An easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications.`Community Owned Documentation`
+- [Packer Docs](http://www.packer.io/docs) - An open-source tool for creating identical machine images for multiple platforms from a single source configuration. `Community Owned Documentation`
+- [Sentinel Docs](https://docs.hashicorp.com/sentinel) - A policy as code framework to enable fine-grained, logic-based policy decisions, including contextual attributes and dynamic data. `Community Owned Documentation`
+- [Boundary Docs](https://boundaryproject.io/docs/) - An open-source identity-based access management solution for teams.`Community Owned Documentation`
 
 <a name="ibm-open-source-documentation"/>
 
