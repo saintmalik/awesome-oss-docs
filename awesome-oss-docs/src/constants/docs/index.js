@@ -39,4 +39,6 @@ export default [
   jetbrains,
   linode,
   loginradius,
-  mayadata];
+  mayadata,
+  uber
+];
