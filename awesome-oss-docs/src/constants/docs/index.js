@@ -18,9 +18,11 @@ import linode from "./orderByAlphabet/linode";
 import loginradius from "./orderByAlphabet/loginradius";
 import mayadata from "./orderByAlphabet/mayadata";
 import samsung from './orderByAlphabet/samsung';
-import uber from "./orderByAlphabet/uber";
 import shopify from "./orderByAlphabet/shopify";
 import suse from "./orderByAlphabet/suse";
+import uber from "./orderByAlphabet/uber";
+import upbound from "./orderByAlphabet/upbound";
+
 
 export default [
   airbnb,
@@ -43,7 +45,8 @@ export default [
   loginradius,
   mayadata,
   samsung,
-  uber,
   shopify,
   suse,
+  uber,
+  upbound,
 ];
