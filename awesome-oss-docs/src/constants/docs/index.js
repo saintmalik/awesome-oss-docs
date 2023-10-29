@@ -17,6 +17,7 @@ import jetbrains from "./orderByAlphabet/jetbrains";
 import linode from "./orderByAlphabet/linode";
 import loginradius from "./orderByAlphabet/loginradius";
 import mayadata from "./orderByAlphabet/mayadata";
+import samsung from './orderByAlphabet/samsung';
 import uber from "./orderByAlphabet/uber";
 
 
@@ -40,5 +41,6 @@ export default [
   linode,
   loginradius,
   mayadata,
+  samsung,
   uber
 ];
