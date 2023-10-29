@@ -17,7 +17,7 @@ import jetbrains from "./orderByAlphabet/jetbrains";
 import linode from "./orderByAlphabet/linode";
 import loginradius from "./orderByAlphabet/loginradius";
 import mayadata from "./orderByAlphabet/mayadata";
-
+import upbound from "./orderByAlphabet/upbound";
 
 export default [
   airbnb,
@@ -38,4 +38,6 @@ export default [
   jetbrains,
   linode,
   loginradius,
-  mayadata];
+  mayadata,
+  upbound,
+];
