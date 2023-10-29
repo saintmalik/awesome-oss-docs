@@ -19,7 +19,8 @@ import loginradius from "./orderByAlphabet/loginradius";
 import mayadata from "./orderByAlphabet/mayadata";
 import samsung from './orderByAlphabet/samsung';
 import uber from "./orderByAlphabet/uber";
-
+import shopify from "./orderByAlphabet/shopify";
+import suse from "./orderByAlphabet/suse";
 
 export default [
   airbnb,
@@ -42,5 +43,7 @@ export default [
   loginradius,
   mayadata,
   samsung,
-  uber
+  uber,
+  shopify,
+  suse,
 ];
