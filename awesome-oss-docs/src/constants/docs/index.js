@@ -22,7 +22,7 @@ import shopify from "./orderByAlphabet/shopify";
 import suse from "./orderByAlphabet/suse";
 import uber from "./orderByAlphabet/uber";
 import upbound from "./orderByAlphabet/upbound";
-
+import twilio from "./orderByAlphabet/twilio";
 
 export default [
   airbnb,
@@ -47,6 +47,7 @@ export default [
   samsung,
   shopify,
   suse,
+  twilio,
   uber,
   upbound,
 ];
