@@ -20,6 +20,7 @@ import mayadata from "./orderByAlphabet/mayadata";
 import samsung from './orderByAlphabet/samsung';
 import shopify from "./orderByAlphabet/shopify";
 import suse from "./orderByAlphabet/suse";
+import tailwind from "./orderByAlphabet/tailwind";
 import twilio from "./orderByAlphabet/twilio";
 import twitter from "./orderByAlphabet/twitter";
 import uber from "./orderByAlphabet/uber";
@@ -48,6 +49,7 @@ export default [
   samsung,
   shopify,
   suse,
+  tailwind,
   twilio,
   twitter,
   uber,
