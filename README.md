@@ -403,7 +403,7 @@
 
 ## Twitter Open Source Documentation
 
-- [Pants](https://www.pantsbuild.org/docs) - Pants is a fast, scalable, user-friendly build system for codebases of all sizes. It's currently focused on Python and Shell, with support for other languages coming soon. `Community Owned Docs`
+- [Pants](https://www.pantsbuild.org/docs) - Pants is a fast, scalable, user-friendly build system for codebases of all sizes. It's currently focused on Python and Shell, with support for other languages coming soon. [Edit this on GitHub](https://github.com/pantsbuild/pants/tree/main/docs) -`Community Owned Docs`
 
 <a name="uber-open-source-documentation"/>
 

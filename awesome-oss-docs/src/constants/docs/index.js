@@ -20,6 +20,7 @@ import mayadata from "./orderByAlphabet/mayadata";
 import samsung from './orderByAlphabet/samsung';
 import shopify from "./orderByAlphabet/shopify";
 import suse from "./orderByAlphabet/suse";
+import twitter from "./orderByAlphabet/twitter";
 import uber from "./orderByAlphabet/uber";
 import upbound from "./orderByAlphabet/upbound";
 
@@ -47,6 +48,7 @@ export default [
   samsung,
   shopify,
   suse,
+  twitter,
   uber,
   upbound,
 ];
