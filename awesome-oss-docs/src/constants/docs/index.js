@@ -20,9 +20,10 @@ import mayadata from "./orderByAlphabet/mayadata";
 import samsung from './orderByAlphabet/samsung';
 import shopify from "./orderByAlphabet/shopify";
 import suse from "./orderByAlphabet/suse";
+import twilio from "./orderByAlphabet/twilio";
+import twitter from "./orderByAlphabet/twitter";
 import uber from "./orderByAlphabet/uber";
 import upbound from "./orderByAlphabet/upbound";
-import twilio from "./orderByAlphabet/twilio";
 
 export default [
   airbnb,
@@ -48,6 +49,7 @@ export default [
   shopify,
   suse,
   twilio,
+  twitter,
   uber,
   upbound,
 ];
