@@ -29,6 +29,7 @@ import twilio from "./orderByAlphabet/twilio";
 import twitter from "./orderByAlphabet/twitter";
 import uber from "./orderByAlphabet/uber";
 import upbound from "./orderByAlphabet/upbound";
+import puppet from "./orderByAlphabet/puppet";
 
 export default [
   airbnb,
@@ -62,4 +63,5 @@ export default [
   twitter,
   uber,
   upbound,
+  puppet,
 ];
