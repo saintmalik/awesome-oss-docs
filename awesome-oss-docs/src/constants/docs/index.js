@@ -30,6 +30,7 @@ import twitter from "./orderByAlphabet/twitter";
 import uber from "./orderByAlphabet/uber";
 import upbound from "./orderByAlphabet/upbound";
 import puppet from "./orderByAlphabet/puppet";
+import python from "./orderByAlphabet/python";
 
 export default [
   airbnb,
@@ -64,4 +65,5 @@ export default [
   uber,
   upbound,
   puppet,
+  python,
 ];
