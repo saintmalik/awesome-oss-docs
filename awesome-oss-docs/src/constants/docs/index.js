@@ -32,6 +32,7 @@ import uber from "./orderByAlphabet/uber";
 import upbound from "./orderByAlphabet/upbound";
 import puppet from "./orderByAlphabet/puppet";
 import python from "./orderByAlphabet/python";
+import microsoft from "./orderByAlphabet/microsoft";
 
 export default [
   airbnb,
@@ -54,6 +55,7 @@ export default [
   linode,
   loginradius,
   mayadata,
+  microsoft,
   netflix,
   netlify,
   ory,
@@ -67,5 +69,5 @@ export default [
   uber,
   upbound,
   puppet,
-  python,
+  python, 
 ];
