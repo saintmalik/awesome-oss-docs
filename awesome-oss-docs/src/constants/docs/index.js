@@ -21,6 +21,7 @@ import mayadata from "./orderByAlphabet/mayadata";
 import netlify from "./orderByAlphabet/netlify";
 import samsung from "./orderByAlphabet/samsung";
 import shopify from "./orderByAlphabet/shopify";
+import slackhq from "./orderByAlphabet/slackhq";
 import suse from "./orderByAlphabet/suse";
 import tailwind from "./orderByAlphabet/tailwind";
 import twilio from "./orderByAlphabet/twilio";
@@ -52,6 +53,7 @@ export default [
   netlify,
   samsung,
   shopify,
+  slackhq,
   suse,
   tailwind,
   twilio,
