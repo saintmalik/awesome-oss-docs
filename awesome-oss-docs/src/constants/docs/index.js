@@ -17,7 +17,8 @@ import jetbrains from "./orderByAlphabet/jetbrains";
 import linode from "./orderByAlphabet/linode";
 import loginradius from "./orderByAlphabet/loginradius";
 import mayadata from "./orderByAlphabet/mayadata";
-import samsung from './orderByAlphabet/samsung';
+import netlify from "./orderByAlphabet/netlify";
+import samsung from "./orderByAlphabet/samsung";
 import shopify from "./orderByAlphabet/shopify";
 import suse from "./orderByAlphabet/suse";
 import twilio from "./orderByAlphabet/twilio";
@@ -45,6 +46,7 @@ export default [
   linode,
   loginradius,
   mayadata,
+  netlify,
   samsung,
   shopify,
   suse,
