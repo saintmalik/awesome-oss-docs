@@ -11,6 +11,7 @@ import dropbox from "./orderByAlphabet/dropbox";
 import elastic from "./orderByAlphabet/elastic";
 import facebook from "./orderByAlphabet/facebook";
 import google from "./orderByAlphabet/google";
+import guild from "./orderByAlphabet/theguild";
 import hashicorp from "./orderByAlphabet/hashicorp";
 import ibm from "./orderByAlphabet/ibm";
 import jetbrains from "./orderByAlphabet/jetbrains";
@@ -40,6 +41,7 @@ export default [
   elastic,
   facebook,
   google,
+  guild,
   hashicorp,
   ibm,
   jetbrains,
