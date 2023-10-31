@@ -20,6 +20,7 @@ import loginradius from "./orderByAlphabet/loginradius";
 import mayadata from "./orderByAlphabet/mayadata";
 import netflix from "./orderByAlphabet/netflix";
 import netlify from "./orderByAlphabet/netlify";
+import salesforce from "./orderByAlphabet/salesforce";
 import samsung from "./orderByAlphabet/samsung";
 import shopify from "./orderByAlphabet/shopify";
 import slackhq from "./orderByAlphabet/slackhq";
@@ -55,6 +56,7 @@ export default [
   mayadata,
   netflix,
   netlify,
+  salesforce,
   samsung,
   shopify,
   slackhq,
