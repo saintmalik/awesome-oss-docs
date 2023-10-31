@@ -20,6 +20,7 @@ import loginradius from "./orderByAlphabet/loginradius";
 import mayadata from "./orderByAlphabet/mayadata";
 import netflix from "./orderByAlphabet/netflix";
 import netlify from "./orderByAlphabet/netlify";
+import ory from "./orderByAlphabet/ory";
 import salesforce from "./orderByAlphabet/salesforce";
 import samsung from "./orderByAlphabet/samsung";
 import shopify from "./orderByAlphabet/shopify";
@@ -32,6 +33,7 @@ import uber from "./orderByAlphabet/uber";
 import upbound from "./orderByAlphabet/upbound";
 import puppet from "./orderByAlphabet/puppet";
 import python from "./orderByAlphabet/python";
+import microsoft from "./orderByAlphabet/microsoft";
 
 export default [
   airbnb,
@@ -54,9 +56,11 @@ export default [
   linode,
   loginradius,
   mayadata,
+  microsoft,
   netflix,
   netlify,
-  salesforce,
+  ory,
+  sales force,
   samsung,
   shopify,
   slackhq,
@@ -67,5 +71,5 @@ export default [
   uber,
   upbound,
   puppet,
-  python,
+  python, 
 ];
