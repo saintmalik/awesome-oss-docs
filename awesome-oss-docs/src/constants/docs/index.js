@@ -60,7 +60,7 @@ export default [
   netflix,
   netlify,
   ory,
-  sales force,
+  salesforce,
   samsung,
   shopify,
   slackhq,
