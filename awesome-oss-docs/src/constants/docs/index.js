@@ -21,6 +21,7 @@ import mayadata from "./orderByAlphabet/mayadata";
 import netflix from "./orderByAlphabet/netflix";
 import netlify from "./orderByAlphabet/netlify";
 import ory from "./orderByAlphabet/ory";
+import redhat from './orderByAlphabet/redhat';
 import salesforce from "./orderByAlphabet/salesforce";
 import samsung from "./orderByAlphabet/samsung";
 import shopify from "./orderByAlphabet/shopify";
@@ -60,7 +61,8 @@ export default [
   netflix,
   netlify,
   ory,
-  sales force,
+  redhat,
+  salesforce,
   samsung,
   shopify,
   slackhq,
