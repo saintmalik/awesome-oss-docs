@@ -22,7 +22,7 @@ const SearchFilter = () => {
       {/* Filter Bar */}
       <div className="flex flex-1 items-center bg-white-500 rounded-lg border border-gray-500 p-2">
         <select
-          className="w-full outline-none border-none text-gray-500"
+          className="w-full outline-none border-none text-white-500"
           value={selectedFilter}
           onChange={(e) => setSelectedFilter(e.target.value)}
         >
