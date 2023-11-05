@@ -1,22 +1,22 @@
-import React from 'react'
-import Header from './Header'
-import Card from './card'
-import SearchFilter from './searchFilter'
+import React from 'react';
+import Header from './Header';
+import Card from './Card';
+import SearchFilter from './SearchFilter';
 
 const Home = () => {
   return (
-    <>
-      <div className='bg-bgColor h-screen w-screen py-7 px-40'>
-        <Header />
+    <div className="bg-white min-h-screen py-7 px-4 md:px-10 lg:px-20">
+      <Header />
+      <div className="container mx-auto">
+        <div className="py-7 md:py-10 lg:py-16">
+          <SearchFilter />
+        </div>
+        <div>
+          <Card />
+        </div>
       </div>
-      <div className='w-screen py-7 px-40'>
-        <SearchFilter />
-      </div>
-      <div>
-        <Card />
-      </div>
-    </>
-  )
-}
+    </div>
+  );
+};
 
-export default Home
+export default Home;
