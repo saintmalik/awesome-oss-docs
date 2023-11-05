@@ -6,7 +6,7 @@ import logo from "../component/imgs/logo.svg";
 
 export default function Card() {
   const onGoToClick = (url) => {
-    window.open(url, "_blank"); // Open the URL in a new tab
+    window.open(url, "_blank"); 
   };
 
   // Check if docs is not undefined or null before mapping over it

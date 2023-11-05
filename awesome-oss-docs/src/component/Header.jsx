@@ -22,7 +22,7 @@ const Header = () => {
               text="Youtube"
             />
             <SocialMediaLink
-              icon={<BsGithub className="text-xl" />}
+              icon={<BsGithub className="text-2xl" />}
               text="Github"
             />
           </div>
@@ -46,7 +46,7 @@ const MobileMenu = () => (
       <BsDiscord className="mr-2" />
       <BsTwitter className="mr-2" />
       <BsYoutube className="mr-2" />
-      <BsGithub />
+      <BsGithub className="mr-2"/>
     </button>
   </div>
 );
