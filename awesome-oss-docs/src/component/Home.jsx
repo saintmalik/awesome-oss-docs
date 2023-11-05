@@ -1,7 +1,7 @@
 import React from 'react';
 import Header from './Header';
 import Card from './card';
-import SearchFilter from './SearchFilter';
+import SearchFilter from './searchFilter';
 
 const Home = () => {
   return (
