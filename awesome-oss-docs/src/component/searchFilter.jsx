@@ -1,45 +1,30 @@
 import React, { useState } from 'react';
-import SearchIcon from './imgs/search.svg';
 
-const App = () => {
+const SearchFilter = () => {
   const [searchText, setSearchText] = useState('');
   const [selectedFilter, setSelectedFilter] = useState('all');
 
-//   const handleSearch = () => {
-//     // Implement your search logic here
-//     console.log(`Searching for "${searchText}" with filter "${selectedFilter}"`);
-//   };
-
   return (
-    <div style={{ display: 'flex', alignItems: 'center', gap: '50px', maxWidth: '100%' }}>
+    <div className="flex items-center justify-between gap-4 max-w-screen-xl mx-auto px-4 md:px-8">
       {/* Search Bar */}
-      <div style={{ flex: 1, display: 'flex', alignItems: 'center', borderRadius: '7px', border: '1px solid #000', padding: '7px' }}>
-        <div style={{ position: 'relative', display: 'flex', alignItems: 'center', width: '100%' }}>
-          {searchText === '' && (
-            <img
-              src={SearchIcon}
-              alt="Search"
-              style={{ width: '15px', marginRight: '5px' }}
-            />
-          )}
+      <div className="flex flex-1 items-center bg-white-500 rounded-lg border border-gray-500 p-2">
+        <div className="relative flex items-center w-full">
           <input
             type="text"
-            className="form-control"
-            placeholder={searchText ? '' : 'Search'}
+            className="flex flex-grow outline-none border-none bg-white-500" 
+            placeholder={'🔍Search'}
             value={searchText}
             onChange={(e) => setSearchText(e.target.value)}
-            style={{ flex: 1, border: 'none', outline: 'none' }}
           />
         </div>
       </div>
 
       {/* Filter Bar */}
-      <div style={{ flex: 1, display: 'flex', alignItems: 'center', borderRadius: '7px', border: '1px solid #000', padding: '7px' }}>
+      <div className="flex flex-1 items-center bg-white-500 rounded-lg border border-gray-500 p-2">
         <select
-          className="form-select"
+          className="w-full outline-none border-none text-white-500"
           value={selectedFilter}
           onChange={(e) => setSelectedFilter(e.target.value)}
-          style={{ flex: 1, border: 'none', outline: 'none', marginLeft: 'auto', color: '#A9A9A9'}}
         >
           <option value="all">Filter</option>
           <option value="option1">Option 1</option>
@@ -51,4 +36,4 @@ const App = () => {
   );
 };
 
-export default App;
+export default SearchFilter;
