@@ -2,7 +2,7 @@ import { BsDiscord, BsGithub, BsTwitter, BsYoutube } from 'react-icons/bs';
 
 const Header = () => {
   return (
-    <div className="bg-blue-700 p-4 md:p-8 lg:p-12">
+    <div className="bg-bgColor p-4 md:p-8 lg:p-12">
       <div className="container mx-auto">
         <div className="flex items-center justify-between">
           <div className="text-4xl md:text-5xl lg:text-6xl text-white font-bold">
