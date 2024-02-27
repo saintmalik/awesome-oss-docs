@@ -37,6 +37,7 @@
 - [SUSE Open Source Documentation](#suse-open-source-documentation)
 - [Tailwind Open Source Documentation](#tailwind-open-source-documentation)
 - [The Guild Open Source Documentation](#the-guild-open-source-documentation)
+- [The Good Docs Project Documentation](#the-good-docs-project-documentation)
 - [Twilio Open Source Documentation](#twilio-open-source-documentation)
 - [Twitter Open Source Documentation](#twitter-open-source-documentation)
 - [Uber Open Source Documentation](#uber-open-source-documentation)
@@ -367,7 +368,7 @@
 - [Slack Node SDK Docs](https://slack.dev/node-slack-sdk) - Slack Developer Kit for Node.js. `Company Owned Docs`
 - [Slack Hubot Docs](https://slack.dev/hubot-slack/) - Slack Developer Kit for Hubot. `Company Owned Docs`
 
-<a name="suse-open-source-documentation">
+<a name="suse-open-source-documentation"/>
 
 ## SUSE Open Source Documentation
 
@@ -381,6 +382,12 @@
 ## Tailwind Open Source Documentation
 
 - [Tailwind Docs](https://v2.tailwindcss.com/docs/installation) - Tailwind is a utility-first CSS framework packed with classes like flex, pt-4, text-center and rotate-90 that can be composed to build any design, directly in your markup. [GitHub Docs Location](https://github.com/tailwindlabs/tailwindcss). `Community Owned Docs`
+
+<a name="the-good-docs-project-documentation"/>
+
+## The Good Docs Project Documentation
+
+- [The Good Docs Project](https://thegooddocsproject.dev/) - Open source project creating best practice templates and writing instructions for documenting software.
 
 <a name="the-guild-open-source-documentation"/>
 
